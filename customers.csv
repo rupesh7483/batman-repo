@@ -1,0 +1,1005 @@
+customer_id,first_name,last_name,email,phone,gender,date_of_birth,signup_date,customer_segment,loyalty_tier,location_id,marketing_opt_in
+C000001,Atharv,Roy,atharv.roy1@gmail.com,+91-8973995879,Male,1970-10-27,2022-08-22,Retail,Gold,L00251,Y
+C000002,Robert,Naidu,robert.naidu2@outlook.com,+91-7991958094,Other,1994-04-28,2025-11-15,Online,Bronze,L00300,Y
+C000003,Isha,Williams,isha.williams3@yahoo.com,+91-9988627974,Female,1998-04-13,2022-09-17,Corporate,Platinum,L00237,N
+C000004,Vivaan,Williams,vivaan.williams4@gmail.com,+91-8927560354,Prefer not to say,2008-04-17,2025-08-22,Enterprise,Platinum,L00308,N
+C000005,Pranav,Hegde,pranav.hegde5@outlook.com,+91-8744816849,Other,1989-04-17,2021-03-06,SMB,,L00313,Y
+C000006,Ramesh,D Souza,ramesh.dsouza6@company.com,+1-953-970-1935,Other,1982-05-30,2024-02-08,Online,Platinum,L00112,N
+C000007,Ritika,Miller,,+91-8249471254,Other,2005-09-19,2021-09-28,Corporate,,L00244,N
+C000008,Diya,Gupta,diya.gupta8@example.org,+91-7880696406,Male,1994-04-18,2025-05-22,SMB,Gold,L00257,Y
+C000009,Vivaan,Brown,vivaan.brown9@gmail.com,+91-8175472941,Other,1967-08-18,2023-04-17,Enterprise,Silver,L00224,N
+C000010,Rahul,Kapoor,rahul.kapoor10@company.com,+91-9065432871,Male,1992-09-20,2025-11-20,Online,Platinum,L00151,N
+C000011,Michael,Mehta,michael.mehta11@gmail.com,+1-465-463-1264,Male,1997-03-22,2024-01-12,Enterprise,Bronze,L00362,Y
+C000012,Suresh,Taylor,suresh.taylor12@yahoo.com,+1-897-625-2169,Other,1977-09-13,2025-11-29,Enterprise,Gold,L00437,N
+C000013,Amit,Verma,amit.verma13@outlook.com,+91-7953129669,Other,1992-04-27,2021-08-06,Enterprise,,L00027,Y
+C000014,Ishaan,Hegde,ishaan.hegde14@gmail.com,+1-429-778-9249,Male,1997-11-19,2024-01-09,Online,,L00429,N
+C000015,Advait,Taylor,advait.taylor15@yahoo.com,+1-536-448-6930,Female,1979-02-14,2023-07-23,Enterprise,Gold,L00237,Y
+C000016,Priya,Reddy,priya.reddy16@yahoo.com,+91-8983140192,Female,1983-10-16,2025-05-30,Corporate,Platinum,L00460,Y
+C000017,Olivia,Roy,olivia.roy17@yahoo.com,+91-7267063543,Female,1971-08-29,2023-11-01,Enterprise,Bronze,L00432,Y
+C000018,Rohan,Wilson,rohan.wilson18@company.com,+91-7414114466,Prefer not to say,1995-12-15,2021-02-19,SMB,Silver,L00442,N
+C000019,Kabir,Roy,kabir.roy19@gmail.com,+91-9702454124,Prefer not to say,1967-01-12,2025-01-19,Enterprise,Platinum,L00111,N
+C000020,John,Ahmed,,+91-8931876764,Prefer not to say,2005-03-05,2021-11-08,Enterprise,Silver,L00086,N
+C000021,Reyansh,Mehta,reyansh.mehta21@yahoo.com,+91-7158283941,Female,1979-06-25,2022-08-08,Corporate,Platinum,L00437,N
+C000022,Nandini,Banerjee,nandini.banerjee22@gmail.com,+91-7542625538,Other,1986-10-31,2022-07-15,SMB,,L00295,Y
+C000023,Zoya,Das,zoya.das23@outlook.com,+91-8809376676,Female,,2021-02-26,Retail,Gold,L00173,Y
+C000024,Ritika,D Souza,ritika.dsouza24@company.com,+91-9723169486,Male,1969-12-01,2026-02-24,Enterprise,Platinum,L00303,N
+C000025,Krishna,Das,krishna.das25@gmail.com,+1-280-962-4644,Male,1972-01-12,2022-11-01,SMB,Bronze,L00077,N
+C000026,Michael,Miller,,+91-8829096655,Prefer not to say,1993-02-20,2024-07-23,Corporate,Silver,L00037,N
+C000027,Anika,Kumar,anika.kumar27@company.com,+91-7650693200,Prefer not to say,2003-06-14,2023-11-24,Online,,L00091,Y
+C000028,Aditya,Fernandes,aditya.fernandes28@yahoo.com,+91-9067786532,Female,1980-08-23,2024-07-30,Corporate,Gold,L00241,N
+C000029,Lakshmi,Thomas,lakshmi.thomas29@example.org,+91-8576048720,Other,1970-01-16,2022-03-25,Enterprise,Gold,L00099,Y
+C000030,Ayaan,Kumar,ayaan.kumar30@company.com,+1-876-316-6694,Prefer not to say,1970-09-30,2024-12-14,Corporate,Bronze,L00408,N
+C000031,Pranav,Fernandes,pranav.fernandes31@gmail.com,+91-8059044289,Other,1982-07-23,2023-04-23,SMB,Platinum,L00326,Y
+C000032,Isabella,Gupta,isabella.gupta32@yahoo.com,+91-7725185039,Other,1974-04-02,2024-01-03,Online,Bronze,L00171,Y
+C000033,Sai,Rao,sai.rao33@yahoo.com,+91-8811718318,Female,1974-06-11,2023-11-29,Enterprise,Silver,L00051,N
+C000034,Nikhil,Rao,,+91-9402942598,Male,2002-12-05,2021-03-15,Enterprise,Bronze,L00014,Y
+C000035,Vivaan,Mehta,vivaan.mehta35@outlook.com,+91-9457326206,Other,1982-12-23,2024-09-04,Retail,Bronze,L00387,N
+C000036,Robert,Davis,robert.davis36@example.org,+1-297-953-7408,Prefer not to say,1992-03-03,2025-08-30,Retail,Gold,L00199,N
+C000037,Reyansh,Kapoor,reyansh.kapoor37@example.org,+91-7954366299,Other,2008-05-16,2022-04-01,Online,,L00096,Y
+C000038,Anika,Thomas,anika.thomas38@yahoo.com,+91-9341524195,Female,1990-12-03,2022-04-04,Enterprise,,L00464,Y
+C000039,Ramesh,Singh,ramesh.singh39@gmail.com,+91-7554637221,Prefer not to say,1976-03-19,2024-04-30,Online,Silver,L00502,Y
+C000040,Rohan,Fernandes,rohan.fernandes40@yahoo.com,+91-9733929741,Male,1995-11-28,2022-10-21,Corporate,,L00038,N
+C000041,Suresh,Chopra,suresh.chopra41@yahoo.com,+91-8582677427,Female,1969-09-18,2026-03-02,Corporate,,L00084,Y
+C000042,Meera,Khan,meera.khan42@gmail.com,+1-707-374-9594,Male,1998-08-07,2021-10-14,Enterprise,Gold,L00499,N
+C000043,Nandini,Shetty,nandini.shetty43@example.org,+91-7463748036,Other,1992-07-17,2025-07-03,Corporate,Gold,L00210,Y
+C000044,Michael,Johnson,michael.johnson44@gmail.com,+91-7587229706,Male,1965-04-02,2021-05-18,SMB,Bronze,L00482,Y
+C000045,Aishwarya,Yadav,aishwarya.yadav45@gmail.com,+91-8832239626,Prefer not to say,1965-08-20,2024-07-11,SMB,Gold,L00354,N
+C000046,Sneha,Davis,sneha.davis46@outlook.com,+91-7499423497,Prefer not to say,1972-12-31,2022-07-28,Online,,L00222,N
+C000047,Robert,Johnson,robert.johnson47@outlook.com,+91-9566940386,Female,2006-09-12,2021-07-07,Retail,Gold,L00222,Y
+C000048,Vihaan,Ahmed,vihaan.ahmed48@example.org,+1-635-880-8728,Prefer not to say,1987-06-13,2022-09-12,Enterprise,Platinum,L00335,N
+C000049,Neha,Banerjee,neha.banerjee49@example.org,+91-8983738036,Prefer not to say,2002-05-24,2024-07-21,Enterprise,Gold,L00171,Y
+C000050,Kavya,Naidu,kavya.naidu50@outlook.com,+91-8198271089,Female,1984-01-10,2025-01-31,Corporate,Bronze,L00355,Y
+C000051,Neha,Mishra,neha.mishra51@gmail.com,,Other,1976-05-20,2026-02-19,SMB,Platinum,L00378,N
+C000052,John,Kapoor,john.kapoor52@yahoo.com,+91-8874913988,Male,1993-05-12,2024-05-29,Retail,,L00483,Y
+C000053,Atharv,Ahmed,atharv.ahmed53@gmail.com,+91-9771525653,Other,1993-08-06,2023-06-28,Corporate,,L00058,Y
+C000054,Sara,Banerjee,sara.banerjee54@outlook.com,+1-800-939-7000,Male,1983-02-01,2024-09-22,Online,Silver,L00015,N
+C000055,Meera,Gupta,meera.gupta55@yahoo.com,+91-9256776252,Male,1993-07-01,2021-12-21,Online,Gold,L00420,Y
+C000056,Ritika,Iyer,ritika.iyer56@example.org,+1-290-319-2483,Male,1968-11-16,2025-02-03,Retail,Silver,L00187,N
+C000057,David,Chopra,david.chopra57@yahoo.com,+1-857-395-3174,Female,1982-01-06,2021-04-20,Enterprise,Silver,L00318,Y
+C000058,Advait,Kumar,advait.kumar58@yahoo.com,+91-8440444674,Prefer not to say,1980-12-06,2023-10-01,Corporate,Bronze,L00095,N
+C000059,Ritika,Joshi,ritika.joshi59@company.com,+91-9657199393,Other,1980-05-08,2022-03-01,Corporate,Gold,L00296,Y
+C000060,Aditya,Khan,aditya.khan60@example.org,+91-7610872286,Male,1991-04-29,2023-08-15,Retail,Gold,L00144,Y
+C000061,Saanvi,Rao,saanvi.rao61@yahoo.com,+91-7328334525,Male,1972-04-20,2022-09-20,Online,Platinum,L00367,N
+C000062,Saanvi,Chopra,saanvi.chopra62@yahoo.com,+91-8969154286,Female,1982-12-30,2024-10-21,Online,Bronze,L00495,N
+C000063,Rahul,Taylor,rahul.taylor63@company.com,+91-7537477135,Female,1978-06-26,2026-03-04,Online,Silver,L00171,Y
+C000064,Olivia,Patel,olivia.patel64@gmail.com,,Female,1982-10-06,2023-07-29,Corporate,Gold,L00355,N
+C000065,Kabir,Joshi,kabir.joshi65@company.com,+91-7801930203,Prefer not to say,1986-05-31,2021-01-11,Enterprise,Platinum,L00384,N
+C000066,James,Nair,james.nair66@company.com,+91-9500327501,Prefer not to say,1979-09-04,2025-05-03,Online,Bronze,L00410,N
+C000067,Robert,Anderson,robert.anderson67@gmail.com,+91-8994033351,Prefer not to say,1981-04-02,2023-01-26,Corporate,Silver,L00241,N
+C000068,Pranav,Ghosh,pranav.ghosh68@company.com,+91-8258595726,Prefer not to say,1971-10-06,2023-05-22,Enterprise,Silver,L00185,Y
+C000069,Neha,Nair,,+1-554-902-2661,Prefer not to say,2001-03-13,2025-07-04,Retail,Platinum,L00415,N
+C000070,Vihaan,Ghosh,vihaan.ghosh70@company.com,+91-9077825198,Other,1981-09-22,2023-10-26,Corporate,Platinum,L00462,N
+C000071,Sai,Singh,sai.singh71@gmail.com,+91-9318587352,Prefer not to say,1988-02-06,2022-02-09,Enterprise,Gold,L00265,Y
+C000072,Anika,Smith,anika.smith72@yahoo.com,+91-8963899966,Male,1984-02-05,2022-06-01,Corporate,Gold,L00379,N
+C000073,Meera,Banerjee,meera.banerjee73@yahoo.com,+91-8952224638,Female,1966-08-23,2025-02-07,Retail,Silver,L00366,Y
+C000074,Kavya,Das,kavya.das74@yahoo.com,+1-905-832-4999,Male,1968-06-07,2021-03-25,Retail,Gold,L00470,N
+C000075,Vivaan,Kumar,vivaan.kumar75@yahoo.com,+91-9433620391,Other,2000-08-08,2021-08-27,Online,Silver,L00444,Y
+C000076,Saanvi,Joshi,saanvi.joshi76@company.com,+91-9257234341,Female,1995-02-13,2023-10-25,SMB,Bronze,L00284,N
+C000077,Olivia,Fernandes,olivia.fernandes77@outlook.com,+91-8515388522,Female,1974-12-06,2021-07-18,SMB,,L00326,N
+C000078,Lakshmi,Rao,lakshmi.rao78@example.org,+91-8827311647,Prefer not to say,1979-05-05,2022-11-29,Enterprise,Silver,L00352,Y
+C000079,Rohan,Thomas,rohan.thomas79@gmail.com,+91-8872020303,Other,1980-06-28,2024-02-24,SMB,Platinum,L00499,N
+C000080,Nandini,Anderson,nandini.anderson80@outlook.com,+91-8851066561,Prefer not to say,1966-01-19,2025-04-16,Enterprise,,L00426,Y
+C000081,Ayaan,Nair,ayaan.nair81@company.com,+91-7362584808,Prefer not to say,2003-10-19,2022-01-01,SMB,Silver,L00297,N
+C000082,Rahul,Banerjee,rahul.banerjee82@yahoo.com,+91-9176592984,Prefer not to say,1989-01-10,2023-10-26,Enterprise,Gold,L00326,N
+C000083,Atharv,Thomas,atharv.thomas83@yahoo.com,+91-9719353785,Prefer not to say,1972-09-23,2024-09-05,Enterprise,Silver,L00476,Y
+C000084,Krishna,Jones,krishna.jones84@gmail.com,+91-9399163578,Prefer not to say,1992-05-10,2022-10-28,SMB,Bronze,L00024,N
+C000085,Advait,Yadav,advait.yadav85@company.com,+91-9866041367,Female,2007-01-15,2023-08-26,Retail,Silver,L00180,N
+C000086,Sara,Brown,sara.brown86@outlook.com,+1-672-712-2821,Male,,2025-11-22,Retail,Platinum,L00340,N
+C000087,Arjun,Fernandes,arjun.fernandes87@yahoo.com,+1-750-323-9751,Prefer not to say,1986-07-27,2023-06-18,Retail,Gold,L00025,N
+C000088,Priya,Brown,priya.brown88@company.com,+1-306-349-5300,Female,1972-07-31,2025-01-18,Enterprise,Silver,L00115,N
+C000089,Fatima,Reddy,fatima.reddy89@company.com,+1-703-970-5009,Prefer not to say,1978-04-01,2022-12-03,Online,Gold,L00267,Y
+C000090,Ishaan,Miller,ishaan.miller90@yahoo.com,+91-9884158608,Other,1978-01-24,2025-01-01,Enterprise,Gold,L00372,Y
+C000091,John,Ahmed,john.ahmed91@outlook.com,+91-9815260361,Other,1975-03-24,2024-07-28,Retail,Gold,L00264,N
+C000092,Robert,Miller,robert.miller92@company.com,+91-9949132335,Other,1971-12-29,2024-08-11,Enterprise,Silver,L00353,N
+C000093,Ananya,Sharma,ananya.sharma93@gmail.com,+91-8013537057,Male,1977-06-26,2021-11-04,SMB,Platinum,L00230,N
+C000094,Lakshmi,Sharma,lakshmi.sharma94@example.org,+1-959-407-6956,Male,1993-02-05,2023-03-28,Online,,L00034,Y
+C000095,Vihaan,Brown,vihaan.brown95@example.org,+91-7801843563,Prefer not to say,2007-01-01,2024-11-13,Online,Gold,L00188,N
+C000096,Advait,Reddy,advait.reddy96@outlook.com,+91-7199437227,Male,1991-04-10,2022-05-15,Retail,Gold,L00234,Y
+C000097,Ayaan,Brown,ayaan.brown97@gmail.com,,Prefer not to say,1986-11-09,2024-05-10,Retail,Platinum,L00221,Y
+C000098,Lakshmi,Smith,lakshmi.smith98@gmail.com,+91-8334288820,Other,1993-04-24,2023-10-06,SMB,Gold,L00278,Y
+C000099,Sara,Wilson,sara.wilson99@example.org,+91-8441924610,Prefer not to say,1965-04-17,2023-09-26,Corporate,Bronze,L00187,N
+C000100,Reyansh,Brown,reyansh.brown100@yahoo.com,+91-8764833941,Other,1969-11-17,2025-05-14,Online,Platinum,L00199,Y
+C000101,Nandini,Joshi,nandini.joshi101@example.org,+91-8060930498,Female,1982-10-10,2025-04-19,Online,Platinum,L00197,N
+C000102,Rahul,Mehta,rahul.mehta102@yahoo.com,+91-9805749795,Other,1978-09-27,2021-10-24,Enterprise,,L00380,N
+C000103,Aarav,Thomas,,+1-562-861-3292,Female,1977-04-20,2025-04-20,SMB,Gold,L00468,N
+C000104,Kavya,Hegde,kavya.hegde104@yahoo.com,+91-9421636142,Male,1987-07-25,2024-06-18,SMB,Platinum,L00221,N
+C000105,Aditya,Hegde,aditya.hegde105@company.com,+91-8988086823,Other,1969-07-20,2021-05-02,SMB,Bronze,L00385,N
+C000106,Robert,Reddy,robert.reddy106@yahoo.com,+1-950-623-3486,Prefer not to say,1978-05-29,2024-04-22,Online,,L00155,N
+C000107,Isabella,Roy,isabella.roy107@gmail.com,+91-9522818913,Female,1981-03-16,2025-10-14,Enterprise,Silver,L00322,N
+C000108,Advait,Kapoor,advait.kapoor108@yahoo.com,+91-7075828385,Male,1983-06-06,2024-08-08,Retail,,L00123,N
+C000109,Kavya,Gupta,kavya.gupta109@example.org,+1-534-751-9061,Male,1979-12-22,2024-03-23,Retail,,L00290,Y
+C000110,Sai,Taylor,sai.taylor110@company.com,+91-7625519579,Female,1977-06-03,2025-08-02,Retail,Silver,L00442,N
+C000111,Emma,D Souza,emma.dsouza111@gmail.com,+91-7962710832,Other,1965-05-20,2021-02-08,Online,Gold,L00400,N
+C000112,Advait,Taylor,advait.taylor112@yahoo.com,+1-932-790-3500,Male,1971-08-27,2025-05-03,Retail,Silver,L00194,N
+C000113,Suresh,Banerjee,suresh.banerjee113@outlook.com,+91-7660949705,Other,1977-02-28,2023-05-19,Enterprise,Bronze,L00168,N
+C000114,Robert,Joshi,robert.joshi114@company.com,+91-8437062321,Male,1999-08-02,2022-02-26,Online,,L00204,Y
+C000115,Pranav,Khan,pranav.khan115@company.com,+91-8174351534,Other,1974-06-09,2022-01-27,Online,Bronze,L00426,N
+C000116,Ananya,Fernandes,ananya.fernandes116@company.com,+1-302-563-6904,Other,1967-12-06,2025-09-10,Retail,Platinum,L00318,N
+C000117,Rahul,Banerjee,rahul.banerjee117@gmail.com,+91-7815933246,Male,1988-04-07,2021-09-20,Corporate,Gold,L00010,N
+C000118,Isabella,Yadav,isabella.yadav118@company.com,+91-8699329841,Male,2004-06-07,2023-01-18,SMB,Platinum,L00186,N
+C000119,Rohan,Banerjee,rohan.banerjee119@gmail.com,+1-539-229-8708,Prefer not to say,2004-02-13,2025-02-14,Online,Silver,L00036,Y
+C000120,Karthik,Mehta,karthik.mehta120@gmail.com,+91-7217324733,Female,1983-08-15,2023-08-10,Retail,Gold,L00488,N
+C000121,Rohan,Ahmed,rohan.ahmed121@yahoo.com,+91-8197990427,Female,1987-02-09,2023-09-06,Online,Silver,L00099,Y
+C000122,Sai,Nair,sai.nair122@company.com,+91-9015223792,Other,1976-03-30,2022-04-09,Enterprise,,L00256,N
+C000123,Krishna,Banerjee,krishna.banerjee123@company.com,+91-7475885938,Female,2005-08-23,2025-03-12,Retail,Silver,L00036,Y
+C000124,Kabir,Yadav,kabir.yadav124@company.com,+91-8874673016,Prefer not to say,1980-06-05,2025-10-23,Corporate,Platinum,L00496,N
+C000125,Ayaan,Das,ayaan.das125@example.org,+1-545-390-5182,Male,2004-02-12,2025-07-11,SMB,,L00350,N
+C000126,Nikhil,D Souza,nikhil.dsouza126@gmail.com,+1-329-296-4721,Female,1969-12-26,2025-08-27,SMB,Platinum,L00469,N
+C000127,Sai,Jones,sai.jones127@outlook.com,+91-9902076965,Female,2002-09-06,2021-10-18,SMB,,L00200,Y
+C000128,Neha,Miller,neha.miller128@gmail.com,+1-571-752-4775,Female,1972-02-14,2023-02-06,Corporate,,L00171,N
+C000129,Rahul,Patel,rahul.patel129@company.com,+91-9952278386,Other,,2026-01-05,SMB,,L00432,N
+C000130,David,Reddy,david.reddy130@gmail.com,+91-7459728847,Female,1972-03-10,2025-08-12,Corporate,Platinum,L00493,N
+C000131,Kabir,Naidu,kabir.naidu131@gmail.com,+91-7905128407,Female,1997-07-26,2021-09-10,Corporate,Gold,L00412,N
+C000132,Ayaan,Miller,ayaan.miller132@yahoo.com,+91-9528592384,Prefer not to say,1994-08-17,2022-04-21,SMB,Gold,L00483,Y
+C000133,Rohan,Khan,rohan.khan133@company.com,+91-7551973871,Other,1988-06-15,2022-04-06,Enterprise,Platinum,L00299,N
+C000134,Reyansh,Das,reyansh.das134@yahoo.com,+1-855-720-6387,Male,2002-07-07,2024-09-27,Enterprise,Silver,L00430,N
+C000135,Kavya,Das,kavya.das135@gmail.com,+1-925-699-7157,Male,1991-12-28,2021-03-28,Retail,Silver,L00392,N
+C000136,Michael,Fernandes,michael.fernandes136@company.com,+91-7130655521,Prefer not to say,1985-09-01,2025-10-12,Enterprise,Bronze,L00451,Y
+C000137,Vivaan,Rao,vivaan.rao137@gmail.com,+91-8350513719,Other,2004-12-19,2025-10-06,Corporate,Gold,L00468,N
+C000138,Suresh,Smith,suresh.smith138@yahoo.com,+91-7526237443,Female,1983-01-02,2025-02-25,Retail,Gold,L00330,N
+C000139,Robert,Mehta,robert.mehta139@yahoo.com,+1-303-939-2481,Prefer not to say,1992-11-22,2022-10-03,Enterprise,Gold,L00416,N
+C000140,Nikhil,Yadav,nikhil.yadav140@outlook.com,+91-7365234876,Female,1987-09-15,2026-02-05,Retail,Silver,L00318,Y
+C000141,Aishwarya,Thomas,aishwarya.thomas141@yahoo.com,+91-8114679838,Other,1970-12-20,2023-03-24,Retail,Gold,L00363,Y
+C000142,Aditya,Chopra,aditya.chopra142@example.org,+91-7897113454,Female,2002-05-18,2022-04-05,Corporate,Silver,L00507,Y
+C000143,Vivaan,Johnson,vivaan.johnson143@company.com,+91-8806284460,Prefer not to say,1973-05-07,2023-04-25,SMB,Gold,L00197,N
+C000144,Kabir,Banerjee,kabir.banerjee144@example.org,+91-9271427628,Female,2002-02-12,2025-10-28,Online,Platinum,L00330,N
+C000145,Isabella,Mehta,isabella.mehta145@yahoo.com,+91-9113482623,Prefer not to say,1977-01-27,2023-08-11,Enterprise,Bronze,L00230,Y
+C000146,Meera,Wilson,meera.wilson146@gmail.com,+1-688-923-3422,Other,1980-11-24,2024-10-28,Retail,,L00066,N
+C000147,James,Ahmed,james.ahmed147@company.com,+91-8481450609,Prefer not to say,1975-06-08,2022-11-08,Online,,L00312,N
+C000148,Nandini,Patel,nandini.patel148@yahoo.com,+91-9538219307,Female,1983-07-24,2023-12-21,Corporate,Silver,L00066,Y
+C000149,Anika,Khan,anika.khan149@yahoo.com,+91-8322385235,Other,1983-04-14,2025-07-07,SMB,Gold,L00397,Y
+C000150,Rohan,Williams,rohan.williams150@gmail.com,+91-8315336293,Male,1994-01-13,2022-12-21,Retail,,L00233,Y
+C000151,Vihaan,Shetty,vihaan.shetty151@gmail.com,+91-8733811648,Other,1982-04-05,2022-11-01,Corporate,Silver,L00005,N
+C000152,Pranav,Naidu,pranav.naidu152@gmail.com,+1-358-814-7130,Female,1984-10-08,2025-12-31,Enterprise,Bronze,L00182,Y
+C000153,Olivia,Khan,olivia.khan153@yahoo.com,+1-310-557-3955,Other,1969-06-22,2026-01-18,Online,Platinum,L00172,N
+C000154,Zoya,Wilson,zoya.wilson154@gmail.com,+91-8198328531,Other,1987-01-06,2025-08-02,Enterprise,,L00246,Y
+C000155,Sai,Banerjee,sai.banerjee155@example.org,+91-9300979720,Female,1989-07-05,2025-03-31,Corporate,Gold,L00404,N
+C000156,Ananya,Iyer,ananya.iyer156@company.com,+91-7341852141,Other,1982-06-11,2024-06-02,Retail,,L00496,Y
+C000157,Sai,Ghosh,sai.ghosh157@example.org,+91-8871981144,Male,1979-01-26,2024-08-05,Enterprise,Silver,L00178,N
+C000158,Vihaan,D Souza,vihaan.dsouza158@example.org,+91-7584276682,Prefer not to say,1996-05-13,2024-10-26,Corporate,Gold,L00380,Y
+C000159,Anika,Joshi,anika.joshi159@example.org,+91-7051015928,Male,2005-05-21,2022-02-26,SMB,Silver,L00391,N
+C000160,Nikhil,Thomas,nikhil.thomas160@gmail.com,+91-8961942266,Other,2006-05-14,2025-12-12,SMB,Platinum,L00265,Y
+C000161,Isha,Hegde,isha.hegde161@yahoo.com,+1-394-997-8998,Prefer not to say,1965-06-20,2024-05-14,Corporate,Bronze,L00260,Y
+C000162,Olivia,Williams,olivia.williams162@gmail.com,+91-8072731937,Other,1997-01-27,2024-10-26,Online,Gold,L00263,Y
+C000163,Diya,Mishra,diya.mishra163@gmail.com,+91-8631736317,Female,1966-08-08,2023-11-28,Enterprise,Silver,L00131,Y
+C000164,Sophia,Reddy,sophia.reddy164@outlook.com,+91-8215367423,Female,1991-10-13,2023-06-25,SMB,Bronze,L00147,Y
+C000165,Ramesh,Kapoor,ramesh.kapoor165@outlook.com,+91-7657494428,Male,1982-01-18,2023-03-13,Corporate,Gold,L00058,N
+C000166,Meera,Reddy,meera.reddy166@outlook.com,+91-7943082987,Male,1989-07-18,2021-10-21,Online,Bronze,L00165,Y
+C000167,Suresh,Shetty,,+91-7340199694,Prefer not to say,1982-02-06,2021-01-13,Retail,Silver,L00240,Y
+C000168,Arjun,Verma,arjun.verma168@company.com,+1-860-595-5627,Other,2005-10-31,2023-07-10,Enterprise,Platinum,L00397,Y
+C000169,Nikhil,Mehta,nikhil.mehta169@outlook.com,+91-9395232852,Prefer not to say,2004-07-24,2022-06-11,Corporate,Bronze,L00398,N
+C000170,Pooja,Mehta,pooja.mehta170@company.com,+91-9052956260,Prefer not to say,1983-11-22,2023-04-12,Enterprise,Platinum,L00214,N
+C000171,Zoya,Thomas,zoya.thomas171@outlook.com,+91-7674742244,Other,1973-07-26,2024-12-30,Online,Platinum,L00223,N
+C000172,Pranav,Thomas,pranav.thomas172@outlook.com,+91-8778795490,Prefer not to say,2005-08-01,2022-09-08,Corporate,Gold,L00464,Y
+C000173,Neha,D Souza,neha.dsouza173@outlook.com,+1-224-910-4382,Female,1994-12-03,2024-03-08,Online,Silver,L00396,Y
+C000174,Aadhya,Chopra,aadhya.chopra174@outlook.com,+91-8594751446,Male,1969-05-10,2024-10-16,Retail,Gold,L00037,Y
+C000175,Karthik,Mishra,karthik.mishra175@outlook.com,+1-514-267-6946,Female,2005-07-29,2024-04-09,Retail,,L00324,Y
+C000176,Ishaan,Yadav,ishaan.yadav176@company.com,+91-9982691040,Other,1990-03-13,2021-11-21,Corporate,Bronze,L00420,Y
+C000177,Reyansh,Gupta,reyansh.gupta177@outlook.com,+1-684-588-8813,Other,1965-11-23,2025-04-21,Online,,L00175,Y
+C000178,Vivaan,Williams,vivaan.williams178@example.org,+91-8113321142,Prefer not to say,1972-12-13,2021-05-22,Retail,Silver,L00379,N
+C000179,Olivia,Iyer,olivia.iyer179@yahoo.com,+91-9619274847,Other,2004-12-20,2024-06-27,Corporate,,L00017,N
+C000180,Vivaan,Williams,vivaan.williams180@yahoo.com,+1-253-864-4912,Other,1985-02-20,2022-06-23,Enterprise,Bronze,L00314,N
+C000181,Krishna,Sharma,krishna.sharma181@example.org,+91-8247336167,Prefer not to say,1982-06-04,2023-02-18,Online,Platinum,L00482,N
+C000182,Krishna,Naidu,krishna.naidu182@yahoo.com,+91-8601746915,Other,2005-12-21,2021-06-20,Retail,Bronze,L00274,Y
+C000183,Reyansh,Chopra,reyansh.chopra183@gmail.com,,Male,1968-12-02,2025-05-15,SMB,,L00243,Y
+C000184,Lakshmi,Smith,lakshmi.smith184@yahoo.com,+1-308-827-2998,Male,1971-03-23,2024-12-13,Retail,Bronze,L00058,N
+C000185,Rudra,Joshi,rudra.joshi185@gmail.com,+91-8267751996,Female,2001-09-03,2023-09-02,Online,Bronze,L00198,N
+C000186,Aarav,Iyer,aarav.iyer186@outlook.com,+1-469-347-9880,Female,1970-07-25,2024-12-04,Corporate,Silver,L00194,N
+C000187,Anjali,Roy,anjali.roy187@example.org,+91-9099147408,Male,1976-04-04,2023-05-24,SMB,Gold,L00224,Y
+C000188,Arjun,Williams,arjun.williams188@yahoo.com,+1-261-834-8046,Male,1999-04-17,2024-10-12,SMB,,L00082,Y
+C000189,David,Banerjee,david.banerjee189@company.com,+91-9657372973,Female,1978-06-21,2023-10-21,Corporate,Bronze,L00380,N
+C000190,Aadhya,Banerjee,aadhya.banerjee190@company.com,+91-9946170868,Male,1971-05-17,2021-11-09,SMB,Platinum,L00464,Y
+C000191,Aarav,D Souza,aarav.dsouza191@outlook.com,+91-7602638441,Female,1982-07-21,2021-02-03,Enterprise,Silver,L00098,N
+C000192,Sneha,Das,sneha.das192@outlook.com,+91-8988475422,Male,2007-07-01,2023-06-11,Retail,Bronze,L00444,N
+C000193,Aishwarya,Roy,aishwarya.roy193@outlook.com,+91-8619438364,Other,1965-08-01,2023-10-02,Online,Platinum,L00427,Y
+C000194,Neha,Roy,neha.roy194@yahoo.com,,Other,2008-07-13,2024-03-03,Corporate,Gold,L00379,Y
+C000195,Suresh,Johnson,suresh.johnson195@yahoo.com,+91-8891453392,Female,1970-09-14,2026-01-22,Online,Silver,L00200,Y
+C000196,Saanvi,Verma,saanvi.verma196@yahoo.com,+91-7313260350,Other,1979-06-06,2024-07-01,Enterprise,Silver,L00152,N
+C000197,Nikhil,Patel,nikhil.patel197@company.com,+91-9074410400,Other,2002-01-01,2022-12-31,Enterprise,Gold,L00336,Y
+C000198,Fatima,Mishra,fatima.mishra198@example.org,+91-7968617938,Prefer not to say,2000-11-01,2023-12-09,Retail,Gold,L00200,N
+C000199,Amit,Verma,amit.verma199@gmail.com,+91-9498165236,Prefer not to say,1985-11-09,2023-01-25,Online,Silver,L00081,N
+C000200,Reyansh,Das,reyansh.das200@company.com,+91-9314389500,Male,1972-04-22,2022-08-07,SMB,,L00465,N
+C000201,Suresh,Hegde,suresh.hegde201@example.org,+91-8422994715,Male,1972-12-26,2023-03-22,SMB,,L00332,Y
+C000202,Vihaan,Ahmed,vihaan.ahmed202@company.com,+91-7222428338,Male,1988-06-14,2021-07-29,SMB,Gold,L00156,Y
+C000203,James,Reddy,james.reddy203@company.com,+91-7203678770,Male,2000-06-04,2024-08-07,Enterprise,Silver,L00427,Y
+C000204,Rohan,Mehta,rohan.mehta204@outlook.com,+91-9239783096,Male,1993-11-03,2021-04-18,Corporate,Silver,L00025,Y
+C000205,Suresh,Hegde,suresh.hegde205@company.com,+91-9508547963,Male,1995-01-15,2021-02-18,Online,Bronze,L00505,Y
+C000206,Anika,Sharma,anika.sharma206@yahoo.com,,Other,1974-07-19,2023-03-25,SMB,,L00169,N
+C000207,Advait,Kapoor,advait.kapoor207@yahoo.com,+91-9942344123,Prefer not to say,1994-03-07,2021-09-02,Retail,Bronze,L00403,N
+C000208,Robert,Joshi,robert.joshi208@outlook.com,+91-9410749139,Male,1991-08-12,2025-12-21,Corporate,,L00220,N
+C000209,Vivaan,Ghosh,vivaan.ghosh209@gmail.com,+91-7592853769,Prefer not to say,2007-06-22,2023-10-21,Online,Silver,L00212,N
+C000210,Aishwarya,Roy,aishwarya.roy210@outlook.com,+91-7351410035,Male,1967-03-31,2024-06-22,Enterprise,,L00032,Y
+C000211,Nikhil,Joshi,,+1-959-581-2246,Male,1994-04-28,2023-05-06,SMB,Platinum,L00287,Y
+C000212,Lakshmi,Verma,lakshmi.verma212@company.com,+91-7368921284,Other,2004-01-07,2023-07-22,Online,Platinum,L00241,Y
+C000213,Ishaan,Joshi,ishaan.joshi213@gmail.com,+91-8236713918,Male,1984-05-26,2023-10-16,Retail,Bronze,L00039,N
+C000214,David,Johnson,david.johnson214@outlook.com,,Male,1995-12-09,2022-04-26,Enterprise,,L00193,N
+C000215,Michael,Patel,michael.patel215@yahoo.com,+91-8959658142,Other,1986-03-13,2025-08-08,Online,Silver,L00468,N
+C000216,Karthik,Fernandes,karthik.fernandes216@outlook.com,+91-8219371274,Prefer not to say,1978-02-13,2025-04-21,Enterprise,Gold,L00356,N
+C000217,Rohan,Ahmed,rohan.ahmed217@yahoo.com,+1-860-677-8385,Female,1966-12-02,2025-12-28,Online,Silver,L00169,Y
+C000218,Olivia,Joshi,olivia.joshi218@company.com,+91-8372924664,Other,1966-11-19,2024-01-20,Corporate,Silver,L00514,N
+C000219,Suresh,Shetty,suresh.shetty219@example.org,+1-735-872-7435,Male,1980-10-01,2024-03-27,Enterprise,Silver,L00225,Y
+C000220,Olivia,Jones,olivia.jones220@gmail.com,+91-7236650180,Male,1983-03-21,2025-03-28,Corporate,Bronze,L00248,Y
+C000221,Ayaan,Joshi,ayaan.joshi221@outlook.com,+1-896-273-2098,Prefer not to say,,2023-07-16,Online,Gold,L00260,N
+C000222,Pranav,Ghosh,pranav.ghosh222@company.com,+91-8567793259,Other,1987-01-16,2024-10-22,Enterprise,Platinum,L00043,Y
+C000223,Anjali,Naidu,anjali.naidu223@company.com,+1-589-239-8986,Male,1976-04-24,2023-08-31,SMB,Silver,L00089,N
+C000224,Vikram,Wilson,vikram.wilson224@company.com,+91-8345422445,Male,1970-10-05,2024-11-01,Enterprise,Bronze,L00011,Y
+C000225,John,Taylor,john.taylor225@company.com,+1-748-869-1798,Prefer not to say,1970-04-12,2024-04-14,Corporate,Bronze,L00260,N
+C000226,Kavya,Khan,kavya.khan226@outlook.com,+1-278-403-8899,Female,1965-04-04,2022-05-26,Retail,Gold,L00498,Y
+C000227,Sara,Anderson,sara.anderson227@company.com,+91-8457025216,Male,1971-03-31,2021-12-03,SMB,Platinum,L00104,Y
+C000228,John,Shetty,john.shetty228@example.org,+91-8552014395,Male,1989-12-31,2023-06-13,SMB,Platinum,L00286,N
+C000229,Kabir,Ahmed,kabir.ahmed229@gmail.com,+91-7283084766,Other,1973-10-25,2024-09-23,Enterprise,Bronze,L00192,Y
+C000230,Ayaan,Wilson,ayaan.wilson230@gmail.com,+91-7482949366,Male,1996-06-19,2025-03-10,SMB,,L00137,Y
+C000231,Sophia,Ahmed,sophia.ahmed231@yahoo.com,+1-691-418-4091,Male,1986-06-23,2023-09-07,Corporate,,L00487,Y
+C000232,Arjun,Johnson,arjun.johnson232@example.org,+1-274-779-3698,Female,1998-10-18,2024-07-07,Enterprise,Bronze,L00253,N
+C000233,Suresh,Thomas,suresh.thomas233@gmail.com,+91-9380558979,Female,1992-03-15,2023-07-11,Online,Platinum,L00401,Y
+C000234,Neha,Roy,neha.roy234@company.com,+91-8418088619,Female,1967-12-23,2023-05-05,Retail,Gold,L00032,N
+C000235,Aadhya,Rao,aadhya.rao235@yahoo.com,+1-819-534-6048,Female,1986-11-18,2023-11-14,Retail,Platinum,L00482,N
+C000236,Nandini,Reddy,nandini.reddy236@yahoo.com,+91-7888847872,Female,2006-07-30,2022-10-04,SMB,Silver,L00234,N
+C000237,Isha,Das,isha.das237@yahoo.com,+91-9194496391,Other,1992-07-02,2025-04-23,SMB,,L00193,N
+C000238,Aadhya,Anderson,aadhya.anderson238@example.org,+91-9374348202,Female,1991-10-31,2022-02-26,Enterprise,Gold,L00253,Y
+C000239,Michael,Das,michael.das239@example.org,+91-8118629181,Prefer not to say,,2024-05-26,Corporate,Gold,L00261,N
+C000240,Sneha,Anderson,sneha.anderson240@yahoo.com,+91-8377836108,Male,1984-03-09,2021-04-15,Enterprise,Gold,L00273,Y
+C000241,Ayaan,Shetty,ayaan.shetty241@gmail.com,+91-7230246353,Prefer not to say,1989-01-04,2024-01-29,Online,Bronze,L00111,Y
+C000242,Nandini,Das,nandini.das242@yahoo.com,+91-7755238893,Male,1989-10-16,2026-03-16,SMB,Silver,L00274,Y
+C000243,Isabella,Hegde,isabella.hegde243@outlook.com,+91-7057131023,Prefer not to say,1998-03-20,2024-03-15,Corporate,Platinum,L00094,Y
+C000244,Nandini,Yadav,nandini.yadav244@outlook.com,+1-486-309-1051,Prefer not to say,1978-11-03,2024-10-06,Corporate,Bronze,L00245,Y
+C000245,Meera,Brown,meera.brown245@outlook.com,+91-8259890616,Prefer not to say,1989-04-13,2021-02-17,Online,Gold,L00390,N
+C000246,Priya,Hegde,priya.hegde246@company.com,+91-8222128941,Prefer not to say,2002-07-18,2024-05-15,SMB,Gold,L00080,N
+C000247,Michael,Roy,michael.roy247@outlook.com,+91-9876171566,Male,2006-12-15,2024-11-06,Retail,Platinum,L00025,N
+C000248,Vivaan,Williams,vivaan.williams248@company.com,+91-9979265592,Other,1976-06-08,2023-06-15,Corporate,Silver,L00092,Y
+C000249,Ananya,Shetty,ananya.shetty249@gmail.com,+91-7294830808,Other,1996-03-11,2024-06-14,SMB,Silver,L00095,N
+C000250,Atharv,Mehta,atharv.mehta250@company.com,+91-8705618752,Female,1969-02-20,2025-11-21,Enterprise,Platinum,L00238,Y
+C000251,Sophia,Mishra,sophia.mishra251@example.org,+91-7220723305,Prefer not to say,2000-02-18,2025-08-01,SMB,Silver,L00276,Y
+C000252,Atharv,Chopra,atharv.chopra252@gmail.com,+91-7562945695,Female,1987-08-19,2023-10-23,Corporate,Silver,L00022,Y
+C000253,Mia,Shetty,mia.shetty253@example.org,+1-673-451-8453,Male,1969-12-06,2024-12-25,Enterprise,Silver,L00180,Y
+C000254,Neha,Williams,neha.williams254@company.com,+91-9379762939,Prefer not to say,2007-04-25,2024-08-18,Online,Platinum,L00478,Y
+C000255,Anika,Ahmed,anika.ahmed255@gmail.com,+91-8965458169,Other,1992-02-11,2021-08-25,SMB,Platinum,L00306,Y
+C000256,Pranav,D Souza,pranav.dsouza256@outlook.com,+91-8934728329,Prefer not to say,1975-12-20,2023-03-23,Enterprise,Platinum,L00310,N
+C000257,Pranav,Smith,pranav.smith257@outlook.com,+91-7168242160,Male,1993-09-17,2026-01-12,Enterprise,Platinum,L00150,Y
+C000258,Karthik,Jones,karthik.jones258@example.org,+91-9846372843,Female,,2022-12-23,Retail,Silver,L00070,N
+C000259,Priya,Joshi,priya.joshi259@example.org,+91-8469162876,Other,1992-06-30,2025-06-24,Online,,L00343,Y
+C000260,James,Williams,james.williams260@company.com,+91-7118497335,Other,2008-06-05,2021-05-18,Enterprise,Gold,L00519,Y
+C000261,Advait,Iyer,,+91-8292338866,Prefer not to say,1978-08-03,2021-04-01,Enterprise,Silver,L00043,N
+C000262,Rohan,Joshi,rohan.joshi262@gmail.com,+1-367-238-5350,Female,1967-12-19,2025-05-31,Enterprise,Bronze,L00495,Y
+C000263,Sophia,Rao,sophia.rao263@example.org,+91-8219371463,Other,1990-01-21,2024-03-27,SMB,,L00265,Y
+C000264,Mia,Anderson,,+91-9641787837,Other,2001-07-22,2022-04-09,SMB,Platinum,L00252,N
+C000265,Anjali,Ghosh,anjali.ghosh265@yahoo.com,+91-7484882746,Prefer not to say,2000-02-23,2025-09-26,Retail,,L00229,N
+C000266,Diya,Fernandes,diya.fernandes266@example.org,+91-7265841784,Other,1986-08-02,2024-06-30,Retail,Platinum,L00167,N
+C000267,Ishaan,Fernandes,ishaan.fernandes267@company.com,+1-541-579-2937,Prefer not to say,1986-10-29,2022-04-28,Enterprise,Platinum,L00316,Y
+C000268,Nandini,Yadav,nandini.yadav268@yahoo.com,+91-8071987784,Male,1968-09-19,2025-10-14,Enterprise,Platinum,L00386,Y
+C000269,Olivia,Singh,olivia.singh269@gmail.com,+91-7581814284,Other,2002-11-04,2022-08-20,Retail,Bronze,L00137,Y
+C000270,Ramesh,Nair,ramesh.nair270@gmail.com,+1-284-240-1003,Prefer not to say,1972-08-16,2025-06-05,Online,Gold,L00197,Y
+C000271,Amit,Ahmed,amit.ahmed271@gmail.com,+91-9793144076,Female,1999-10-25,2024-08-10,Retail,Platinum,L00162,N
+C000272,John,Johnson,john.johnson272@company.com,+91-8667450160,Female,1996-08-27,2024-08-31,SMB,Gold,L00301,Y
+C000273,Ishaan,Singh,ishaan.singh273@gmail.com,+91-8925725429,Other,1985-02-20,2021-08-09,SMB,,L00152,Y
+C000274,Kavya,Fernandes,kavya.fernandes274@gmail.com,+1-884-887-5956,Prefer not to say,1986-03-25,2026-01-09,Retail,Bronze,L00215,Y
+C000275,Sophia,Kapoor,invalid_email_format,+91-8630570752,Other,1996-10-23,2025-05-25,Enterprise,Gold,L00408,Y
+C000276,Olivia,Yadav,olivia.yadav276@yahoo.com,+91-8595453850,Prefer not to say,2004-08-31,2021-03-28,Corporate,Silver,L00152,N
+C000277,Aarav,Shetty,aarav.shetty277@yahoo.com,+1-581-545-1044,Female,1999-08-12,2023-09-16,Online,Gold,L00108,N
+C000278,Anjali,Mishra,anjali.mishra278@company.com,+91-9396215167,Prefer not to say,1991-07-06,2025-01-12,SMB,Bronze,L00466,N
+C000279,Olivia,Reddy,olivia.reddy279@company.com,+1-627-674-4783,Male,1991-07-05,2025-09-06,Online,Gold,L00323,N
+C000280,Neha,Mehta,neha.mehta280@gmail.com,+91-9691968884,Other,1965-02-06,2023-03-25,Online,Platinum,L00245,Y
+C000281,David,Ghosh,david.ghosh281@example.org,+91-8627386044,Female,1994-08-31,2023-12-30,Enterprise,,L00219,N
+C000282,Fatima,Mishra,fatima.mishra282@gmail.com,+91-7261053093,Other,1965-12-05,2023-09-10,SMB,Gold,L00252,N
+C000283,Kavya,Joshi,kavya.joshi283@outlook.com,+91-9507047850,Female,1996-01-09,2024-01-16,Retail,Silver,L00317,Y
+C000284,Olivia,Das,olivia.das284@outlook.com,+91-8478754240,Male,1999-05-13,2023-10-22,Online,Gold,L00125,Y
+C000285,Sai,Naidu,sai.naidu285@outlook.com,+91-7620281474,Male,1965-10-26,2025-01-25,Corporate,Silver,L00257,N
+C000286,Isabella,Davis,isabella.davis286@outlook.com,+91-9481592781,Prefer not to say,1980-04-05,2021-03-03,Online,Platinum,L00360,Y
+C000287,Nandini,Johnson,nandini.johnson287@example.org,+91-7219239720,Other,1999-07-31,2024-02-16,Retail,Bronze,L00507,N
+C000288,Ritika,Naidu,,+1-581-864-6549,Prefer not to say,2002-07-27,2025-03-16,Retail,,L00426,Y
+C000289,Saanvi,Williams,saanvi.williams289@example.org,+1-943-979-6582,Other,2001-05-16,2024-07-03,Online,Platinum,L00123,N
+C000290,Reyansh,Patel,reyansh.patel290@yahoo.com,+91-7448643853,Male,1977-08-04,2021-11-10,SMB,Bronze,L00389,N
+C000291,Vikram,Fernandes,vikram.fernandes291@gmail.com,+91-7934352959,Male,1969-03-05,2024-12-28,Retail,Gold,L00190,N
+C000292,Ayaan,Kumar,ayaan.kumar292@example.org,+91-9622620333,Male,1977-05-28,2021-04-11,Online,,L00238,N
+C000293,Zoya,Ghosh,zoya.ghosh293@gmail.com,+1-970-241-6110,Female,1994-07-06,2021-07-10,Online,Bronze,L00431,Y
+C000294,Aditya,Johnson,aditya.johnson294@yahoo.com,+91-7350244640,Male,2007-02-25,2024-04-25,Corporate,,L00163,Y
+C000295,Vivaan,Johnson,vivaan.johnson295@outlook.com,+91-7415032199,Female,1965-03-28,2023-04-16,Corporate,Bronze,L00245,N
+C000296,Zoya,Hegde,zoya.hegde296@outlook.com,+1-499-552-3231,Female,1983-06-18,2024-04-24,Retail,Platinum,L00415,N
+C000297,Anika,Sharma,anika.sharma297@gmail.com,+91-7626443152,Female,1973-04-09,2024-03-26,Retail,Silver,L00132,Y
+C000298,David,Reddy,david.reddy298@company.com,+91-7714746247,Male,1965-02-16,2024-03-22,SMB,Silver,L00116,N
+C000299,David,Khan,david.khan299@yahoo.com,+91-8347159640,Female,1994-09-30,2023-06-28,Corporate,Silver,L00282,N
+C000300,Rahul,D Souza,rahul.dsouza300@gmail.com,+91-8419870762,Prefer not to say,2000-01-20,2021-05-06,Corporate,Platinum,L00163,Y
+C000301,Ishaan,Roy,ishaan.roy301@yahoo.com,+91-9520011804,Other,1999-03-18,2025-05-29,Corporate,Platinum,L00485,Y
+C000302,Rahul,Johnson,,+91-8574038909,Prefer not to say,1970-12-28,2026-01-28,Online,,L00449,Y
+C000303,David,Shetty,,+91-7323845626,Male,1983-02-10,2025-03-09,SMB,Gold,L00318,Y
+C000304,Zoya,Wilson,zoya.wilson304@example.org,+91-8736433979,Prefer not to say,1965-02-25,2023-12-19,Retail,Platinum,L00509,Y
+C000305,David,Ghosh,david.ghosh305@company.com,+91-9636445643,Other,1983-01-12,2024-07-11,Enterprise,,L00205,Y
+C000306,Suresh,Gupta,suresh.gupta306@yahoo.com,+91-9486841610,Male,1975-03-18,2023-10-07,Corporate,Silver,L00342,N
+C000307,Pranav,Smith,pranav.smith307@company.com,+91-9420219516,Female,2008-10-11,2024-10-26,Corporate,Gold,L00106,Y
+C000308,Aarav,Anderson,aarav.anderson308@company.com,+91-7918894281,Male,1974-05-19,2026-01-04,SMB,,L00461,Y
+C000309,John,Das,invalid_email_format,+91-9481610833,Male,1974-09-15,2025-08-01,Online,Silver,L00502,N
+C000310,John,Naidu,john.naidu310@yahoo.com,+91-8822831534,Other,1969-05-17,2025-02-22,Corporate,Silver,L00028,Y
+C000311,Advait,Joshi,advait.joshi311@outlook.com,+91-8510118031,Female,1992-10-01,2022-04-08,SMB,Platinum,L00461,Y
+C000312,Mia,Yadav,mia.yadav312@company.com,+91-7561559091,Male,1972-11-08,2023-12-28,Corporate,Silver,L00036,Y
+C000313,Reyansh,D Souza,reyansh.dsouza313@outlook.com,+91-7544544883,Female,1985-04-28,2025-12-21,Enterprise,Silver,L00338,N
+C000314,Rohan,Joshi,rohan.joshi314@gmail.com,+91-7968459220,Female,1969-01-31,2026-03-15,Corporate,,L00477,Y
+C000315,Diya,Anderson,diya.anderson315@outlook.com,+91-7589180651,Male,1970-09-03,2025-06-25,Online,Bronze,L00238,N
+C000316,Sai,Kapoor,sai.kapoor316@yahoo.com,+91-7446233371,Female,1987-01-02,2023-05-26,Retail,,L00046,Y
+C000317,Arjun,D Souza,arjun.dsouza317@example.org,+91-9490852184,Male,1995-07-26,2021-12-04,Retail,Bronze,L00472,Y
+C000318,David,Verma,david.verma318@gmail.com,+91-9482393498,Male,1995-11-11,2021-06-19,Online,Gold,L00084,Y
+C000319,Robert,Verma,robert.verma319@outlook.com,+1-520-588-2886,Male,1978-01-02,2024-08-15,Corporate,,L00517,N
+C000320,Neha,Reddy,neha.reddy320@outlook.com,+91-9500947876,Male,2000-05-12,2024-06-27,Enterprise,Bronze,L00514,Y
+C000321,Aarav,Kapoor,aarav.kapoor321@outlook.com,+91-9086254759,Prefer not to say,1997-06-22,2023-01-11,Retail,Silver,L00091,N
+C000322,Rahul,Jones,rahul.jones322@outlook.com,+1-578-877-1802,Male,2001-11-08,2022-09-28,Retail,Platinum,L00375,Y
+C000323,Kabir,Fernandes,kabir.fernandes323@example.org,+1-771-671-6817,Female,1993-01-04,2025-05-01,Retail,Gold,L00018,Y
+C000324,Diya,Kapoor,diya.kapoor324@example.org,+91-8821279375,Female,1993-01-23,2022-06-20,Enterprise,Platinum,L00006,Y
+C000325,Ananya,Mishra,ananya.mishra325@example.org,+91-8309745101,Other,1995-03-11,2021-11-14,Online,,L00249,N
+C000326,Shaurya,Verma,shaurya.verma326@outlook.com,+1-974-934-3138,Male,1997-07-14,2025-01-19,SMB,Bronze,L00378,N
+C000327,Isabella,Hegde,isabella.hegde327@yahoo.com,+1-846-599-3566,Male,1981-10-06,2025-03-17,Corporate,Gold,L00364,N
+C000328,Atharv,Roy,atharv.roy328@outlook.com,+1-946-223-2386,Other,1978-10-21,2023-02-12,Online,,L00482,Y
+C000329,David,Nair,david.nair329@yahoo.com,+91-9285275663,Prefer not to say,1977-05-10,2025-08-28,Retail,Gold,L00183,Y
+C000330,Lakshmi,Patel,lakshmi.patel330@yahoo.com,+91-7708237385,Male,2002-03-02,2022-02-02,Corporate,Silver,L00364,Y
+C000331,Michael,Smith,michael.smith331@example.org,+91-9878926223,Female,2008-10-06,2024-05-27,Corporate,Platinum,L00050,N
+C000332,Aditya,Fernandes,aditya.fernandes332@gmail.com,+91-7274890199,Male,1999-01-08,2023-10-15,Online,Platinum,L00518,Y
+C000333,Atharv,Joshi,atharv.joshi333@gmail.com,+1-230-800-2748,Male,1983-08-14,2025-05-14,Enterprise,Gold,L00343,N
+C000334,Anika,Kapoor,anika.kapoor334@yahoo.com,+1-810-322-7807,Other,1992-11-10,2025-12-12,Retail,Bronze,L00004,N
+C000335,Sophia,Khan,sophia.khan335@example.org,+91-8884247596,Prefer not to say,1978-02-10,2024-01-10,Retail,,L00112,Y
+C000336,Isha,Mishra,isha.mishra336@outlook.com,+1-361-420-9287,Prefer not to say,1975-10-10,2021-05-31,SMB,Bronze,L00152,N
+C000337,Pooja,Fernandes,pooja.fernandes337@gmail.com,+1-845-221-6529,Male,2006-12-20,2023-10-06,Retail,Bronze,L00244,Y
+C000338,Vivaan,Gupta,vivaan.gupta338@outlook.com,+1-256-732-4328,Male,1982-11-06,2023-03-11,Enterprise,Bronze,L00370,N
+C000339,Pranav,Nair,pranav.nair339@outlook.com,+91-7832354634,Prefer not to say,2001-09-01,2021-04-17,Enterprise,Platinum,L00365,N
+C000340,Fatima,Singh,fatima.singh340@example.org,+91-8718644574,Male,2008-03-15,2025-03-16,Enterprise,Silver,L00298,N
+C000341,Saanvi,Wilson,saanvi.wilson341@example.org,+91-7151137782,Male,1981-10-16,2024-08-14,Enterprise,Bronze,L00240,Y
+C000342,Ritika,Anderson,ritika.anderson342@gmail.com,+1-492-787-3978,Female,1985-04-29,2025-01-03,Online,,L00017,N
+C000343,Ritika,Hegde,ritika.hegde343@yahoo.com,+1-857-819-8474,Other,1988-06-04,2025-12-26,Online,Silver,L00092,Y
+C000344,Reyansh,Roy,reyansh.roy344@gmail.com,+91-9907650579,Female,2004-12-12,2021-12-25,Corporate,Platinum,L00200,N
+C000345,Vihaan,Fernandes,vihaan.fernandes345@example.org,+91-8828171994,Male,1993-09-20,2023-03-27,Corporate,Silver,L00159,N
+C000346,David,Mehta,david.mehta346@example.org,+91-8067597837,Male,1975-12-12,2024-08-24,SMB,Bronze,L00371,N
+C000347,Zoya,Khan,zoya.khan347@outlook.com,+1-779-824-8113,Prefer not to say,1989-08-21,2021-03-03,SMB,,L00350,Y
+C000348,Rahul,Iyer,rahul.iyer348@example.org,+91-8239655182,Prefer not to say,1968-04-07,2024-07-14,Retail,Silver,L00417,Y
+C000349,Suresh,Taylor,suresh.taylor349@yahoo.com,+1-968-323-5127,Other,1976-12-24,2025-05-11,SMB,Bronze,L00197,Y
+C000350,Shaurya,Johnson,shaurya.johnson350@outlook.com,+91-9187977357,Male,1982-07-11,2024-05-14,Enterprise,,L00445,Y
+C000351,Zoya,Mishra,zoya.mishra351@example.org,+91-9697813340,Other,1981-10-31,2021-05-16,Online,Bronze,L00050,N
+C000352,Isha,Kumar,isha.kumar352@example.org,+91-8908668106,Other,1971-06-12,2024-07-08,Enterprise,Platinum,L00422,N
+C000353,Diya,Yadav,diya.yadav353@gmail.com,+91-8471328314,Female,2003-09-18,2025-04-12,Online,Bronze,L00413,N
+C000354,Isabella,Johnson,isabella.johnson354@company.com,+1-364-778-2094,Other,1982-10-28,2021-02-16,Corporate,Silver,L00270,Y
+C000355,Sai,Ahmed,sai.ahmed355@yahoo.com,+91-7561136557,Male,2008-02-10,2026-02-19,Corporate,Silver,L00354,Y
+C000356,Shaurya,Sharma,shaurya.sharma356@company.com,+91-9458765299,Prefer not to say,1988-01-10,2025-08-17,Online,Gold,L00244,N
+C000357,Pranav,Brown,pranav.brown357@gmail.com,+1-758-503-6031,Other,1967-03-17,2024-04-28,Enterprise,Gold,L00271,Y
+C000358,Reyansh,D Souza,reyansh.dsouza358@yahoo.com,+91-7173340999,Prefer not to say,1995-08-06,2022-02-24,Corporate,Platinum,L00463,N
+C000359,Shaurya,Kumar,shaurya.kumar359@gmail.com,+91-7529193763,Female,1987-01-19,2025-12-04,Corporate,Gold,L00095,N
+C000360,Pooja,Rao,pooja.rao360@company.com,+1-903-821-8175,Female,1984-02-10,2025-04-02,Online,Silver,L00240,N
+C000361,Ramesh,Mehta,ramesh.mehta361@example.org,+91-9420813003,Prefer not to say,1996-07-11,2025-05-28,Retail,Platinum,L00505,N
+C000362,Diya,Williams,,+1-730-998-3400,Male,1999-04-19,2023-01-18,Corporate,Silver,L00016,Y
+C000363,Suresh,Yadav,suresh.yadav363@gmail.com,+1-895-875-6997,Male,1980-01-12,2025-05-11,Enterprise,,L00016,Y
+C000364,Neha,Kumar,neha.kumar364@gmail.com,+1-342-535-7519,Other,1991-08-27,2025-03-27,Online,,L00468,N
+C000365,Vivaan,Yadav,vivaan.yadav365@outlook.com,+1-238-538-1555,Other,2002-10-05,2024-09-18,SMB,Silver,L00236,N
+C000366,Ramesh,Jones,ramesh.jones366@example.org,+91-9120921011,Male,1985-04-09,2022-12-12,Enterprise,Bronze,L00291,N
+C000367,Kabir,Davis,kabir.davis367@company.com,+91-8565035688,Male,2006-11-23,2021-02-23,Retail,Platinum,L00192,N
+C000368,Anika,Hegde,anika.hegde368@example.org,+91-9043585313,Female,1987-04-22,2023-11-02,Online,Silver,L00447,N
+C000369,Aditya,Davis,aditya.davis369@yahoo.com,+91-7002162244,Other,1993-01-17,2024-10-29,SMB,Platinum,L00191,N
+C000370,Ramesh,Smith,ramesh.smith370@example.org,+91-9205326361,Other,2005-05-12,2022-07-27,SMB,Gold,L00172,Y
+C000371,Diya,Smith,diya.smith371@example.org,+91-7459956271,Other,1993-08-19,2022-01-16,Corporate,Silver,L00302,Y
+C000372,Shaurya,Kapoor,shaurya.kapoor372@gmail.com,+91-8074334458,Other,2006-10-25,2025-01-19,Online,Silver,L00346,N
+C000373,Rudra,Mehta,rudra.mehta373@yahoo.com,+91-9561499972,Male,1975-01-11,2021-07-29,Enterprise,Gold,L00379,N
+C000374,Fatima,Williams,fatima.williams374@example.org,+91-8265783227,Other,1992-05-11,2021-02-02,Corporate,Bronze,L00333,Y
+C000375,Nandini,Khan,nandini.khan375@example.org,+1-276-315-8884,Other,1967-02-08,2021-12-04,SMB,Bronze,L00496,Y
+C000376,Pranav,Thomas,pranav.thomas376@yahoo.com,+91-7962269464,Female,2002-02-15,2022-11-01,Corporate,Platinum,L00111,N
+C000377,Neha,Nair,neha.nair377@outlook.com,+1-658-524-1750,Male,1976-12-03,2024-06-25,Retail,Bronze,L00017,N
+C000378,Ananya,Miller,ananya.miller378@gmail.com,+91-8716171982,Male,1997-11-10,2024-05-24,Corporate,Silver,L00062,N
+C000379,Krishna,Rao,krishna.rao379@example.org,+1-994-638-7817,Prefer not to say,2003-10-05,2022-10-27,SMB,Gold,L00060,Y
+C000380,Michael,Rao,michael.rao380@example.org,+91-9427497728,Other,1993-05-11,2024-01-14,SMB,,L00287,N
+C000381,Krishna,Ghosh,krishna.ghosh381@example.org,,Male,1971-02-09,2021-02-22,SMB,Gold,L00341,Y
+C000382,Rudra,Reddy,rudra.reddy382@outlook.com,,Other,1979-03-28,2025-11-14,Online,Silver,L00334,N
+C000383,Atharv,Nair,atharv.nair383@yahoo.com,+91-9788978132,Female,1991-04-23,2023-03-02,Corporate,Platinum,L00393,N
+C000384,Olivia,Brown,olivia.brown384@yahoo.com,+91-7490510834,Female,2002-12-13,2023-01-21,SMB,Silver,L00133,Y
+C000385,Sophia,Kumar,sophia.kumar385@example.org,+1-308-954-3190,Male,1967-10-28,2025-09-09,Online,Bronze,L00195,Y
+C000386,Aarav,Iyer,aarav.iyer386@example.org,+91-7859874164,Female,1997-03-10,2022-02-22,Enterprise,,L00164,Y
+C000387,Atharv,Kumar,atharv.kumar387@yahoo.com,+91-8051344123,Female,1993-02-27,2024-02-26,Retail,Gold,L00372,Y
+C000388,Priya,Smith,priya.smith388@company.com,+1-767-446-2675,Male,1989-08-23,2021-04-19,Corporate,Bronze,L00402,N
+C000389,Advait,Brown,advait.brown389@outlook.com,+1-871-796-4049,Female,1973-02-26,2022-10-30,Corporate,Bronze,L00030,N
+C000390,Zoya,Anderson,zoya.anderson390@gmail.com,+91-7774282500,Female,2005-03-23,2022-04-30,Online,Silver,L00148,N
+C000391,Vikram,Das,vikram.das391@company.com,+91-9374994489,Prefer not to say,1998-05-12,2025-02-18,Retail,,L00475,N
+C000392,Rohan,Taylor,rohan.taylor392@company.com,+91-9375725267,Prefer not to say,,2026-01-04,Online,Silver,L00185,N
+C000393,Vihaan,Rao,vihaan.rao393@outlook.com,+91-8952671408,Other,1970-01-18,2025-01-12,Online,,L00510,Y
+C000394,Vivaan,Nair,vivaan.nair394@outlook.com,+1-606-946-1889,Prefer not to say,1966-09-09,2021-12-21,Enterprise,,L00193,N
+C000395,Pranav,Shetty,pranav.shetty395@example.org,+91-7775993548,Male,1967-09-25,2026-03-08,SMB,Gold,L00404,Y
+C000396,Fatima,Iyer,fatima.iyer396@example.org,+1-787-528-2793,Female,1980-07-24,2021-05-17,Online,Bronze,L00472,Y
+C000397,Fatima,Taylor,fatima.taylor397@outlook.com,+91-9391286923,Other,1966-01-29,2024-09-21,Online,Silver,L00357,Y
+C000398,Advait,Sharma,advait.sharma398@example.org,+91-8540420832,Male,1991-08-16,2024-11-07,Retail,Silver,L00216,Y
+C000399,Shaurya,Khan,shaurya.khan399@company.com,+91-9466396531,Male,1970-03-02,2021-04-20,Enterprise,Platinum,L00143,Y
+C000400,Atharv,Gupta,atharv.gupta400@gmail.com,+91-7104568522,Prefer not to say,1980-05-20,2025-01-20,Corporate,,L00140,Y
+C000401,Ritika,Mishra,ritika.mishra401@company.com,+91-7682880274,Other,1973-01-09,2024-09-14,Retail,Silver,L00014,N
+C000402,Sai,Roy,sai.roy402@gmail.com,+1-899-604-9598,Other,1980-02-15,2026-03-04,Corporate,,L00144,N
+C000403,Vivaan,Anderson,vivaan.anderson403@outlook.com,+91-8201655871,Male,2000-06-25,2025-09-16,Corporate,,L00390,N
+C000404,John,Anderson,john.anderson404@company.com,+1-994-299-4749,Other,1971-05-14,2021-08-31,Online,Gold,L00465,N
+C000405,Krishna,Joshi,krishna.joshi405@gmail.com,+91-7245530469,Other,1986-08-13,2021-10-16,Enterprise,Silver,L00027,N
+C000406,Shaurya,Patel,,+91-7279766521,Female,1991-07-03,2025-11-01,Online,Bronze,L00437,N
+C000407,Shaurya,Sharma,shaurya.sharma407@outlook.com,+91-9839147415,Prefer not to say,1967-08-19,2022-05-27,Online,Platinum,L00034,N
+C000408,Olivia,Ghosh,olivia.ghosh408@example.org,+91-8451087348,Female,1977-10-15,2023-02-01,Retail,Silver,L00357,N
+C000409,Aarav,Khan,aarav.khan409@gmail.com,+91-9520325533,Prefer not to say,1974-04-19,2021-03-21,Retail,Platinum,L00126,N
+C000410,Sai,Williams,sai.williams410@outlook.com,+91-7139681352,Prefer not to say,1969-05-16,2023-11-25,Online,Bronze,L00014,Y
+C000411,Michael,Patel,michael.patel411@company.com,+91-8665815564,Female,1969-07-24,2023-07-17,Retail,Gold,L00419,N
+C000412,Rahul,Williams,,+91-8312732935,Female,1973-10-26,2024-12-12,Online,Gold,L00117,N
+C000413,Kavya,Kapoor,kavya.kapoor413@company.com,+91-7394883565,Female,1973-12-04,2022-11-15,Corporate,Platinum,L00006,N
+C000414,Diya,D Souza,diya.dsouza414@outlook.com,+91-8917418398,Male,1971-03-15,2025-08-29,SMB,Platinum,L00247,N
+C000415,Vikram,Rao,vikram.rao415@example.org,+91-7222225267,Other,1991-05-27,2023-07-05,SMB,,L00052,Y
+C000416,Sneha,Reddy,sneha.reddy416@example.org,+91-9811292716,Male,1965-02-19,2024-03-21,Corporate,Bronze,L00277,N
+C000417,Priya,Gupta,priya.gupta417@example.org,+91-9720188372,Prefer not to say,1982-09-20,2026-02-12,Retail,Silver,L00509,N
+C000418,Sara,Khan,sara.khan418@company.com,+91-8823648353,Female,2005-09-25,2023-04-22,Retail,Platinum,L00105,N
+C000419,Kabir,Mehta,kabir.mehta419@outlook.com,+91-8431633988,Other,1995-11-26,2025-02-18,Retail,,L00216,N
+C000420,Arjun,Kapoor,arjun.kapoor420@outlook.com,+1-876-342-1431,Female,1967-04-16,2023-08-15,Enterprise,Bronze,L00220,Y
+C000421,Zoya,Verma,zoya.verma421@yahoo.com,+91-9955481532,Prefer not to say,1981-07-27,2022-04-27,Retail,Bronze,L00086,N
+C000422,David,Davis,david.davis422@example.org,+91-7949596702,Prefer not to say,2001-10-19,2025-07-28,SMB,,L00032,Y
+C000423,Ayaan,Brown,ayaan.brown423@yahoo.com,,Female,1981-10-08,2023-11-05,Retail,Gold,L00451,Y
+C000424,Suresh,Johnson,suresh.johnson424@gmail.com,+1-384-393-7230,Male,1991-09-21,2022-09-06,Online,Platinum,L00088,N
+C000425,Aishwarya,D Souza,aishwarya.dsouza425@example.org,+1-354-674-7424,Other,1993-07-03,2024-09-23,Retail,Gold,L00489,Y
+C000426,Kavya,Khan,kavya.khan426@yahoo.com,+91-8619982331,Female,1986-11-14,2021-12-29,Enterprise,Gold,L00255,Y
+C000427,Aadhya,Anderson,aadhya.anderson427@company.com,+91-9097115920,Prefer not to say,1993-09-11,2024-12-08,SMB,,L00432,N
+C000428,Meera,Jones,meera.jones428@yahoo.com,+91-8454711522,Other,1980-03-01,2024-02-23,Corporate,Platinum,L00157,N
+C000429,Krishna,Sharma,krishna.sharma429@example.org,+1-997-427-5356,Prefer not to say,1996-04-02,2023-12-27,SMB,Platinum,L00410,N
+C000430,James,Miller,james.miller430@company.com,+91-7223365694,Female,2002-05-15,2024-06-30,Retail,,L00023,Y
+C000431,James,Yadav,james.yadav431@outlook.com,,Female,1997-04-14,2023-09-01,Retail,Gold,L00219,N
+C000432,Reyansh,Thomas,reyansh.thomas432@yahoo.com,+91-9294812874,Prefer not to say,2005-08-29,2023-01-08,Retail,,L00170,Y
+C000433,Fatima,Gupta,fatima.gupta433@outlook.com,+91-7896513703,Prefer not to say,2002-11-29,2023-04-04,Retail,,L00427,Y
+C000434,Aishwarya,Davis,aishwarya.davis434@example.org,+91-9065915482,Male,1982-12-23,2025-11-10,Enterprise,Gold,L00003,N
+C000435,Reyansh,Mehta,reyansh.mehta435@yahoo.com,+91-8292792128,Female,1989-06-28,2022-06-27,Online,Platinum,L00386,N
+C000436,Priya,Hegde,priya.hegde436@example.org,+91-9924621835,Male,1991-05-24,2022-11-28,Online,Silver,L00336,Y
+C000437,Sara,Johnson,sara.johnson437@yahoo.com,+91-8250015831,Male,1968-02-28,2021-08-21,Online,,L00360,N
+C000438,Suresh,Chopra,suresh.chopra438@company.com,+1-863-328-2638,Male,1981-09-15,2022-11-03,Online,,L00267,N
+C000439,Vikram,Miller,vikram.miller439@example.org,+91-7153848445,Prefer not to say,1995-08-12,2023-02-08,Enterprise,Bronze,L00386,N
+C000440,Rohan,Yadav,rohan.yadav440@gmail.com,+1-518-522-7940,Male,1998-12-04,2023-10-01,SMB,Gold,L00373,Y
+C000441,Priya,Verma,priya.verma441@company.com,+91-9808358434,Female,1983-02-22,2025-06-25,SMB,Gold,L00265,Y
+C000442,Lakshmi,Rao,lakshmi.rao442@example.org,+91-7750017038,Female,2006-10-21,2024-11-23,Corporate,Gold,L00010,Y
+C000443,Sophia,Brown,sophia.brown443@company.com,+1-689-910-8765,Prefer not to say,1971-01-10,2023-04-02,Retail,Silver,L00319,N
+C000444,Reyansh,Iyer,reyansh.iyer444@yahoo.com,+1-715-457-9739,Male,1965-04-11,2021-05-03,Online,,L00398,N
+C000445,Anika,Wilson,anika.wilson445@outlook.com,,Other,2006-10-02,2023-06-29,Enterprise,Gold,L00367,Y
+C000446,Kavya,Reddy,kavya.reddy446@outlook.com,+91-7539417008,Prefer not to say,1976-04-09,2023-12-19,Enterprise,Gold,L00209,N
+C000447,Pooja,Patel,pooja.patel447@company.com,+91-9683793303,Female,1976-11-16,2023-01-25,Online,Silver,L00173,N
+C000448,Nikhil,Das,nikhil.das448@gmail.com,+91-8406543353,Female,1981-06-25,2024-08-29,Retail,Bronze,L00313,Y
+C000449,Ishaan,Brown,ishaan.brown449@yahoo.com,+91-9014574389,Female,1984-08-31,2023-07-13,SMB,Silver,L00087,N
+C000450,Advait,Wilson,,+91-7556119538,Male,1997-01-14,2022-12-26,Enterprise,Silver,L00487,Y
+C000451,Michael,Mishra,michael.mishra451@gmail.com,+91-9597940086,Female,1989-06-18,2025-01-12,Corporate,Gold,L00333,Y
+C000452,John,Nair,john.nair452@example.org,+91-9859261948,Prefer not to say,1987-08-30,2023-08-30,Corporate,Gold,L00452,N
+C000453,Zoya,Shetty,zoya.shetty453@yahoo.com,+91-7175279695,Prefer not to say,1989-01-01,2025-08-06,Corporate,Platinum,L00216,Y
+C000454,Sara,Banerjee,sara.banerjee454@outlook.com,+91-7404129278,Prefer not to say,1987-12-28,2023-10-26,Online,,L00468,N
+C000455,Neha,Jones,neha.jones455@outlook.com,+1-982-907-1998,Prefer not to say,1986-08-03,2022-10-07,Enterprise,Silver,L00314,N
+C000456,Aditya,Iyer,aditya.iyer456@example.org,+91-8249543113,Female,1970-12-06,2022-07-03,Corporate,,L00180,Y
+C000457,Olivia,Nair,olivia.nair457@outlook.com,+1-861-875-9191,Female,2006-04-08,2023-03-14,Online,,L00031,Y
+C000458,Sneha,Joshi,sneha.joshi458@outlook.com,,Male,1975-04-27,2022-01-15,Enterprise,Platinum,L00016,N
+C000459,Aditya,Verma,aditya.verma459@example.org,+1-811-887-8878,Female,1965-07-03,2021-09-07,Retail,Gold,L00396,Y
+C000460,Kabir,Wilson,kabir.wilson460@yahoo.com,+1-865-449-2393,Female,1986-08-25,2025-05-30,SMB,Platinum,L00049,N
+C000461,Olivia,Nair,olivia.nair461@gmail.com,+91-9402912215,Other,1998-09-19,2025-09-07,SMB,Gold,L00469,N
+C000462,Arjun,Rao,arjun.rao462@gmail.com,,Prefer not to say,1977-01-19,2023-05-15,SMB,Bronze,L00400,Y
+C000463,Rudra,Roy,rudra.roy463@gmail.com,+1-754-531-2647,Prefer not to say,2001-09-10,2024-06-11,Online,Bronze,L00409,N
+C000464,James,Mishra,james.mishra464@company.com,+91-7662948561,Prefer not to say,1988-12-19,2023-02-13,Online,Platinum,L00145,Y
+C000465,Pooja,D Souza,pooja.dsouza465@example.org,+91-9941693267,Prefer not to say,1988-09-26,2023-08-26,Retail,Gold,L00122,Y
+C000466,Anjali,D Souza,,+91-9765220162,Female,1981-11-30,2026-01-11,Retail,Silver,L00466,N
+C000467,James,Naidu,james.naidu467@company.com,+1-846-734-4060,Male,1978-07-31,2021-01-31,Online,Gold,L00390,Y
+C000468,Olivia,Smith,olivia.smith468@yahoo.com,+91-8030025437,Female,1985-07-01,2023-09-24,Enterprise,,L00472,Y
+C000469,Reyansh,Davis,reyansh.davis469@example.org,+91-7301189764,Prefer not to say,1984-07-19,2021-10-10,Online,Bronze,L00413,N
+C000470,Michael,Kapoor,michael.kapoor470@yahoo.com,+91-7432123793,Male,1978-03-05,2024-10-26,Online,Silver,L00355,Y
+C000471,Ishaan,Ahmed,ishaan.ahmed471@yahoo.com,+91-7000185303,Other,1967-03-27,2025-02-12,Retail,Platinum,L00019,Y
+C000472,Krishna,Das,krishna.das472@company.com,+1-715-366-6375,Female,1967-08-16,2021-01-11,SMB,Platinum,L00287,Y
+C000473,Isha,Reddy,isha.reddy473@company.com,+1-755-990-7113,Male,1967-12-16,2023-09-14,Online,Gold,L00007,Y
+C000474,Aadhya,Nair,aadhya.nair474@gmail.com,+91-8400520599,Prefer not to say,1981-04-09,2025-03-04,Online,Silver,L00045,Y
+C000475,Aadhya,Reddy,aadhya.reddy475@company.com,+91-9229811927,Male,1976-07-03,2023-09-18,Online,Gold,L00005,N
+C000476,Rudra,Singh,rudra.singh476@example.org,+91-8353987738,Other,2003-06-19,2025-11-07,Enterprise,Bronze,L00219,N
+C000477,Sai,Jones,sai.jones477@outlook.com,+1-407-518-9821,Male,2005-06-13,2022-03-13,Retail,Silver,L00085,N
+C000478,Zoya,Thomas,zoya.thomas478@outlook.com,+91-7225171377,Other,2008-07-19,2022-03-13,Online,Silver,L00304,N
+C000479,Ishaan,Fernandes,ishaan.fernandes479@example.org,+91-9824745783,Female,1998-06-08,2021-03-21,SMB,Gold,L00446,Y
+C000480,Atharv,Banerjee,atharv.banerjee480@outlook.com,+91-9614292656,Other,2006-01-17,2023-04-12,Enterprise,Gold,L00306,Y
+C000481,Meera,Rao,meera.rao481@yahoo.com,,Male,1973-03-14,2024-03-02,SMB,Gold,L00211,Y
+C000482,Lakshmi,Ghosh,lakshmi.ghosh482@gmail.com,+91-8966323332,Prefer not to say,2007-08-30,2021-07-24,Retail,Silver,L00240,N
+C000483,Michael,Brown,michael.brown483@company.com,+91-9302533219,Female,1966-01-25,2024-07-22,SMB,Bronze,L00173,Y
+C000484,Sai,Ahmed,sai.ahmed484@outlook.com,+91-8028084172,Prefer not to say,2008-02-26,2025-11-21,Retail,Bronze,L00366,N
+C000485,Pranav,Kumar,pranav.kumar485@yahoo.com,+1-870-902-5253,Other,2004-12-13,2024-07-21,Enterprise,Bronze,L00451,N
+C000486,Krishna,Smith,krishna.smith486@example.org,+91-8159587317,Male,1966-04-05,2024-08-11,Enterprise,Gold,L00375,Y
+C000487,Emma,Sharma,emma.sharma487@outlook.com,+91-8897125534,Female,1980-08-15,2022-07-23,Online,,L00004,N
+C000488,Pooja,Ghosh,pooja.ghosh488@example.org,+1-426-869-6518,Other,1981-02-10,2024-01-23,SMB,Silver,L00179,Y
+C000489,Arjun,Gupta,arjun.gupta489@gmail.com,+91-8595484631,Male,1965-11-11,2024-08-12,Enterprise,Platinum,L00014,N
+C000490,Emma,Chopra,invalid_email_format,+91-9275399157,Other,2004-11-29,2025-01-07,SMB,Silver,L00129,Y
+C000491,Anika,Smith,anika.smith491@company.com,+91-9773830601,Male,1965-05-12,2022-11-03,Corporate,Platinum,L00343,N
+C000492,Diya,Kumar,diya.kumar492@yahoo.com,+91-8760443393,Female,1967-09-29,2024-04-07,Corporate,Gold,L00189,N
+C000493,Arjun,Sharma,,+91-9107465280,Prefer not to say,1975-12-17,2022-12-31,Corporate,Bronze,L00048,Y
+C000494,Ayaan,Iyer,ayaan.iyer494@company.com,+91-7720727836,Prefer not to say,2005-03-18,2022-07-31,Online,,L00007,N
+C000495,Ritika,Kumar,ritika.kumar495@gmail.com,+91-9414887803,Female,1972-07-07,2022-10-01,Corporate,Bronze,L00434,Y
+C000496,Karthik,Miller,karthik.miller496@outlook.com,+91-8513670734,Male,1991-09-24,2024-11-24,SMB,Silver,L00026,Y
+C000497,Sneha,Sharma,sneha.sharma497@outlook.com,+91-9295132052,Male,2000-09-03,2024-08-18,Online,Bronze,L00102,N
+C000498,Sara,Shetty,sara.shetty498@example.org,+91-7348724688,Male,1974-06-27,2023-06-14,SMB,,L00516,N
+C000499,Saanvi,Yadav,saanvi.yadav499@gmail.com,+91-8693315827,Female,1999-09-06,2025-03-17,Enterprise,,L00052,Y
+C000500,Anjali,Johnson,anjali.johnson500@outlook.com,+1-482-539-6095,Prefer not to say,1969-04-22,2024-09-08,Retail,Silver,L00055,Y
+C000501,Pooja,Ahmed,pooja.ahmed501@outlook.com,+91-7509517754,Female,1977-06-12,2021-07-01,Online,Bronze,L00259,Y
+C000502,Nikhil,Taylor,nikhil.taylor502@example.org,+91-9297311337,Female,1993-02-20,2025-02-15,SMB,Silver,L00130,Y
+C000503,Krishna,Brown,krishna.brown503@company.com,+91-7416723531,Female,1997-03-15,2023-02-03,Enterprise,Gold,L00250,Y
+C000504,Diya,Mishra,diya.mishra504@gmail.com,+91-9702917528,Prefer not to say,2000-07-29,2025-01-04,SMB,Platinum,L00353,Y
+C000505,Rudra,Ahmed,rudra.ahmed505@gmail.com,+91-9135631220,Male,1995-08-16,2023-05-02,Enterprise,,L00092,Y
+C000506,Shaurya,Anderson,shaurya.anderson506@example.org,+91-9572813823,Other,2002-10-11,2022-05-23,Enterprise,Platinum,L00270,Y
+C000507,Sai,Mishra,sai.mishra507@gmail.com,+91-7045875678,Prefer not to say,1983-03-17,2023-01-22,Enterprise,Platinum,L00058,Y
+C000508,John,Thomas,john.thomas508@outlook.com,+91-8678161605,Other,1967-09-18,2023-01-11,Retail,Platinum,L00371,N
+C000509,Advait,Ghosh,advait.ghosh509@example.org,+91-9350339454,Female,1965-05-20,2022-12-06,Corporate,Silver,L00427,N
+C000510,Mia,Khan,mia.khan510@gmail.com,+91-7481243518,Other,1983-06-08,2025-05-29,Online,Gold,L00222,N
+C000511,Reyansh,Jones,reyansh.jones511@example.org,+91-7128779966,Prefer not to say,2007-08-19,2024-05-01,Corporate,Gold,L00505,Y
+C000512,Ritika,Hegde,ritika.hegde512@yahoo.com,+91-8834054411,Other,1971-01-05,2025-12-23,Corporate,Gold,L00246,Y
+C000513,Kabir,Mehta,kabir.mehta513@outlook.com,+91-7662914552,Prefer not to say,1968-07-13,2021-06-08,SMB,Gold,L00247,N
+C000514,Emma,Hegde,emma.hegde514@example.org,+91-8636353361,Other,1991-04-29,2023-04-03,SMB,Silver,L00465,N
+C000515,Kavya,Shetty,kavya.shetty515@example.org,+91-9809045501,Prefer not to say,2006-10-09,2023-03-03,Retail,Platinum,L00403,Y
+C000516,Krishna,Iyer,krishna.iyer516@outlook.com,+91-8212212900,Other,1979-11-24,2024-03-18,SMB,Silver,L00009,N
+C000517,Suresh,Shetty,suresh.shetty517@example.org,,Other,2003-04-14,2021-08-20,SMB,,L00187,Y
+C000518,Ananya,Khan,ananya.khan518@yahoo.com,+91-9187944704,Male,2000-07-22,2022-05-23,SMB,Gold,L00201,Y
+C000519,Vihaan,Brown,vihaan.brown519@example.org,+91-9155470017,Male,2008-02-10,2021-08-02,Retail,Platinum,L00232,N
+C000520,Ishaan,Khan,ishaan.khan520@gmail.com,+91-8798968541,Female,2006-10-31,2026-02-20,SMB,Silver,L00095,N
+C000521,Priya,Smith,priya.smith521@yahoo.com,+91-9229195260,Female,1970-01-17,2021-04-10,Retail,,L00511,N
+C000522,Robert,Singh,robert.singh522@outlook.com,+1-673-663-3163,Prefer not to say,,2023-03-31,SMB,Bronze,L00441,Y
+C000523,Lakshmi,Naidu,lakshmi.naidu523@outlook.com,+1-749-264-1402,Male,1994-02-12,2022-10-29,Corporate,Platinum,L00377,Y
+C000524,Arjun,Ghosh,arjun.ghosh524@outlook.com,+91-9171135541,Male,1966-03-10,2023-05-22,Corporate,Platinum,L00123,Y
+C000525,Shaurya,Gupta,shaurya.gupta525@outlook.com,+91-8238991583,Female,1996-10-24,2022-12-20,Retail,,L00355,Y
+C000526,Lakshmi,Williams,lakshmi.williams526@outlook.com,+91-9356458959,Female,2005-01-26,2025-08-22,Corporate,Platinum,L00361,Y
+C000527,Advait,Miller,advait.miller527@example.org,+91-7004647660,Female,1986-04-01,2025-10-13,Corporate,Silver,L00373,Y
+C000528,Sai,Jones,sai.jones528@yahoo.com,+1-680-606-2501,Prefer not to say,2008-10-14,2024-02-03,Retail,,L00051,Y
+C000529,Advait,Hegde,advait.hegde529@gmail.com,+91-8610126342,Female,1969-06-23,2023-03-23,Online,,L00160,Y
+C000530,Anika,D Souza,anika.dsouza530@yahoo.com,+91-7846362761,Female,1979-07-20,2022-02-15,Corporate,Silver,L00490,Y
+C000531,Michael,Jones,michael.jones531@gmail.com,+91-9471989616,Female,1971-11-28,2022-06-04,Corporate,Silver,L00300,N
+C000532,Ananya,Kumar,ananya.kumar532@example.org,+1-545-416-7088,Prefer not to say,1982-06-24,2026-01-18,Corporate,Bronze,L00051,Y
+C000533,Rahul,Thomas,rahul.thomas533@company.com,+91-9712140974,Other,1995-01-04,2023-09-22,Online,Gold,L00007,Y
+C000534,Zoya,Reddy,zoya.reddy534@outlook.com,+91-7571862598,Prefer not to say,2000-03-11,2023-11-08,Enterprise,Bronze,L00059,N
+C000535,Olivia,Johnson,olivia.johnson535@gmail.com,+91-7823884537,Other,1972-10-26,2025-06-25,SMB,Bronze,L00075,Y
+C000536,Sara,Rao,sara.rao536@yahoo.com,+91-7055484655,Other,1997-05-04,2024-03-26,Enterprise,Gold,L00094,Y
+C000537,Sophia,Sharma,sophia.sharma537@outlook.com,+91-7552866963,Prefer not to say,1965-09-02,2024-09-27,Retail,Silver,L00163,N
+C000538,Advait,Taylor,advait.taylor538@outlook.com,+91-8409091304,Male,1988-11-11,2023-08-06,Online,Platinum,L00414,Y
+C000539,Kavya,Williams,kavya.williams539@company.com,+91-9614588897,Male,1984-08-22,2021-09-28,SMB,,L00190,N
+C000540,Isha,Naidu,isha.naidu540@outlook.com,+1-412-846-6058,Other,1992-01-13,2021-08-25,Retail,,L00208,N
+C000541,Ayaan,Singh,ayaan.singh541@gmail.com,+91-8920519077,Prefer not to say,1966-01-21,2025-09-21,SMB,,L00361,N
+C000542,Amit,Johnson,amit.johnson542@gmail.com,+91-7003928386,Prefer not to say,1985-10-29,2024-02-24,SMB,,L00431,N
+C000543,Vikram,Iyer,vikram.iyer543@company.com,+1-594-555-7989,Female,2003-06-26,2022-06-11,Corporate,Platinum,L00035,Y
+C000544,Robert,Hegde,robert.hegde544@yahoo.com,+91-9020034441,Other,1968-07-19,2023-06-23,Enterprise,Silver,L00476,N
+C000545,John,Shetty,john.shetty545@example.org,+91-7026033494,Prefer not to say,1969-12-10,2022-12-18,Enterprise,Gold,L00377,Y
+C000546,Suresh,Roy,suresh.roy546@example.org,+91-8833684700,Prefer not to say,1982-08-26,2024-06-06,SMB,Gold,L00344,N
+C000547,Vikram,Kapoor,vikram.kapoor547@gmail.com,+1-512-826-2987,Female,2006-08-18,2024-03-12,SMB,Gold,L00406,N
+C000548,Ritika,Das,ritika.das548@company.com,+91-8723098607,Prefer not to say,1975-01-27,2021-10-27,Enterprise,Silver,L00176,N
+C000549,Shaurya,Nair,shaurya.nair549@gmail.com,+1-978-784-8299,Male,1996-01-04,2021-05-06,SMB,,L00133,N
+C000550,Lakshmi,Fernandes,lakshmi.fernandes550@yahoo.com,+91-9622586756,Male,1999-11-21,2025-10-26,Online,Platinum,L00136,N
+C000551,Arjun,Singh,arjun.singh551@example.org,+91-7178913589,Male,1998-01-27,2026-01-12,Enterprise,Gold,L00145,N
+C000552,Neha,Thomas,neha.thomas552@outlook.com,+91-8105592313,Male,1989-11-30,2021-01-05,Online,Silver,L00483,Y
+C000553,Nikhil,Wilson,nikhil.wilson553@yahoo.com,+91-9279852894,Other,1974-12-05,2023-03-06,Corporate,Gold,L00407,Y
+C000554,Isha,Yadav,isha.yadav554@outlook.com,+91-7814835546,Male,,2023-07-26,Corporate,Platinum,L00318,N
+C000555,John,Thomas,john.thomas555@example.org,+1-233-765-6141,Male,2003-08-06,2024-03-11,Retail,Platinum,L00145,N
+C000556,Arjun,Smith,arjun.smith556@yahoo.com,+91-7123049596,Other,1979-04-16,2025-09-20,Corporate,Silver,L00213,N
+C000557,Ramesh,Kumar,ramesh.kumar557@company.com,+91-9391530903,Female,,2022-02-16,Retail,Silver,L00204,N
+C000558,Reyansh,Joshi,reyansh.joshi558@outlook.com,+1-435-222-4595,Male,1983-04-26,2022-06-04,Enterprise,Platinum,L00203,N
+C000559,Aarav,Brown,aarav.brown559@company.com,+91-8567589910,Male,2001-07-04,2025-03-18,SMB,Silver,L00356,Y
+C000560,Atharv,Mehta,atharv.mehta560@example.org,+91-7846473915,Female,1966-04-21,2022-04-27,Online,Gold,L00175,N
+C000561,Sophia,Anderson,sophia.anderson561@gmail.com,+91-9351731370,Other,2000-10-03,2024-09-17,Enterprise,Gold,L00168,N
+C000562,Reyansh,Johnson,reyansh.johnson562@company.com,+91-7853464253,Female,2000-04-15,2024-06-28,Retail,Platinum,L00109,N
+C000563,Rudra,Davis,rudra.davis563@company.com,+91-9220471493,Female,1987-09-09,2022-11-27,Retail,,L00152,N
+C000564,James,Davis,james.davis564@yahoo.com,+91-9997876470,Male,1986-10-11,2022-05-22,Retail,Silver,L00151,Y
+C000565,Vihaan,Khan,vihaan.khan565@example.org,+91-8682615500,Male,1980-07-20,2024-11-28,Retail,Platinum,L00242,Y
+C000566,Anika,Roy,anika.roy566@gmail.com,+1-430-812-3474,Other,1991-05-14,2021-08-01,SMB,Bronze,L00361,N
+C000567,Atharv,Singh,atharv.singh567@company.com,+1-966-460-5092,Other,1985-05-20,2024-02-16,Retail,Platinum,L00226,Y
+C000568,Suresh,Kapoor,suresh.kapoor568@example.org,+1-591-396-4199,Other,1989-03-16,2024-11-18,Enterprise,Bronze,L00002,N
+C000569,Neha,Williams,neha.williams569@example.org,,Other,1965-12-07,2023-08-10,Enterprise,,L00278,N
+C000570,Emma,Banerjee,emma.banerjee570@outlook.com,+1-658-708-5216,Other,1984-02-29,2023-03-25,SMB,Silver,L00187,N
+C000571,Saanvi,Banerjee,saanvi.banerjee571@outlook.com,+91-8175384349,Male,1983-10-08,2021-02-05,Online,Silver,L00158,Y
+C000572,Ritika,Yadav,ritika.yadav572@outlook.com,+91-7383419350,Female,2003-10-16,2026-03-08,Online,Gold,L00331,N
+C000573,John,Anderson,john.anderson573@company.com,+91-7800770722,Other,1983-05-01,2024-08-15,Corporate,Bronze,L00158,N
+C000574,Ramesh,Kapoor,ramesh.kapoor574@example.org,+91-9117897663,Male,1973-09-23,2021-07-18,Online,,L00348,Y
+C000575,Shaurya,Reddy,shaurya.reddy575@gmail.com,+91-7497522368,Male,1968-06-03,2025-05-21,Online,Silver,L00178,N
+C000576,Pooja,Williams,pooja.williams576@company.com,+91-7027623629,Prefer not to say,1979-08-28,2023-12-24,SMB,Silver,L00113,Y
+C000577,Ananya,Kumar,ananya.kumar577@example.org,+1-709-652-9592,Prefer not to say,2002-04-26,2022-05-16,SMB,Platinum,L00492,N
+C000578,Ayaan,D Souza,ayaan.dsouza578@outlook.com,+91-9157733631,Female,1971-04-28,2024-06-04,Corporate,Silver,L00115,Y
+C000579,Arjun,Gupta,arjun.gupta579@yahoo.com,+91-7828879716,Male,2008-08-17,2025-06-18,Online,Platinum,L00223,Y
+C000580,Isha,Anderson,isha.anderson580@example.org,+91-9008546396,Male,1972-03-20,2024-08-27,Enterprise,Platinum,L00099,N
+C000581,John,Yadav,john.yadav581@gmail.com,+91-8139735782,Male,,2024-01-10,Retail,Gold,L00166,Y
+C000582,Neha,Chopra,neha.chopra582@example.org,+91-8164182502,Male,1983-10-01,2026-03-10,Enterprise,,L00166,N
+C000583,Aadhya,D Souza,aadhya.dsouza583@outlook.com,+1-381-769-4388,Female,2005-01-21,2024-06-02,Enterprise,Platinum,L00514,Y
+C000584,Lakshmi,Khan,lakshmi.khan584@example.org,+1-968-986-7594,Other,1985-05-28,2023-03-26,Retail,Bronze,L00182,Y
+C000585,Zoya,Jones,zoya.jones585@outlook.com,+91-7739289793,Female,1995-03-11,2021-07-23,Corporate,Platinum,L00157,Y
+C000586,Suresh,Verma,suresh.verma586@company.com,+1-693-704-7318,Other,1966-12-13,2024-08-25,Corporate,Bronze,L00098,Y
+C000587,Isabella,Das,isabella.das587@outlook.com,+91-9035426703,Male,1984-12-11,2024-05-27,Online,Platinum,L00479,Y
+C000588,Vikram,Naidu,vikram.naidu588@company.com,+91-9213612180,Prefer not to say,1982-07-13,2024-12-07,Corporate,,L00155,N
+C000589,Reyansh,Ahmed,reyansh.ahmed589@yahoo.com,+91-8009490837,Other,1990-05-15,2024-04-29,SMB,Platinum,L00520,Y
+C000590,Robert,Ghosh,robert.ghosh590@outlook.com,+91-8991712945,Prefer not to say,1993-02-22,2022-07-04,SMB,Bronze,L00456,N
+C000591,Diya,Williams,diya.williams591@gmail.com,+91-8812888025,Other,1995-10-10,2022-09-21,Online,Gold,L00469,N
+C000592,Priya,Mishra,priya.mishra592@example.org,+1-509-315-7733,Other,1977-12-18,2022-05-12,Online,,L00474,Y
+C000593,Amit,Anderson,amit.anderson593@example.org,+91-7950351423,Prefer not to say,1992-02-20,2025-06-11,SMB,Silver,L00011,Y
+C000594,Aditya,Yadav,aditya.yadav594@company.com,+91-8503015122,Male,1978-01-02,2023-03-31,Corporate,Gold,L00407,N
+C000595,Reyansh,Mehta,reyansh.mehta595@gmail.com,+91-8768285121,Other,1994-11-12,2025-11-27,Online,,L00195,Y
+C000596,Robert,Johnson,,+1-961-308-6695,Prefer not to say,1975-08-12,2025-11-08,Retail,Bronze,L00426,Y
+C000597,Sara,Naidu,,+91-8321523346,Other,1974-02-13,2024-08-14,Retail,,L00365,N
+C000598,Advait,Brown,advait.brown598@example.org,+91-9939948560,Male,1990-07-19,2023-07-09,Online,Platinum,L00443,Y
+C000599,Fatima,Gupta,fatima.gupta599@gmail.com,+91-9457936744,Other,2004-11-10,2023-02-02,SMB,Gold,L00438,Y
+C000600,Aditya,Thomas,aditya.thomas600@company.com,+91-8123765304,Male,2006-02-11,2025-08-04,Corporate,Bronze,L00411,N
+C000601,Nandini,D Souza,nandini.dsouza601@company.com,,Female,1973-02-10,2025-10-18,SMB,Platinum,L00189,Y
+C000602,Vikram,Johnson,vikram.johnson602@company.com,+91-7945599749,Female,1991-10-17,2023-02-02,Corporate,,L00334,Y
+C000603,Anika,Iyer,anika.iyer603@outlook.com,+91-9387655573,Male,,2021-07-28,Corporate,Platinum,L00224,Y
+C000604,Sai,Reddy,sai.reddy604@company.com,+91-9551993898,Other,2008-07-05,2024-07-21,Online,Silver,L00147,N
+C000605,Michael,Banerjee,michael.banerjee605@example.org,+91-7592986605,Other,1995-07-24,2021-12-15,Retail,,L00313,N
+C000606,Nandini,Iyer,nandini.iyer606@company.com,+91-8100916845,Prefer not to say,1978-11-03,2023-01-14,Enterprise,Silver,L00049,N
+C000607,Karthik,Singh,karthik.singh607@yahoo.com,+91-8733148770,Other,2000-05-31,2025-09-03,Online,Platinum,L00115,Y
+C000608,Aishwarya,Joshi,aishwarya.joshi608@gmail.com,+91-8600176918,Male,1973-10-04,2022-04-01,Retail,Silver,L00032,Y
+C000609,Neha,Kumar,neha.kumar609@company.com,+1-725-685-9290,Female,2005-12-25,2025-07-22,Enterprise,Silver,L00180,Y
+C000610,Sneha,D Souza,sneha.dsouza610@outlook.com,+91-7205151085,Female,1984-12-20,2021-09-08,Corporate,Platinum,L00186,Y
+C000611,Ritika,Nair,ritika.nair611@yahoo.com,+91-8567534640,Prefer not to say,2003-12-31,2022-07-26,Enterprise,Silver,L00300,N
+C000612,Arjun,Ghosh,arjun.ghosh612@outlook.com,+91-8297727898,Other,1981-11-14,2025-12-25,Online,,L00264,Y
+C000613,Ayaan,Patel,ayaan.patel613@example.org,+91-8115072874,Other,1965-10-05,2024-03-28,Retail,,L00234,N
+C000614,Amit,Roy,amit.roy614@outlook.com,+91-8277546298,Prefer not to say,1998-09-10,2024-06-22,Enterprise,Silver,L00305,N
+C000615,Anika,Rao,anika.rao615@example.org,+91-8703626569,Prefer not to say,1991-07-28,2025-09-22,Enterprise,,L00114,Y
+C000616,Vikram,Miller,vikram.miller616@example.org,+91-8993769225,Other,1965-08-24,2023-08-05,SMB,Gold,L00084,Y
+C000617,Olivia,Joshi,olivia.joshi617@company.com,+91-9863430955,Male,1969-09-14,2023-12-08,Online,Gold,L00401,N
+C000618,Ayaan,Iyer,ayaan.iyer618@example.org,+91-8611180617,Male,2007-05-28,2022-07-18,Online,,L00082,Y
+C000619,Meera,Smith,meera.smith619@example.org,+91-8034229373,Other,1983-12-22,2026-03-09,SMB,,L00436,Y
+C000620,Aadhya,Sharma,aadhya.sharma620@yahoo.com,+91-9206361716,Male,,2025-03-09,Online,Silver,L00021,N
+C000621,Fatima,Banerjee,fatima.banerjee621@yahoo.com,+91-9370765914,Male,1967-08-26,2024-03-21,Retail,Bronze,L00044,N
+C000622,Krishna,Ghosh,krishna.ghosh622@outlook.com,+91-7676962489,Prefer not to say,1980-05-25,2026-01-30,Enterprise,Silver,L00072,N
+C000623,John,Naidu,john.naidu623@example.org,+91-8313884494,Male,1980-11-05,2022-03-05,Online,Gold,L00252,N
+C000624,Lakshmi,Roy,lakshmi.roy624@company.com,+91-7281695283,Prefer not to say,1982-04-23,2025-10-29,SMB,Gold,L00343,Y
+C000625,Amit,Chopra,invalid_email_format,+1-828-243-3195,Female,1986-10-23,2023-08-24,Enterprise,Platinum,L00246,N
+C000626,Kabir,Roy,kabir.roy626@outlook.com,+91-8237643408,Male,2001-08-25,2021-05-21,Online,Platinum,L00263,N
+C000627,Pranav,Rao,pranav.rao627@example.org,+1-850-506-7710,Female,2008-10-01,2021-03-29,Online,Bronze,L00272,Y
+C000628,Pranav,Sharma,pranav.sharma628@yahoo.com,+91-8375237332,Other,2006-11-18,2021-10-03,SMB,Platinum,L00433,Y
+C000629,Anjali,Mehta,anjali.mehta629@example.org,+91-7692712832,Other,2000-10-06,2024-03-23,Online,Bronze,L00422,Y
+C000630,Pooja,Das,pooja.das630@example.org,+91-9507645339,Female,2008-02-08,2025-03-26,SMB,,L00328,N
+C000631,Anika,Khan,anika.khan631@company.com,+91-7644012788,Male,1989-10-19,2025-07-09,SMB,Bronze,L00436,Y
+C000632,Pranav,Anderson,pranav.anderson632@example.org,+91-9952818520,Other,1974-03-22,2023-10-08,Corporate,Silver,L00520,Y
+C000633,James,Johnson,james.johnson633@company.com,+91-7822722359,Male,1965-05-19,2025-01-09,SMB,Silver,L00239,N
+C000634,Atharv,Davis,atharv.davis634@outlook.com,+91-8142544669,Female,2006-06-11,2021-03-22,Corporate,Bronze,L00171,Y
+C000635,Karthik,Brown,karthik.brown635@company.com,+91-7879946634,Other,1967-07-17,2021-02-10,Corporate,Silver,L00068,N
+C000636,Emma,Chopra,emma.chopra636@example.org,+91-7194991446,Female,1992-08-21,2025-01-03,SMB,,L00495,N
+C000637,David,Wilson,david.wilson637@company.com,+91-8277243522,Prefer not to say,1973-03-23,2022-02-24,Corporate,Silver,L00417,N
+C000638,Mia,Joshi,mia.joshi638@outlook.com,+91-7353579936,Male,1973-08-19,2021-03-14,Corporate,Bronze,L00053,N
+C000639,Pooja,Thomas,pooja.thomas639@company.com,+91-7556517351,Female,1966-07-30,2025-05-15,Enterprise,Silver,L00156,Y
+C000640,Advait,Fernandes,advait.fernandes640@example.org,+91-7032654428,Prefer not to say,1992-02-19,2023-09-02,SMB,,L00477,Y
+C000641,Aadhya,Joshi,aadhya.joshi641@example.org,+91-7620914536,Prefer not to say,1972-03-10,2021-12-18,Online,Platinum,L00463,Y
+C000642,Anika,Singh,anika.singh642@outlook.com,+91-9635443277,Prefer not to say,2006-05-12,2025-11-18,Enterprise,Bronze,L00324,Y
+C000643,Arjun,Johnson,arjun.johnson643@gmail.com,+91-8003942096,Other,1971-06-29,2021-04-21,Corporate,Silver,L00417,N
+C000644,Fatima,Thomas,fatima.thomas644@gmail.com,+91-7593338137,Male,1968-09-10,2025-03-27,SMB,Platinum,L00277,N
+C000645,Ananya,Verma,ananya.verma645@outlook.com,+91-8378494089,Prefer not to say,1969-03-27,2022-10-09,Enterprise,,L00362,N
+C000646,Vivaan,Ahmed,vivaan.ahmed646@yahoo.com,+1-908-567-9848,Male,1982-02-24,2021-08-18,Online,,L00360,Y
+C000647,Kavya,Davis,kavya.davis647@company.com,+1-919-492-9779,Prefer not to say,1986-06-27,2022-06-07,Enterprise,Platinum,L00424,Y
+C000648,Priya,Miller,priya.miller648@yahoo.com,+91-7848013097,Male,2001-10-28,2023-06-17,Enterprise,Gold,L00237,Y
+C000649,Vikram,Gupta,vikram.gupta649@gmail.com,+91-9414979348,Female,1992-04-09,2023-03-16,Corporate,Gold,L00207,N
+C000650,Rahul,Brown,rahul.brown650@gmail.com,+91-7384239360,Male,1977-04-22,2022-10-15,Corporate,Silver,L00421,N
+C000651,Robert,Singh,,+91-8077510195,Prefer not to say,1974-10-09,2025-04-09,SMB,Platinum,L00214,N
+C000652,Ayaan,Sharma,ayaan.sharma652@gmail.com,+91-8873484465,Male,1976-04-23,2021-09-06,Retail,Platinum,L00093,Y
+C000653,Krishna,Williams,krishna.williams653@outlook.com,+1-959-795-9715,Other,1997-02-18,2025-02-24,Retail,,L00471,N
+C000654,Rohan,Hegde,rohan.hegde654@outlook.com,+91-7075588213,Male,1974-10-31,2024-11-02,Corporate,Platinum,L00284,Y
+C000655,Neha,Iyer,neha.iyer655@yahoo.com,+91-8979682783,Other,1976-08-16,2024-11-22,Retail,Silver,L00379,N
+C000656,Zoya,Sharma,zoya.sharma656@gmail.com,+91-8061441348,Other,1983-06-11,2023-04-26,SMB,Platinum,L00285,N
+C000657,Michael,Patel,michael.patel657@gmail.com,+91-7452044995,Male,1971-04-01,2025-07-18,Corporate,Silver,L00017,Y
+C000658,Aishwarya,Roy,aishwarya.roy658@gmail.com,+91-9918561259,Prefer not to say,1988-10-24,2021-03-10,SMB,Silver,L00145,N
+C000659,Karthik,Mishra,karthik.mishra659@company.com,+91-7728355146,Male,1965-05-18,2021-02-05,Online,Silver,L00466,N
+C000660,Ayaan,Fernandes,,+91-9576592778,Prefer not to say,1990-04-28,2022-12-10,Retail,Bronze,L00336,N
+C000661,Rudra,Patel,rudra.patel661@yahoo.com,+91-7077117049,Male,1990-03-11,2021-09-19,Corporate,Silver,L00088,Y
+C000662,Lakshmi,D Souza,lakshmi.dsouza662@gmail.com,+91-7409913848,Prefer not to say,1997-02-01,2023-12-27,SMB,Silver,L00271,N
+C000663,David,Gupta,invalid_email_format,+91-9928928917,Male,1974-10-25,2023-05-09,Retail,Gold,L00451,Y
+C000664,Anika,Joshi,anika.joshi664@yahoo.com,+91-7487944009,Prefer not to say,1990-01-17,2022-12-18,Corporate,Gold,L00241,Y
+C000665,Krishna,Smith,krishna.smith665@outlook.com,+91-7012476766,Other,1983-10-07,2025-10-02,Enterprise,Silver,L00402,Y
+C000666,Arjun,Brown,arjun.brown666@company.com,+1-652-722-5416,Male,1985-12-14,2023-08-28,SMB,Bronze,L00301,Y
+C000667,Reyansh,Jones,reyansh.jones667@yahoo.com,+91-8583949496,Female,1975-07-23,2021-09-15,SMB,Platinum,L00150,N
+C000668,Ayaan,Singh,ayaan.singh668@gmail.com,+91-9087966731,Other,1998-02-12,2024-05-23,Corporate,Bronze,L00259,N
+C000669,Rahul,Roy,rahul.roy669@gmail.com,+91-7331297894,Female,1973-10-10,2025-05-05,Retail,Platinum,L00505,Y
+C000670,Ramesh,Anderson,ramesh.anderson670@yahoo.com,+91-9831175888,Prefer not to say,1967-11-28,2025-01-22,Enterprise,Platinum,L00184,N
+C000671,Vivaan,Naidu,vivaan.naidu671@gmail.com,+1-244-386-2492,Other,2004-05-23,2025-07-28,Corporate,Silver,L00165,Y
+C000672,Diya,Patel,diya.patel672@yahoo.com,+91-8729765559,Prefer not to say,2007-06-08,2025-08-15,Retail,Silver,L00005,Y
+C000673,John,Mishra,john.mishra673@gmail.com,+91-8804787624,Male,1969-01-05,2021-06-14,Enterprise,Bronze,L00051,Y
+C000674,John,Williams,john.williams674@gmail.com,+91-8529095489,Prefer not to say,2000-01-08,2021-04-04,Corporate,Gold,L00425,Y
+C000675,Rohan,Nair,rohan.nair675@example.org,+91-9770293379,Male,1988-07-02,2025-08-10,Retail,Silver,L00478,N
+C000676,Ramesh,Miller,ramesh.miller676@outlook.com,+91-7074171937,Male,1988-09-15,2024-02-18,Enterprise,,L00171,Y
+C000677,Aadhya,Khan,aadhya.khan677@company.com,+91-7090082420,Female,1992-08-12,2025-05-15,Online,,L00114,N
+C000678,Anika,Khan,anika.khan678@example.org,+91-8110339712,Male,2004-05-26,2023-07-06,SMB,,L00042,Y
+C000679,Michael,Wilson,michael.wilson679@yahoo.com,+1-676-712-1515,Female,1994-03-21,2021-12-14,Corporate,Silver,L00016,N
+C000680,Shaurya,Khan,shaurya.khan680@company.com,+91-9586560390,Prefer not to say,,2024-02-04,Enterprise,Gold,L00392,Y
+C000681,John,Khan,invalid_email_format,+91-9996257798,Prefer not to say,1979-06-10,2021-07-03,Corporate,Platinum,L00146,Y
+C000682,Aarav,Joshi,aarav.joshi682@outlook.com,+91-9665295036,Male,2000-01-26,2026-01-03,Corporate,,L00265,Y
+C000683,Amit,Jones,amit.jones683@gmail.com,+91-7033449508,Male,1984-01-26,2025-02-21,Corporate,Bronze,L00110,Y
+C000684,Arjun,Hegde,arjun.hegde684@company.com,+91-9502382096,Female,1978-01-17,2024-12-01,Online,Gold,L00398,Y
+C000685,Sai,Iyer,sai.iyer685@gmail.com,+91-9687525530,Female,1987-05-16,2026-02-11,Online,Platinum,L00283,Y
+C000686,Kabir,Wilson,kabir.wilson686@yahoo.com,+91-9506424570,Prefer not to say,1999-07-24,2024-01-24,Retail,Silver,L00141,Y
+C000687,James,Taylor,james.taylor687@company.com,+91-8118557484,Prefer not to say,1981-11-19,2021-11-13,Enterprise,Bronze,L00266,Y
+C000688,Amit,D Souza,amit.dsouza688@yahoo.com,+91-8385570630,Male,1966-08-24,2021-10-17,Retail,,L00480,N
+C000689,Ananya,Kapoor,ananya.kapoor689@company.com,+91-9101140130,Other,1997-06-02,2024-09-23,Corporate,,L00493,Y
+C000690,Meera,Roy,meera.roy690@gmail.com,+1-715-532-8520,Other,1967-03-28,2023-02-25,Enterprise,,L00186,N
+C000691,Meera,Kumar,meera.kumar691@example.org,,Prefer not to say,1984-03-24,2023-05-04,Corporate,Platinum,L00460,Y
+C000692,Michael,Joshi,michael.joshi692@yahoo.com,+91-8797262545,Female,1996-01-10,2023-05-06,Enterprise,,L00488,N
+C000693,Isha,Verma,isha.verma693@yahoo.com,+91-8714861561,Female,1967-08-01,2021-12-28,SMB,Bronze,L00240,Y
+C000694,Ritika,Fernandes,,+1-535-810-8362,Other,1999-11-01,2022-06-12,Retail,Platinum,L00440,N
+C000695,Ramesh,Naidu,ramesh.naidu695@yahoo.com,+91-9787020089,Female,2002-04-14,2022-05-10,Enterprise,Silver,L00029,N
+C000696,Atharv,Patel,atharv.patel696@outlook.com,+91-9108529297,Other,1969-10-10,2021-07-31,Enterprise,Platinum,L00494,Y
+C000697,Reyansh,D Souza,reyansh.dsouza697@outlook.com,+91-7965130658,Female,1977-12-18,2021-08-22,Corporate,Bronze,L00381,N
+C000698,Aarav,Joshi,aarav.joshi698@example.org,+1-383-391-1484,Male,1983-07-16,2025-03-10,SMB,Silver,L00185,N
+C000699,Mia,Reddy,mia.reddy699@gmail.com,+91-7082819365,Female,2004-08-19,2023-08-10,Retail,Platinum,L00462,Y
+C000700,Emma,Gupta,emma.gupta700@yahoo.com,+91-7107848168,Other,1973-04-15,2022-03-04,Enterprise,,L00204,Y
+C000701,Sophia,Brown,sophia.brown701@outlook.com,+91-9564168143,Male,2006-01-31,2022-05-10,SMB,Gold,L00444,Y
+C000702,Karthik,Wilson,karthik.wilson702@yahoo.com,+91-8977938702,Prefer not to say,1985-09-22,2021-09-18,Retail,Silver,L00231,Y
+C000703,Rudra,Naidu,rudra.naidu703@gmail.com,+91-9531083821,Prefer not to say,1970-08-18,2021-05-02,SMB,Silver,L00440,N
+C000704,Sneha,Ghosh,sneha.ghosh704@yahoo.com,+1-802-700-5338,Prefer not to say,1985-04-22,2021-02-17,Retail,Platinum,L00383,N
+C000705,James,Fernandes,james.fernandes705@gmail.com,+91-8787911340,Male,2008-01-21,2024-03-03,Retail,Gold,L00106,N
+C000706,Kabir,Gupta,kabir.gupta706@yahoo.com,+91-8875714534,Female,2005-04-26,2021-12-22,Retail,Silver,L00231,Y
+C000707,Aditya,Singh,aditya.singh707@yahoo.com,+1-539-552-1972,Other,2004-09-08,2024-06-20,Retail,Silver,L00117,N
+C000708,Isabella,Wilson,isabella.wilson708@example.org,+91-9566937282,Other,1999-10-20,2025-03-27,Enterprise,Silver,L00199,N
+C000709,Sophia,Davis,sophia.davis709@gmail.com,+91-9446580564,Other,1970-09-01,2021-09-08,Online,Bronze,L00237,N
+C000710,James,Thomas,james.thomas710@yahoo.com,+1-826-815-3193,Female,1971-05-27,2021-08-30,Enterprise,Gold,L00058,N
+C000711,Arjun,Sharma,arjun.sharma711@company.com,+91-9539145153,Male,1974-02-11,2024-03-05,Corporate,Platinum,L00096,N
+C000712,Rudra,Nair,rudra.nair712@company.com,+91-9367662531,Female,2003-05-09,2023-05-18,Online,Platinum,L00132,N
+C000713,Ishaan,Verma,ishaan.verma713@example.org,+91-8469839958,Other,1990-08-14,2021-01-10,Corporate,Gold,L00028,Y
+C000714,Michael,Nair,michael.nair714@gmail.com,+91-7754553498,Female,1979-04-04,2021-01-21,Retail,Gold,L00364,Y
+C000715,Vihaan,Miller,vihaan.miller715@company.com,+91-8937570423,Other,1985-11-29,2022-06-19,Corporate,Bronze,L00144,Y
+C000716,Rohan,Banerjee,rohan.banerjee716@example.org,+1-804-384-1121,Prefer not to say,1989-05-07,2025-04-30,Online,Silver,L00310,Y
+C000717,James,Yadav,james.yadav717@example.org,+91-8829066360,Female,1981-01-21,2021-07-15,Online,Gold,L00363,N
+C000718,Neha,Rao,neha.rao718@example.org,+1-567-952-9639,Other,1998-02-21,2025-08-26,Enterprise,Silver,L00197,N
+C000719,Vivaan,Jones,vivaan.jones719@yahoo.com,+91-7410696305,Other,1978-09-09,2023-01-13,Retail,,L00173,N
+C000720,Shaurya,Kumar,shaurya.kumar720@outlook.com,+1-208-973-2741,Prefer not to say,1997-09-19,2022-12-24,SMB,Platinum,L00188,Y
+C000721,Advait,Anderson,advait.anderson721@yahoo.com,+1-861-213-2485,Other,1972-04-16,2025-06-12,Corporate,,L00174,Y
+C000722,Aishwarya,Fernandes,aishwarya.fernandes722@company.com,+91-9272868115,Other,1983-05-22,2021-10-03,Retail,,L00041,N
+C000723,Atharv,Reddy,atharv.reddy723@company.com,+1-862-240-1307,Female,1968-05-11,2024-06-12,Corporate,,L00238,Y
+C000724,Vikram,Smith,vikram.smith724@gmail.com,+91-8939439123,Male,1965-04-05,2025-10-12,Corporate,Platinum,L00392,N
+C000725,Suresh,Thomas,suresh.thomas725@yahoo.com,+91-9244864786,Other,2008-10-06,2023-08-29,Online,Gold,L00057,Y
+C000726,Suresh,Mehta,suresh.mehta726@company.com,+91-7889265529,Female,2002-01-22,2023-06-30,Corporate,Silver,L00093,N
+C000727,Fatima,Kapoor,fatima.kapoor727@yahoo.com,+91-8426349278,Other,1997-02-03,2022-02-14,Corporate,Platinum,L00141,Y
+C000728,Zoya,Hegde,zoya.hegde728@example.org,+91-8376914147,Other,1996-01-25,2025-10-25,Retail,Gold,L00433,N
+C000729,Saanvi,Banerjee,saanvi.banerjee729@yahoo.com,+91-8803867852,Female,2002-07-01,2021-06-27,Corporate,Bronze,L00021,Y
+C000730,Rudra,Brown,rudra.brown730@yahoo.com,+91-7875920193,Other,1974-10-29,2021-12-11,Online,Platinum,L00509,N
+C000731,James,Sharma,james.sharma731@outlook.com,+91-7961480263,Prefer not to say,1975-02-10,2025-03-07,Retail,Gold,L00379,N
+C000732,Neha,D Souza,neha.dsouza732@yahoo.com,+91-7039610421,Other,1987-06-21,2022-04-11,SMB,Silver,L00348,Y
+C000733,Rahul,Chopra,rahul.chopra733@yahoo.com,+1-817-216-1532,Male,1988-12-09,2023-09-04,Enterprise,Bronze,L00226,N
+C000734,Priya,Miller,priya.miller734@yahoo.com,+91-8497616714,Other,1981-10-30,2025-01-30,SMB,Platinum,L00406,N
+C000735,Ananya,Mehta,ananya.mehta735@company.com,+91-9651318800,Other,1978-04-27,2024-09-11,Online,,L00377,Y
+C000736,Ishaan,Brown,ishaan.brown736@company.com,+1-370-790-2802,Prefer not to say,1988-03-11,2025-05-11,Online,Platinum,L00012,Y
+C000737,Kabir,Shetty,kabir.shetty737@company.com,+91-8403714360,Other,1966-08-22,2026-01-17,Online,,L00346,Y
+C000738,Diya,Johnson,diya.johnson738@company.com,+91-7072963025,Female,2000-07-03,2024-12-06,Corporate,Platinum,L00483,N
+C000739,Saanvi,Taylor,saanvi.taylor739@yahoo.com,+91-9012912116,Other,1994-01-10,2023-11-07,Retail,Platinum,L00463,N
+C000740,Ritika,Fernandes,ritika.fernandes740@outlook.com,+91-9664732172,Other,1986-08-09,2025-03-29,SMB,Bronze,L00516,N
+C000741,Krishna,Khan,krishna.khan741@company.com,+91-9123083535,Prefer not to say,1996-05-29,2025-04-16,Enterprise,Bronze,L00433,N
+C000742,Atharv,Patel,atharv.patel742@gmail.com,+91-7533685743,Female,1973-08-07,2023-08-30,Online,,L00016,Y
+C000743,Ritika,Davis,ritika.davis743@outlook.com,+91-8841030174,Female,1979-06-26,2024-12-09,Enterprise,Bronze,L00429,N
+C000744,Vikram,Kapoor,vikram.kapoor744@outlook.com,+91-7956630674,Female,1997-03-17,2022-02-27,Retail,Silver,L00031,N
+C000745,Lakshmi,Verma,invalid_email_format,+91-9539884131,Male,1966-03-15,2023-07-10,Online,Platinum,L00429,Y
+C000746,Rohan,Miller,rohan.miller746@outlook.com,+1-478-437-9398,Female,2000-04-10,2024-09-10,Retail,Platinum,L00285,Y
+C000747,Priya,Sharma,priya.sharma747@company.com,+91-9100045530,Male,1970-02-10,2024-10-20,SMB,,L00228,Y
+C000748,Fatima,Jones,fatima.jones748@gmail.com,+91-7654468820,Female,1986-05-09,2021-08-23,SMB,Bronze,L00048,N
+C000749,Pranav,Verma,pranav.verma749@example.org,+91-7103077840,Prefer not to say,1972-02-24,2023-07-20,SMB,Gold,L00068,N
+C000750,Vivaan,Verma,vivaan.verma750@company.com,+91-8663496477,Other,1973-04-01,2024-03-03,Enterprise,,L00348,Y
+C000751,Anjali,Khan,anjali.khan751@example.org,+1-594-312-3809,Female,1982-08-01,2023-04-12,Corporate,,L00484,Y
+C000752,Lakshmi,Kumar,lakshmi.kumar752@company.com,+91-9953544676,Female,1974-10-18,2022-07-06,SMB,,L00288,N
+C000753,Sai,Kumar,sai.kumar753@gmail.com,+91-7967496759,Prefer not to say,1972-04-13,2022-09-03,Online,Bronze,L00147,Y
+C000754,Aadhya,Shetty,aadhya.shetty754@outlook.com,+91-8806544899,Female,2001-11-30,2023-04-10,Enterprise,Bronze,L00463,Y
+C000755,Amit,Chopra,amit.chopra755@company.com,+91-9767150414,Other,1980-12-02,2022-12-22,Retail,,L00044,N
+C000756,Emma,Das,emma.das756@gmail.com,+1-609-918-5456,Prefer not to say,1980-10-20,2021-09-01,SMB,Gold,L00151,N
+C000757,Advait,Ahmed,advait.ahmed757@outlook.com,+91-8248962852,Other,1999-10-15,2024-05-22,Corporate,Gold,L00475,N
+C000758,Anika,Kumar,anika.kumar758@outlook.com,+91-7840734378,Female,,2022-01-13,Enterprise,Platinum,L00397,Y
+C000759,Ritika,Anderson,ritika.anderson759@company.com,+91-9924655187,Female,1991-06-20,2024-06-03,Online,,L00387,Y
+C000760,James,Wilson,james.wilson760@company.com,+1-609-769-9433,Prefer not to say,,2024-12-25,Retail,Silver,L00476,N
+C000761,Vihaan,Miller,vihaan.miller761@yahoo.com,+1-452-297-6363,Male,1988-09-05,2024-05-20,Corporate,Platinum,L00205,Y
+C000762,Arjun,Roy,arjun.roy762@yahoo.com,+91-9156871133,Male,2002-09-07,2021-10-28,SMB,Silver,L00409,Y
+C000763,David,Taylor,david.taylor763@gmail.com,+91-7387312186,Prefer not to say,2001-05-28,2023-11-24,Online,,L00210,N
+C000764,Mia,Hegde,,+91-9575297441,Female,2005-10-04,2022-08-31,Corporate,Silver,L00139,N
+C000765,Vivaan,Taylor,vivaan.taylor765@company.com,+1-638-823-2676,Male,2005-08-18,2024-02-19,SMB,Platinum,L00268,Y
+C000766,Sai,Johnson,sai.johnson766@yahoo.com,+91-7009168794,Other,1969-07-05,2023-04-18,Corporate,Gold,L00419,Y
+C000767,Olivia,Ghosh,olivia.ghosh767@company.com,+91-9329231412,Other,2008-04-05,2022-04-07,Retail,Bronze,L00326,Y
+C000768,Anika,Mishra,anika.mishra768@outlook.com,+91-8145618140,Female,1968-11-12,2023-05-09,Corporate,Gold,L00232,Y
+C000769,Neha,Johnson,neha.johnson769@outlook.com,+91-7132134887,Other,1973-04-01,2025-02-07,Enterprise,Gold,L00306,Y
+C000770,Anika,D Souza,anika.dsouza770@gmail.com,+91-8751564523,Male,1975-02-12,2025-05-06,Enterprise,Platinum,L00132,N
+C000771,James,Reddy,james.reddy771@company.com,+91-9254683054,Female,1986-09-06,2021-07-03,Online,Gold,L00366,Y
+C000772,Ananya,Mishra,ananya.mishra772@yahoo.com,+91-9667119617,Male,1965-01-24,2023-11-09,Retail,Gold,L00363,N
+C000773,Michael,Thomas,michael.thomas773@yahoo.com,+91-9183625331,Male,1994-01-03,2021-04-07,Online,Silver,L00408,Y
+C000774,Suresh,Ghosh,suresh.ghosh774@gmail.com,+91-7060242590,Female,1968-08-27,2021-12-31,Enterprise,Silver,L00154,Y
+C000775,Nikhil,Davis,nikhil.davis775@example.org,,Prefer not to say,1984-12-14,2024-09-13,Online,Gold,L00022,Y
+C000776,Ananya,Roy,ananya.roy776@company.com,+91-7677136702,Female,1997-05-03,2022-12-03,Enterprise,Gold,L00243,N
+C000777,Priya,Jones,priya.jones777@gmail.com,+91-9753966623,Prefer not to say,1987-09-06,2021-03-29,Retail,,L00500,Y
+C000778,Sara,Khan,sara.khan778@example.org,+91-7303680890,Female,1974-12-23,2025-11-08,Enterprise,Bronze,L00289,Y
+C000779,Rahul,Wilson,rahul.wilson779@yahoo.com,+91-8123631365,Prefer not to say,1973-05-14,2022-05-09,Enterprise,Silver,L00409,Y
+C000780,Rudra,Johnson,rudra.johnson780@gmail.com,+91-7893357626,Male,1986-07-18,2022-08-30,Corporate,Silver,L00286,Y
+C000781,Arjun,Roy,arjun.roy781@company.com,+91-9696390948,Prefer not to say,1975-12-10,2025-02-02,Enterprise,Silver,L00348,N
+C000782,Suresh,Taylor,invalid_email_format,+1-572-437-1222,Male,1982-03-30,2025-03-15,Enterprise,,L00142,N
+C000783,Ananya,Miller,ananya.miller783@company.com,+91-9662716793,Male,1966-11-12,2022-04-30,Corporate,,L00403,Y
+C000784,Kavya,Das,kavya.das784@gmail.com,+91-8925925818,Female,1974-09-15,2025-10-27,Corporate,Bronze,L00012,Y
+C000785,Vivaan,Kapoor,vivaan.kapoor785@yahoo.com,+91-7655470302,Male,1985-12-21,2024-03-10,Corporate,Platinum,L00380,Y
+C000786,Michael,Davis,michael.davis786@company.com,+91-9828070747,Other,2001-07-19,2026-02-22,SMB,,L00358,Y
+C000787,Amit,Wilson,amit.wilson787@example.org,,Male,1969-01-23,2023-11-19,Online,Platinum,L00231,N
+C000788,Neha,Joshi,neha.joshi788@yahoo.com,+1-489-980-6409,Other,1972-01-15,2023-04-12,Enterprise,,L00408,N
+C000789,John,Fernandes,john.fernandes789@company.com,+91-9659563528,Prefer not to say,1983-11-04,2025-07-19,Retail,Gold,L00106,N
+C000790,Ishaan,Fernandes,ishaan.fernandes790@company.com,+91-7644656310,Female,1987-08-11,2023-01-20,Retail,Platinum,L00065,Y
+C000791,Lakshmi,Iyer,lakshmi.iyer791@company.com,+91-7307651423,Other,1980-07-23,2021-04-21,SMB,Gold,L00434,Y
+C000792,Anjali,Banerjee,anjali.banerjee792@yahoo.com,+91-7869417420,Other,1997-10-31,2022-06-26,Enterprise,,L00385,Y
+C000793,Aadhya,Khan,aadhya.khan793@example.org,+1-281-976-9596,Prefer not to say,2008-04-06,2023-06-10,Enterprise,Gold,L00408,N
+C000794,Sneha,Chopra,sneha.chopra794@outlook.com,+1-930-821-9108,Male,1995-01-30,2024-07-08,Enterprise,Bronze,L00271,Y
+C000795,Robert,Johnson,robert.johnson795@company.com,+1-290-755-5347,Female,1965-04-08,2025-10-19,Online,Gold,L00251,N
+C000796,Pranav,Mishra,pranav.mishra796@outlook.com,+91-8978272791,Prefer not to say,1995-08-15,2025-05-30,Retail,Silver,L00218,Y
+C000797,James,Yadav,james.yadav797@company.com,+1-671-585-4061,Female,1984-09-15,2021-12-05,Online,Gold,L00265,Y
+C000798,Kabir,Kumar,kabir.kumar798@gmail.com,+91-7823610017,Female,1992-09-02,2023-05-17,SMB,Silver,L00067,Y
+C000799,Anika,Reddy,anika.reddy799@example.org,+91-7489389705,Male,1995-03-05,2025-06-26,SMB,Gold,L00010,Y
+C000800,Vihaan,Brown,vihaan.brown800@yahoo.com,+91-9260089868,Male,1989-09-21,2022-02-18,Enterprise,Gold,L00072,Y
+C000801,Ishaan,Kumar,ishaan.kumar801@company.com,+1-942-997-3466,Male,1985-02-27,2023-10-07,Online,Bronze,L00132,N
+C000802,Vikram,Johnson,vikram.johnson802@gmail.com,+1-653-203-4396,Other,1975-09-06,2021-04-18,Online,Gold,L00371,Y
+C000803,Sai,Gupta,sai.gupta803@company.com,+1-504-945-1878,Prefer not to say,1987-04-03,2026-01-13,SMB,,L00136,Y
+C000804,Isha,Ahmed,isha.ahmed804@yahoo.com,+91-7007966321,Female,2002-10-21,2021-01-29,SMB,Platinum,L00164,N
+C000805,David,Reddy,david.reddy805@yahoo.com,+91-7875751295,Female,1991-04-19,2024-08-15,Online,Platinum,L00498,N
+C000806,Aishwarya,Reddy,aishwarya.reddy806@yahoo.com,+91-9313676333,Other,,2021-03-12,SMB,,L00438,Y
+C000807,Isha,D Souza,isha.dsouza807@yahoo.com,+91-7431839154,Male,1982-02-03,2026-01-04,Retail,Gold,L00264,N
+C000808,Ramesh,Mehta,ramesh.mehta808@yahoo.com,+91-9293119598,Female,1985-03-16,2024-11-03,Corporate,,L00187,N
+C000809,Vikram,Kumar,vikram.kumar809@outlook.com,+91-9343370436,Female,1987-01-21,2024-11-26,Corporate,Silver,L00517,N
+C000810,Pooja,Johnson,pooja.johnson810@gmail.com,+91-8791248027,Female,1988-06-04,2023-03-06,SMB,,L00070,N
+C000811,Aadhya,Taylor,aadhya.taylor811@example.org,+91-9850245522,Prefer not to say,1998-10-12,2021-02-20,Online,Platinum,L00401,Y
+C000812,Pooja,Chopra,invalid_email_format,+1-655-357-4298,Female,1970-05-10,2025-07-05,Enterprise,Platinum,L00405,Y
+C000813,Isha,Banerjee,isha.banerjee813@yahoo.com,+1-950-660-9299,Prefer not to say,1979-10-30,2022-07-23,SMB,Platinum,L00417,N
+C000814,Atharv,Kapoor,atharv.kapoor814@company.com,+91-7018710897,Prefer not to say,1988-06-30,2023-03-03,Corporate,Gold,L00054,Y
+C000815,Isha,Hegde,isha.hegde815@yahoo.com,+91-7349030172,Prefer not to say,1976-07-07,2026-01-01,Retail,Silver,L00180,Y
+C000816,Isha,Davis,isha.davis816@company.com,+91-9541240589,Prefer not to say,,2025-08-08,Corporate,Platinum,L00326,Y
+C000817,Nandini,Ghosh,nandini.ghosh817@yahoo.com,+91-7695277199,Male,1972-10-11,2021-05-05,Online,Silver,L00422,Y
+C000818,Emma,Das,emma.das818@gmail.com,+91-9188885810,Prefer not to say,1999-07-20,2024-04-10,Online,Platinum,L00013,Y
+C000819,Ramesh,Singh,ramesh.singh819@example.org,+91-7687257523,Male,1977-02-15,2024-06-02,SMB,Platinum,L00399,N
+C000820,Priya,Sharma,priya.sharma820@example.org,+91-9097893775,Male,1976-04-08,2024-03-19,Enterprise,Bronze,L00229,Y
+C000821,Rohan,Das,rohan.das821@outlook.com,+91-9650015805,Female,1980-11-14,2021-07-04,SMB,,L00239,Y
+C000822,Vikram,Singh,vikram.singh822@gmail.com,+91-8846567674,Other,1977-10-25,2023-08-23,Retail,Gold,L00471,Y
+C000823,Kavya,Das,kavya.das823@example.org,+91-7660110484,Other,1998-11-07,2023-12-06,Online,Platinum,L00513,N
+C000824,Isha,Yadav,isha.yadav824@outlook.com,+91-7720132061,Prefer not to say,1998-01-20,2021-03-05,SMB,Silver,L00440,N
+C000825,Saanvi,Roy,saanvi.roy825@example.org,+91-9783068124,Female,1965-02-10,2024-12-04,Retail,Gold,L00198,Y
+C000826,Neha,Iyer,neha.iyer826@company.com,+91-7490148653,Other,1982-02-11,2025-12-21,Online,,L00151,Y
+C000827,Ishaan,Chopra,ishaan.chopra827@outlook.com,+91-7473238844,Male,1985-03-14,2021-09-01,Corporate,Silver,L00486,N
+C000828,Ritika,Patel,ritika.patel828@gmail.com,+91-9610266152,Prefer not to say,1977-03-27,2025-08-15,Online,Gold,L00324,N
+C000829,Anjali,Banerjee,anjali.banerjee829@yahoo.com,+91-9592168349,Male,1979-01-31,2023-10-14,Online,,L00431,Y
+C000830,Robert,Joshi,robert.joshi830@company.com,+91-8155886439,Other,1987-03-02,2022-10-19,Online,Platinum,L00067,Y
+C000831,Sneha,Joshi,,+91-8676868103,Male,1988-07-22,2022-02-25,Enterprise,Bronze,L00421,Y
+C000832,Diya,Nair,diya.nair832@outlook.com,+91-9069697543,Male,2003-02-12,2024-07-18,Online,,L00029,N
+C000833,Olivia,Nair,olivia.nair833@example.org,+91-9672113480,Male,2006-01-24,2021-01-15,Retail,Platinum,L00501,Y
+C000834,Emma,Singh,emma.singh834@example.org,+91-8270182519,Prefer not to say,1977-05-01,2022-04-04,Online,Platinum,L00237,Y
+C000835,Suresh,Gupta,suresh.gupta835@company.com,+91-8508176982,Female,1988-04-06,2025-11-01,Enterprise,Bronze,L00424,N
+C000836,Robert,Nair,robert.nair836@outlook.com,+1-873-423-2640,Other,1980-04-06,2022-11-06,Retail,Gold,L00331,Y
+C000837,Neha,Johnson,neha.johnson837@example.org,+91-9874339182,Other,2001-11-18,2024-12-26,Online,Silver,L00281,Y
+C000838,Vikram,Reddy,vikram.reddy838@yahoo.com,+1-252-867-2677,Female,1994-01-28,2022-04-10,Enterprise,Bronze,L00157,N
+C000839,Diya,Davis,diya.davis839@example.org,+91-7122786386,Male,2004-02-24,2025-12-04,Corporate,Silver,L00449,N
+C000840,Lakshmi,Das,lakshmi.das840@yahoo.com,+91-7956544524,Female,1990-10-09,2023-08-27,Enterprise,Platinum,L00422,N
+C000841,Arjun,D Souza,arjun.dsouza841@outlook.com,+1-827-526-8860,Male,1987-05-15,2025-04-03,Enterprise,Gold,L00224,N
+C000842,Shaurya,Singh,shaurya.singh842@company.com,+91-8668061577,Other,1966-09-11,2024-12-26,SMB,Silver,L00214,Y
+C000843,Vikram,Iyer,vikram.iyer843@company.com,+1-954-581-2130,Prefer not to say,1998-02-22,2024-07-07,Retail,Platinum,L00356,Y
+C000844,Olivia,Hegde,olivia.hegde844@company.com,+91-8273933158,Other,1998-05-01,2022-12-09,Enterprise,Gold,L00126,Y
+C000845,Meera,Sharma,meera.sharma845@yahoo.com,+91-7529431703,Male,1994-10-21,2023-11-18,SMB,Bronze,L00079,Y
+C000846,Vikram,Das,vikram.das846@company.com,+91-9914217677,Prefer not to say,1990-03-26,2025-08-01,Corporate,,L00262,Y
+C000847,Amit,Chopra,amit.chopra847@outlook.com,+91-7093929865,Male,1993-06-17,2025-10-13,Online,Platinum,L00435,Y
+C000848,Advait,Fernandes,advait.fernandes848@company.com,+91-7403488614,Female,1983-07-26,2023-05-01,Enterprise,Silver,L00387,N
+C000849,Aditya,Ahmed,aditya.ahmed849@outlook.com,+91-9290338859,Female,1991-05-25,2024-06-10,Enterprise,,L00276,Y
+C000850,Anika,Naidu,anika.naidu850@example.org,+91-7307372174,Other,1968-03-28,2024-06-12,Retail,Gold,L00464,N
+C000851,Shaurya,Joshi,shaurya.joshi851@outlook.com,+91-8148318213,Other,2003-03-13,2022-09-15,Enterprise,Bronze,L00469,Y
+C000852,Kabir,Williams,kabir.williams852@outlook.com,+91-7217884397,Other,2005-07-30,2025-02-14,Corporate,Silver,L00366,N
+C000853,Ananya,Kapoor,ananya.kapoor853@gmail.com,+91-7147313450,Other,,2026-03-15,Corporate,Gold,L00222,N
+C000854,David,Joshi,david.joshi854@yahoo.com,+91-9239143530,Female,1971-04-24,2023-09-13,SMB,Platinum,L00409,Y
+C000855,Arjun,Kapoor,arjun.kapoor855@yahoo.com,+91-9396020969,Female,1986-08-19,2024-11-07,Retail,Gold,L00383,N
+C000856,Aadhya,Anderson,aadhya.anderson856@yahoo.com,+91-7439111058,Prefer not to say,1991-02-28,2021-01-29,Enterprise,Bronze,L00297,Y
+C000857,Neha,Shetty,neha.shetty857@example.org,+91-7327380243,Other,1968-11-06,2022-05-14,Retail,Gold,L00492,Y
+C000858,Pooja,Fernandes,pooja.fernandes858@outlook.com,+91-9622011937,Male,1989-08-09,2025-06-24,Enterprise,,L00498,N
+C000859,Krishna,Rao,krishna.rao859@company.com,+1-616-857-9977,Female,2003-09-30,2021-10-20,Retail,Gold,L00003,N
+C000860,Robert,Mishra,robert.mishra860@gmail.com,+91-7172934207,Other,1973-04-20,2021-04-22,SMB,Bronze,L00200,N
+C000861,Krishna,Yadav,krishna.yadav861@yahoo.com,+91-7314047915,Other,1983-02-10,2021-02-25,SMB,,L00158,Y
+C000862,Diya,D Souza,diya.dsouza862@outlook.com,+91-9425478066,Male,1971-02-02,2021-09-21,Corporate,,L00145,Y
+C000863,Atharv,Patel,atharv.patel863@yahoo.com,+91-9146313608,Male,1998-02-27,2024-09-20,Corporate,Gold,L00098,N
+C000864,Ritika,Nair,ritika.nair864@outlook.com,+91-7571157660,Female,1981-12-29,2023-11-25,Online,Gold,L00186,N
+C000865,Isha,Roy,isha.roy865@yahoo.com,+91-7997034336,Prefer not to say,1978-05-22,2023-03-30,Retail,Silver,L00513,N
+C000866,Kavya,D Souza,kavya.dsouza866@outlook.com,+91-9442617144,Prefer not to say,1984-08-13,2022-05-22,Corporate,Gold,L00366,N
+C000867,Saanvi,Mehta,saanvi.mehta867@yahoo.com,+91-9537522073,Prefer not to say,1972-12-19,2024-11-10,SMB,,L00343,Y
+C000868,James,Hegde,james.hegde868@outlook.com,+91-7807093831,Other,2006-02-04,2024-06-22,SMB,Silver,L00063,Y
+C000869,Anjali,Shetty,anjali.shetty869@outlook.com,+91-8446845493,Female,1997-04-14,2023-06-09,Enterprise,Silver,L00404,N
+C000870,Ishaan,Roy,ishaan.roy870@outlook.com,+1-924-973-7361,Prefer not to say,1991-07-29,2026-03-07,Enterprise,Platinum,L00506,Y
+C000871,Sneha,Mehta,sneha.mehta871@yahoo.com,+91-9160547567,Male,1979-09-27,2024-01-29,Retail,Platinum,L00421,Y
+C000872,Saanvi,Anderson,saanvi.anderson872@outlook.com,+91-9464381614,Male,1969-04-25,2023-05-01,Online,Silver,L00080,N
+C000873,Kabir,Verma,kabir.verma873@company.com,+1-685-333-7218,Male,1996-01-02,2023-08-24,SMB,,L00061,N
+C000874,Sneha,Verma,sneha.verma874@example.org,+1-595-949-5507,Prefer not to say,1970-11-30,2021-08-30,Online,Gold,L00213,N
+C000875,Suresh,Das,suresh.das875@outlook.com,+91-9724192946,Prefer not to say,2002-10-16,2023-03-07,Corporate,,L00169,Y
+C000876,Robert,Anderson,robert.anderson876@example.org,+91-7984911487,Male,2001-10-24,2023-03-21,Retail,Silver,L00221,N
+C000877,Ananya,Roy,ananya.roy877@example.org,+91-9032963739,Female,1966-02-24,2024-10-08,Corporate,,L00463,Y
+C000878,Ananya,Nair,ananya.nair878@outlook.com,+91-9534184870,Other,1983-01-02,2021-08-21,Retail,Bronze,L00029,Y
+C000879,Rahul,Das,rahul.das879@outlook.com,+91-9181964953,Male,2000-11-21,2024-09-07,Online,,L00494,N
+C000880,Vihaan,Reddy,vihaan.reddy880@company.com,+91-7709414941,Male,2005-10-06,2022-05-30,Online,,L00076,Y
+C000881,Vihaan,Ghosh,vihaan.ghosh881@outlook.com,+1-239-354-9677,Male,1983-09-16,2025-10-14,Retail,,L00428,Y
+C000882,Ishaan,Khan,ishaan.khan882@outlook.com,+91-9933753139,Female,1976-09-18,2024-02-08,Retail,Platinum,L00310,Y
+C000883,Ritika,Nair,ritika.nair883@company.com,+1-805-302-4365,Male,1968-08-01,2021-05-01,Retail,Silver,L00392,Y
+C000884,Reyansh,Anderson,,+1-216-338-5971,Male,2003-11-30,2024-10-02,Retail,Silver,L00476,N
+C000885,Vikram,Banerjee,vikram.banerjee885@outlook.com,+1-913-276-4491,Other,2003-02-03,2023-09-03,Corporate,,L00447,Y
+C000886,Olivia,Iyer,olivia.iyer886@gmail.com,+1-711-508-2821,Female,2000-02-06,2021-09-08,Retail,Gold,L00389,N
+C000887,Arjun,Chopra,arjun.chopra887@gmail.com,+1-423-539-1842,Prefer not to say,1994-10-06,2024-05-07,Online,Gold,L00421,N
+C000888,Suresh,Kumar,suresh.kumar888@company.com,+91-9927519837,Male,1993-05-25,2021-10-12,Enterprise,,L00003,N
+C000889,Karthik,D Souza,karthik.dsouza889@company.com,+91-8660384738,Other,1966-05-17,2021-04-30,SMB,Platinum,L00227,Y
+C000890,Emma,Jones,emma.jones890@yahoo.com,+1-388-659-2415,Other,1982-06-26,2021-11-16,Retail,Gold,L00467,N
+C000891,Saanvi,Verma,saanvi.verma891@gmail.com,+91-9814895709,Prefer not to say,2002-08-18,2021-08-16,Enterprise,Silver,L00282,N
+C000892,John,Jones,john.jones892@company.com,+91-7336210674,Male,2001-06-16,2024-07-30,Retail,Platinum,L00004,Y
+C000893,Aarav,Johnson,aarav.johnson893@company.com,+91-8643324591,Female,2004-01-14,2022-12-21,Corporate,Silver,L00125,Y
+C000894,Amit,Sharma,amit.sharma894@example.org,+91-8070630387,Male,1992-03-08,2023-01-04,Retail,,L00198,N
+C000895,Sophia,Khan,sophia.khan895@outlook.com,+91-9561623340,Other,1980-07-26,2022-05-20,Enterprise,Silver,L00119,Y
+C000896,Neha,Anderson,neha.anderson896@outlook.com,+1-207-647-5739,Prefer not to say,1996-05-30,2024-08-02,Retail,,L00121,N
+C000897,Vivaan,Ahmed,vivaan.ahmed897@example.org,+91-7238513110,Other,1992-11-26,2021-07-29,Retail,,L00308,N
+C000898,Krishna,Jones,krishna.jones898@gmail.com,+1-468-494-8692,Female,1985-05-16,2025-06-27,Corporate,Bronze,L00420,Y
+C000899,Rudra,Naidu,rudra.naidu899@company.com,+1-772-857-1408,Female,1990-01-17,2023-08-10,Online,Platinum,L00233,N
+C000900,Kabir,Thomas,kabir.thomas900@example.org,+91-8045053507,Other,2006-01-16,2022-12-07,Retail,,L00331,N
+C000901,Robert,Sharma,robert.sharma901@company.com,+91-8408784244,Prefer not to say,,2024-11-13,Retail,Bronze,L00051,N
+C000902,Aadhya,Chopra,aadhya.chopra902@outlook.com,+91-7895758661,Prefer not to say,1966-12-10,2026-01-05,Corporate,Platinum,L00455,Y
+C000903,Sneha,Patel,sneha.patel903@outlook.com,+91-9080812686,Female,1986-06-26,2022-02-03,Enterprise,Gold,L00288,N
+C000904,Emma,Williams,emma.williams904@outlook.com,+91-9871911199,Other,1973-04-06,2024-10-15,SMB,,L00289,Y
+C000905,Rahul,Iyer,rahul.iyer905@company.com,+91-8008624497,Male,1976-01-24,2022-12-02,SMB,Gold,L00339,N
+C000906,Anjali,Verma,anjali.verma906@company.com,+91-8635083806,Male,1972-04-10,2021-01-31,Corporate,Silver,L00388,Y
+C000907,Ramesh,Roy,ramesh.roy907@yahoo.com,+91-7728220822,Prefer not to say,1989-02-15,2024-08-03,SMB,Bronze,L00330,Y
+C000908,Diya,Kumar,diya.kumar908@example.org,+91-8450330700,Female,1978-04-04,2023-09-22,Retail,Platinum,L00102,N
+C000909,Emma,Kumar,emma.kumar909@gmail.com,+91-7788887377,Male,1983-03-21,2026-01-17,Corporate,Gold,L00181,Y
+C000910,Ayaan,Mehta,ayaan.mehta910@example.org,+91-7147949592,Male,1973-04-19,2021-01-16,Corporate,Silver,L00367,Y
+C000911,Rudra,Williams,,+91-8978218099,Other,1993-12-26,2021-04-30,Enterprise,Silver,L00003,Y
+C000912,Ananya,Das,,+91-9424758295,Female,1978-11-13,2024-05-13,SMB,Gold,L00363,Y
+C000913,Rudra,Iyer,rudra.iyer913@company.com,+91-8535971010,Other,1979-11-15,2022-08-07,Enterprise,Bronze,L00078,Y
+C000914,James,Naidu,james.naidu914@outlook.com,+91-9291423685,Prefer not to say,1985-04-01,2024-10-04,SMB,Bronze,L00083,N
+C000915,Saanvi,Fernandes,saanvi.fernandes915@gmail.com,+91-9568285431,Prefer not to say,1968-11-18,2024-02-09,Enterprise,Bronze,L00164,Y
+C000916,Kabir,Reddy,kabir.reddy916@gmail.com,+91-9051481708,Prefer not to say,1982-05-02,2021-02-19,Corporate,Silver,L00453,Y
+C000917,Anika,Khan,anika.khan917@example.org,+91-7508919386,Other,2001-09-23,2023-02-15,Enterprise,Bronze,L00142,Y
+C000918,Ishaan,Ghosh,ishaan.ghosh918@outlook.com,+91-7094742091,Female,1980-02-07,2025-08-28,Retail,Silver,L00465,Y
+C000919,Karthik,Jones,karthik.jones919@company.com,+91-7683826621,Prefer not to say,2008-04-06,2025-03-27,Corporate,Platinum,L00491,N
+C000920,Arjun,Rao,arjun.rao920@outlook.com,+1-342-242-2544,Prefer not to say,1977-04-30,2025-05-15,Corporate,Platinum,L00101,N
+C000921,Kavya,Brown,kavya.brown921@outlook.com,+1-577-265-3367,Female,1977-07-18,2022-01-10,SMB,Platinum,L00500,N
+C000922,Ananya,Johnson,ananya.johnson922@company.com,+91-8446077018,Other,1984-02-08,2024-04-20,Retail,Bronze,L00301,N
+C000923,Krishna,Banerjee,krishna.banerjee923@gmail.com,+1-792-332-7861,Female,1988-12-12,2023-02-24,Retail,Platinum,L00335,Y
+C000924,Isha,Williams,isha.williams924@outlook.com,+91-7758351887,Other,1984-10-10,2024-06-11,Retail,Silver,L00023,Y
+C000925,Olivia,Shetty,olivia.shetty925@gmail.com,+91-9580235674,Male,1987-02-19,2026-01-03,SMB,Platinum,L00300,N
+C000926,Krishna,Shetty,krishna.shetty926@gmail.com,+1-498-914-1850,Female,1974-02-18,2021-02-19,Enterprise,,L00470,Y
+C000927,Advait,Brown,advait.brown927@outlook.com,+91-8859245353,Prefer not to say,,2021-05-12,Corporate,Platinum,L00325,Y
+C000928,Olivia,Miller,olivia.miller928@company.com,+91-7369718829,Male,2000-08-10,2025-12-14,Online,Gold,L00142,N
+C000929,Isabella,Kapoor,isabella.kapoor929@example.org,+91-9466537854,Female,1985-04-01,2025-10-05,Online,,L00434,N
+C000930,Robert,Iyer,robert.iyer930@outlook.com,+91-9791253983,Female,2006-02-24,2024-05-27,SMB,Platinum,L00260,N
+C000931,Mia,Patel,mia.patel931@gmail.com,+1-349-467-7055,Male,1990-04-19,2026-02-03,SMB,Gold,L00096,N
+C000932,Karthik,Miller,karthik.miller932@gmail.com,+91-7159838408,Male,1976-06-14,2022-08-09,Retail,Gold,L00037,N
+C000933,Priya,Rao,priya.rao933@gmail.com,+91-9731653276,Female,1993-06-15,2023-12-06,Enterprise,Gold,L00196,N
+C000934,Advait,Gupta,advait.gupta934@example.org,+91-7337862863,Prefer not to say,1977-08-23,2023-02-21,Retail,Bronze,L00326,Y
+C000935,Aadhya,Nair,aadhya.nair935@company.com,+1-739-910-4345,Prefer not to say,1969-08-12,2024-12-08,Online,Platinum,L00496,Y
+C000936,Ritika,Johnson,ritika.johnson936@company.com,+91-8897778329,Male,1973-12-08,2024-09-21,Retail,Gold,L00207,Y
+C000937,Rohan,Naidu,rohan.naidu937@example.org,+91-8139565310,Other,1996-08-26,2023-06-20,Corporate,,L00336,Y
+C000938,Ananya,Thomas,ananya.thomas938@outlook.com,+91-9966873173,Other,1966-12-11,2024-02-20,Enterprise,,L00344,N
+C000939,Pranav,Sharma,pranav.sharma939@outlook.com,+91-9584377559,Prefer not to say,1972-01-26,2022-02-23,Enterprise,,L00350,Y
+C000940,Arjun,Shetty,arjun.shetty940@gmail.com,+91-7412177876,Prefer not to say,1984-02-18,2022-09-07,Retail,,L00380,N
+C000941,David,Sharma,david.sharma941@company.com,+91-7733282819,Male,2000-08-03,2023-09-18,Online,Gold,L00171,Y
+C000942,John,Johnson,john.johnson942@example.org,+1-403-201-2007,Female,2005-09-14,2023-06-26,SMB,Silver,L00009,Y
+C000943,Amit,Williams,amit.williams943@outlook.com,+1-253-557-8920,Prefer not to say,1969-03-20,2023-08-20,Online,,L00458,N
+C000944,Nikhil,D Souza,nikhil.dsouza944@yahoo.com,+91-8319369671,Prefer not to say,1966-10-29,2022-08-30,Corporate,Silver,L00417,N
+C000945,Vivaan,Verma,vivaan.verma945@example.org,+91-7499131165,Female,1995-04-04,2021-10-11,Online,Silver,L00289,Y
+C000946,Sai,Anderson,sai.anderson946@gmail.com,+91-7799191758,Female,1965-12-15,2023-07-29,Retail,Gold,L00014,N
+C000947,Anjali,Khan,anjali.khan947@gmail.com,+1-536-238-2575,Prefer not to say,,2021-05-22,Online,Bronze,L00045,Y
+C000948,Sneha,Taylor,sneha.taylor948@outlook.com,+91-9767871436,Female,1985-06-11,2024-05-09,SMB,,L00345,Y
+C000949,Sai,Kumar,sai.kumar949@gmail.com,+91-8320271865,Prefer not to say,1976-04-24,2025-08-03,Enterprise,Gold,L00094,Y
+C000950,Vivaan,Joshi,vivaan.joshi950@gmail.com,+1-706-909-3272,Other,1981-05-14,2023-05-17,SMB,Gold,L00418,Y
+C000951,Anika,Ahmed,anika.ahmed951@yahoo.com,+91-9656914506,Other,1989-07-01,2021-02-12,Enterprise,Bronze,L00145,N
+C000952,Vivaan,Wilson,vivaan.wilson952@yahoo.com,+91-9699728774,Male,1970-02-20,2025-12-02,Corporate,Silver,L00508,N
+C000953,Fatima,Joshi,fatima.joshi953@company.com,+91-9498936315,Male,2005-09-09,2021-07-03,Online,,L00014,Y
+C000954,Meera,Miller,meera.miller954@gmail.com,+91-9652750595,Other,1988-08-17,2021-12-22,SMB,Bronze,L00046,N
+C000955,Aishwarya,Kumar,aishwarya.kumar955@example.org,+91-9036940161,Prefer not to say,1976-10-10,2026-03-07,Corporate,Platinum,L00051,N
+C000956,Fatima,Verma,fatima.verma956@example.org,+1-284-343-3246,Other,1967-12-31,2023-12-01,SMB,Platinum,L00440,Y
+C000957,Michael,Mehta,michael.mehta957@gmail.com,,Prefer not to say,1999-12-24,2024-10-13,Corporate,,L00218,N
+C000958,Amit,Ahmed,amit.ahmed958@gmail.com,+91-7408950425,Prefer not to say,1983-12-10,2024-09-28,SMB,Bronze,L00144,Y
+C000959,Anika,D Souza,anika.dsouza959@company.com,+91-7322076727,Female,1982-11-10,2023-09-08,Corporate,Platinum,L00508,N
+C000960,David,Thomas,david.thomas960@outlook.com,+91-8315632530,Male,1984-01-27,2022-01-12,Corporate,Platinum,L00163,N
+C000961,Diya,Banerjee,diya.banerjee961@outlook.com,+91-9099888935,Other,1978-01-27,2023-08-08,Retail,Silver,L00001,N
+C000962,Saanvi,Johnson,,+91-8057489070,Other,1978-04-18,2023-02-18,Online,Bronze,L00508,N
+C000963,Arjun,Roy,arjun.roy963@gmail.com,+91-7358360794,Female,1989-09-26,2023-09-16,SMB,Platinum,L00338,N
+C000964,Pooja,Davis,pooja.davis964@company.com,+91-7374050418,Male,,2021-03-22,Online,Silver,L00439,N
+C000965,Michael,Kumar,michael.kumar965@example.org,,Female,1993-02-06,2021-04-12,Retail,Bronze,L00475,Y
+C000966,Ishaan,Rao,ishaan.rao966@gmail.com,+91-8661961304,Male,1977-05-07,2023-10-08,Online,Gold,L00037,Y
+C000967,Shaurya,Mehta,shaurya.mehta967@outlook.com,,Prefer not to say,1972-07-17,2023-02-27,Retail,Silver,L00017,N
+C000968,Ananya,D Souza,ananya.dsouza968@outlook.com,+91-9637585263,Other,1975-09-25,2023-01-15,SMB,Platinum,L00463,Y
+C000969,James,Das,james.das969@yahoo.com,+91-9173688323,Other,1983-04-21,2026-01-20,Enterprise,,L00377,N
+C000970,Nikhil,Ghosh,nikhil.ghosh970@yahoo.com,+1-424-460-6411,Prefer not to say,1982-01-31,2022-07-29,Online,Silver,L00068,N
+C000971,Olivia,Roy,olivia.roy971@example.org,+91-7749296684,Prefer not to say,1989-07-16,2024-09-03,Corporate,Platinum,L00362,N
+C000972,Neha,Banerjee,neha.banerjee972@outlook.com,,Other,1981-05-15,2023-08-27,Enterprise,,L00472,Y
+C000973,Fatima,Kapoor,fatima.kapoor973@yahoo.com,+91-9388166442,Other,1989-01-09,2025-11-10,Retail,Gold,L00346,Y
+C000974,Pooja,Das,pooja.das974@company.com,+91-9401211073,Female,1973-11-03,2023-07-27,Enterprise,Platinum,L00053,Y
+C000975,Anika,Singh,anika.singh975@example.org,+91-9080555266,Female,1990-03-22,2022-05-10,SMB,Bronze,L00005,N
+C000976,Krishna,Sharma,krishna.sharma976@yahoo.com,+1-223-873-4030,Female,1974-05-30,2022-10-01,Online,Gold,L00097,Y
+C000977,James,Williams,james.williams977@example.org,+1-976-538-4081,Female,1997-05-14,2025-06-22,SMB,,L00081,Y
+C000978,Shaurya,Thomas,shaurya.thomas978@yahoo.com,+91-8509644628,Female,1984-06-22,2024-02-04,SMB,Bronze,L00153,Y
+C000979,Anika,Mehta,anika.mehta979@example.org,+91-9342698722,Prefer not to say,1978-02-15,2022-12-15,Online,Bronze,L00359,Y
+C000980,Sai,Johnson,sai.johnson980@yahoo.com,+91-8171350981,Prefer not to say,1985-05-10,2024-11-11,Corporate,,L00226,Y
+C000981,Advait,Chopra,advait.chopra981@company.com,+91-7312828402,Prefer not to say,1979-03-30,2024-09-29,Corporate,Platinum,L00089,N
+C000982,Atharv,D Souza,,+91-8722625535,Male,1972-03-02,2023-03-15,Corporate,Bronze,L00453,N
+C000983,Olivia,Chopra,olivia.chopra983@example.org,+91-7241667124,Female,1978-12-10,2021-05-02,Corporate,Platinum,L00506,N
+C000984,Sophia,Nair,sophia.nair984@outlook.com,+1-420-487-4754,Other,1987-07-11,2022-09-24,Retail,Silver,L00040,N
+C000985,Kabir,Thomas,kabir.thomas985@yahoo.com,+91-9814899066,Female,1972-11-18,2024-02-07,Enterprise,Gold,L00149,N
+C000986,Aadhya,Kumar,aadhya.kumar986@example.org,+91-7361153415,Female,1966-02-02,2024-04-24,Online,Silver,L00300,N
+C000987,Nandini,Shetty,nandini.shetty987@outlook.com,+1-286-239-3568,Male,1970-04-29,2023-09-18,Online,Bronze,L00496,N
+C000988,Ananya,Rao,ananya.rao988@gmail.com,+1-418-365-9343,Male,1984-03-03,2025-09-21,Enterprise,Silver,L00115,Y
+C000989,Anjali,Wilson,anjali.wilson989@outlook.com,+91-9948719898,Prefer not to say,1974-10-09,2023-06-26,Retail,Gold,L00330,Y
+C000990,Sara,Brown,sara.brown990@company.com,+91-9108548275,Male,1991-09-08,2025-10-08,Corporate,Bronze,L00355,N
+C000991,Vihaan,Sharma,vihaan.sharma991@outlook.com,+91-9543194698,Male,2001-03-13,2025-03-01,SMB,Gold,L00387,Y
+C000992,Suresh,Jones,suresh.jones992@company.com,,Female,1999-12-13,2024-08-21,Enterprise,Gold,L00244,N
+C000993,Pooja,Singh,pooja.singh993@outlook.com,+1-754-717-2577,Female,2004-11-11,2021-06-04,Retail,Bronze,L00046,N
+C000994,Kabir,Das,kabir.das994@company.com,+91-8787450698,Female,1965-02-17,2021-11-01,Corporate,Silver,L00164,Y
+C000995,Robert,Mishra,robert.mishra995@gmail.com,+1-888-596-9568,Male,1999-12-24,2025-01-22,Online,Bronze,L00125,N
+C000996,Robert,Hegde,robert.hegde996@example.org,+91-9454676883,Male,1986-10-22,2024-08-20,Corporate,Bronze,L00314,N
+C000997,Reyansh,Patel,reyansh.patel997@company.com,+1-667-316-8105,Other,1990-02-24,2022-07-05,Corporate,Platinum,L00248,Y
+C000998,Sai,Khan,sai.khan998@example.org,+91-9038844711,Prefer not to say,1976-08-23,2023-01-11,Enterprise,Gold,L00312,N
+C000999,Ayaan,Kumar,ayaan.kumar999@company.com,+91-7256440975,Prefer not to say,1997-12-10,2023-07-03,Enterprise,Silver,L00450,N
+C001000,Krishna,Thomas,krishna.thomas1000@company.com,+1-651-756-4584,Female,1981-04-21,2023-02-02,Online,Platinum,L00026,N
+C000013,Amit,Verma,amit.verma13@outlook.com,+91-7953129669,Other,1992-04-27,2021-08-06,Enterprise,,L00027,Y
+C000223,Anjali,Naidu,anjali.naidu223@company.com,+1-589-239-8986,Male,1976-04-24,2023-08-31,SMB,Silver,L00089,N
+C000556,Arjun,Smith,arjun.smith556@yahoo.com,+91-7123049596,Other,1979-04-16,2025-09-20,Corporate,Silver,L00213,N
+C000778,Sara,Khan,sara.khan778@example.org,+91-7303680890,Female,1974-12-23,2025-11-08,Enterprise,Bronze,L00289,Y

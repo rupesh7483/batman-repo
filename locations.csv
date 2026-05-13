@@ -1,0 +1,524 @@
+location_id,city,state,country,postal_code,region,currency,store_type,opened_date,is_active
+L00001,Bangalore,Karnataka,India,560001,South,INR,Store,2021-01-31,Y
+L00002,Mumbai,Maharashtra,India,400001,West,INR,Store,2018-05-11,Y
+L00003,Delhi,Delhi,India,110001,North,INR,Store,2024-02-11,N
+L00004,Hyderabad,Telangana,India,500001,South,INR,Store,2019-10-16,N
+L00005,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2022-04-06,Y
+L00006,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2023-02-25,Y
+L00007,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2022-01-21,Y
+L00008,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2018-11-23,Y
+L00009,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2022-02-03,Y
+L00010,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2018-10-20,Y
+L00011,New York,New York,United States,10001,Northeast,USD,Service Center,2024-03-31,Y
+L00012,Los Angeles,California,United States,90001,West,USD,Store,2018-05-12,Y
+L00013,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2023-08-07,N
+L00014,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2020-10-07,Y
+L00015,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2019-07-21,N
+L00016,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2019-10-18,N
+L00017,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2024-03-16,Y
+L00018,Singapore,Central,Singapore,018956,Asia,SGD,Pickup Point,2021-10-25,Y
+L00019,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2020-12-14,Y
+L00020,Berlin,Berlin,Germany,10115,Europe,EUR,Pickup Point,2023-09-11,Y
+L00021,Bangalore,Karnataka,India,560001,South,INR,Store,2023-06-25,Y
+L00022,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2020-09-13,Y
+L00023,Delhi,Delhi,India,110001,North,INR,Store,2023-12-22,Y
+L00024,Hyderabad,Telangana,India,500001,South,INR,Warehouse,2024-10-20,N
+L00025,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2022-06-23,Y
+L00026,Pune,Maharashtra,India,411001,West,INR,Store,2018-09-20,Y
+L00027,Kolkata,West Bengal,India,,East,INR,Warehouse,2018-08-30,Y
+L00028,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2020-09-01,Y
+L00029,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2024-05-27,N
+L00030,Lucknow,Uttar Pradesh,India,226001,North,INR,Service Center,2019-02-02,N
+L00031,New York,New York,United States,10001,Northeast,USD,Store,2019-02-08,Y
+L00032,Los Angeles,California,United States,90001,West,USD,Store,2020-02-19,N
+L00033,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2018-11-05,N
+L00034,London,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2024-01-24,Y
+L00035,Manchester,England,United Kingdom,M11AE,Europe,GBP,Warehouse,2023-06-13,N
+L00036,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2018-01-09,N
+L00037,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2024-03-26,N
+L00038,Singapore,Central,Singapore,018956,Asia,SGD,Store,2024-01-30,Y
+L00039,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Service Center,2023-12-16,Y
+L00040,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2018-10-06,Y
+L00041,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2018-06-12,Y
+L00042,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2020-04-16,Y
+L00043,Delhi,Delhi,India,110001,North,INR,Pickup Point,2018-10-25,Y
+L00044,Hyderabad,Telangana,India,500001,South,INR,Store,2020-05-23,Y
+L00045,Chennai,Tamil Nadu,India,600001,South,INR,Store,2022-02-22,Y
+L00046,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2023-12-07,Y
+L00047,Kolkata,West Bengal,India,700001,East,INR,Store,2019-07-05,Y
+L00048,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2024-10-13,Y
+L00049,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2020-10-25,Y
+L00050,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2021-09-28,Y
+L00051,New York,New York,United States,10001,Northeast,USD,Service Center,2022-10-18,Y
+L00052,Los Angeles,California,United States,90001,West,USD,Warehouse,2022-02-21,Y
+L00053,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2018-06-13,Y
+L00054,London,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2024-04-12,N
+L00055,Manchester,England,United Kingdom,M11AE,Europe,GBP,Warehouse,2019-12-27,N
+L00056,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2022-08-14,Y
+L00057,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2018-06-08,N
+L00058,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2020-07-21,Y
+L00059,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2018-10-12,Y
+L00060,Berlin,Berlin,Germany,10115,Europe,EUR,Pickup Point,2019-04-18,Y
+L00061,Bangalore,Karnataka,India,560001,South,INR,Pickup Point,2024-09-09,N
+L00062,Mumbai,Maharashtra,India,400001,West,INR,Service Center,2023-09-26,Y
+L00063,Delhi,Delhi,India,110001,North,INR,Pickup Point,2022-11-22,Y
+L00064,Hyderabad,Telangana,India,500001,South,INR,Warehouse,2018-10-14,Y
+L00065,Chennai,Tamil Nadu,India,600001,South,INR,Store,2021-05-15,Y
+L00066,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2020-02-25,N
+L00067,Kolkata,West Bengal,Indai,700001,East,INR,Warehouse,2021-05-17,N
+L00068,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2024-07-03,Y
+L00069,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2019-11-27,Y
+L00070,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2020-08-20,Y
+L00071,New York,New York,United States,10001,Northeast,USD,Store,2023-05-01,Y
+L00072,Los Angeles,California,United States,90001,West,USD,Warehouse,2022-04-22,N
+L00073,Chicago,Illinois,United States,60601,Midwest,USD,Store,2019-03-13,N
+L00074,London,England,United Kingdom,SW1A1AA,Europe,GBP,Service Center,2020-10-17,Y
+L00075,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2022-12-18,N
+L00076,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2023-04-29,N
+L00077,Sydney,New South Wales,Australia,2000,Oceania,AUD,Pickup Point,2023-11-06,N
+L00078,Singapore,Central,Singapore,018956,Asia,SGD,Store,2020-08-18,Y
+L00079,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2020-08-05,N
+L00080,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2021-09-17,N
+L00081,Bangalore,Karnataka,India,560001,South,INR,Service Center,2024-07-20,Y
+L00082,Mumbai,Maharashtra,India,400001,West,INR,Service Center,2021-12-11,Y
+L00083,Delhi,Delhi,India,110001,North,INR,Service Center,2024-02-15,Y
+L00084,Hyderabad,Telangana,India,500001,South,INR,Service Center,2021-10-08,N
+L00085,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2023-12-28,Y
+L00086,Pune,Maharashtra,India,411001,West,INR,Store,2022-10-22,Y
+L00087,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2020-05-16,N
+L00088,Ahmedabad,Gujarat,India,380001,West,INR,Service Center,2022-09-23,Y
+L00089,Jaipur,Rajasthan,India,302001,North,INR,Store,2021-12-04,Y
+L00090,Lucknow,Uttar Pradesh,India,226001,North,INR,Store,2020-10-09,Y
+L00091,New York,New York,United States,10001,Northeast,USD,Warehouse,2019-04-14,Y
+L00092,Los Angeles,California,United States,90001,West,USD,Pickup Point,2024-10-23,Y
+L00093,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2018-04-16,Y
+L00094,London,England,United Kingdom,SW1A1AA,Europe,GBP,Service Center,2020-03-23,Y
+L00095,Manchester,England,United Kingdom,M11AE,Europe,GBP,Warehouse,2021-05-20,Y
+L00096,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2022-10-21,Y
+L00097,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2023-07-01,Y
+L00098,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2022-11-19,Y
+L00099,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2024-01-14,N
+L00100,Berlin,Berlin,Germany,10115,Europe,EUR,Pickup Point,2020-10-02,Y
+L00101,Bangalore,Karnataka,India,560001,South,INR,Service Center,2022-04-02,Y
+L00102,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2021-12-24,Y
+L00103,Delhi,Delhi,India,110001,North,INR,Pickup Point,2023-10-18,Y
+L00104,Hyderabad,Telangana,India,500001,South,INR,Service Center,2020-09-11,N
+L00105,Chennai,Tamil Nadu,India,600001,South,INR,Store,2020-06-26,N
+L00106,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2023-12-15,Y
+L00107,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2023-02-02,Y
+L00108,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2024-01-04,Y
+L00109,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2023-11-19,Y
+L00110,,Uttar Pradesh,India,226001,North,INR,Pickup Point,2020-01-05,Y
+L00111,New York,New York,United States,10001,Northeast,USD,Pickup Point,2018-08-12,Y
+L00112,Los Angeles,California,United States,90001,West,USD,Service Center,2018-02-20,Y
+L00113,Chicago,Illinois,United States,60601,Midwest,USD,Warehouse,2020-10-31,N
+L00114,London,England,United Kingdom,SW1A1AA,Europe,GBP,Service Center,2018-08-08,Y
+L00115,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2020-10-13,Y
+L00116,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2022-04-08,N
+L00117,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2018-09-04,Y
+L00118,Singapore,Central,Singapore,018956,Asia,SGD,Warehouse,2018-11-29,Y
+L00119,Dubai,Dubai,United Arab Emirates,,Middle East,AED,Warehouse,2023-01-20,N
+L00120,Berlin,Berlin,Germany,10115,Europe,EUR,Pickup Point,2023-02-03,Y
+L00121,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2024-02-09,Y
+L00122,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2019-11-11,Y
+L00123,Delhi,Delhi,India,110001,North,INR,Pickup Point,2023-04-04,Y
+L00124,Hyderabad,Telangana,India,500001,South,INR,Service Center,2024-09-15,Y
+L00125,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2020-07-26,Y
+L00126,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2019-12-19,N
+L00127,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2024-07-25,N
+L00128,Ahmedabad,Gujarat,India,380001,West,INR,Store,2022-07-31,Y
+L00129,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2023-07-23,Y
+L00130,Lucknow,Uttar Pradesh,India,226001,North,INR,Store,2021-07-12,Y
+L00131,New York,New York,United States,10001,Northeast,USD,Service Center,2018-01-05,N
+L00132,Los Angeles,California,United States,90001,West,USD,Pickup Point,2023-08-04,N
+L00133,Chicago,Illinois,United States,60601,Midwest,USD,Warehouse,2022-11-30,N
+L00134,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2021-06-26,Y
+L00135,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2019-04-27,Y
+L00136,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2023-05-31,N
+L00137,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2024-09-21,Y
+L00138,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2023-09-11,Y
+L00139,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2024-07-03,N
+L00140,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2024-03-10,N
+L00141,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2020-09-05,N
+L00142,Mumbai,Maharashtra,India,400001,West,INR,Store,2023-04-22,N
+L00143,Delhi,Delhi,India,110001,North,INR,Warehouse,2018-06-01,Y
+L00144,Hyderabad,Telangana,India,500001,South,INR,Store,2022-12-09,Y
+L00145,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2019-09-25,Y
+L00146,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2022-06-17,Y
+L00147,Kolkata,West Bengal,India,700001,East,INR,Service Center,2023-06-22,Y
+L00148,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2019-01-06,N
+L00149,Jaipur,Rajasthan,India,302001,North,INR,Store,2021-05-11,Y
+L00150,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2022-10-31,Y
+L00151,New York,New York,United States,10001,Northeast,USD,Warehouse,2018-11-20,N
+L00152,Los Angeles,California,United States,90001,West,USD,Warehouse,2020-11-06,N
+L00153,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2024-02-17,Y
+L00154,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2022-10-04,Y
+L00155,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2019-03-13,Y
+L00156,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2021-04-24,Y
+L00157,Sydney,New South Wales,Australia,,Oceania,AUD,Pickup Point,2018-07-20,N
+L00158,Singapore,Central,Singapore,018956,Asia,SGD,Warehouse,2021-12-14,Y
+L00159,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Warehouse,2018-06-11,Y
+L00160,Berlin,Berlin,Germany,10115,Europe,EUR,Pickup Point,2019-01-05,Y
+L00161,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2024-01-19,Y
+L00162,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2023-05-28,Y
+L00163,Delhi,Delhi,India,110001,North,INR,Store,2018-11-05,Y
+L00164,Hyderabad,Telangana,India,500001,South,INR,Service Center,2024-04-01,Y
+L00165,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2023-02-06,Y
+L00166,Pune,Maharashtra,India,411001,West,INR,Service Center,2022-03-02,Y
+L00167,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2020-06-25,Y
+L00168,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2019-04-23,Y
+L00169,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2020-08-19,Y
+L00170,Lucknow,Uttar Pradesh,India,226001,North,INR,Service Center,2019-09-25,N
+L00171,New York,New York,United States,10001,Northeast,USD,Service Center,2021-02-19,Y
+L00172,Los Angeles,California,United States,90001,West,USD,Service Center,2022-01-25,Y
+L00173,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2021-02-04,Y
+L00174,London,England,United Kingdom,SW1A1AA,Europe,GBP,Service Center,2020-05-18,Y
+L00175,Manchester,England,United Kingdom,M11AE,Europe,GBP,Warehouse,2020-04-20,Y
+L00176,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2020-08-12,Y
+L00177,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2019-08-16,Y
+L00178,,Central,Singapore,018956,Asia,SGD,Store,2018-04-16,Y
+L00179,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Warehouse,2018-03-06,Y
+L00180,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2018-09-18,N
+L00181,Bangalore,Karnataka,India,560001,South,INR,Store,2020-06-26,Y
+L00182,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2018-05-08,Y
+L00183,Delhi,Delhi,India,110001,North,INR,Service Center,2023-07-02,N
+L00184,Hyderabad,Telangana,India,500001,South,INR,Warehouse,2021-01-31,Y
+L00185,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2024-10-15,N
+L00186,Pune,Maharashtra,India,411001,West,INR,Warehouse,2020-07-24,N
+L00187,Kolkata,West Bengal,India,700001,East,INR,Service Center,2021-07-04,N
+L00188,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2023-04-27,Y
+L00189,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2022-03-07,Y
+L00190,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2022-08-10,Y
+L00191,New York,New York,United States,10001,Northeast,USD,Service Center,2018-07-30,Y
+L00192,Los Angeles,California,United States,90001,West,USD,Warehouse,2023-05-30,Y
+L00193,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2021-02-15,Y
+L00194,London,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2020-12-31,Y
+L00195,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2021-12-08,Y
+L00196,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Service Center,2018-05-06,Y
+L00197,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2019-10-07,Y
+L00198,Singapore,Central,Singapore,018956,Asia,SGD,Store,2019-09-30,Y
+L00199,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2022-10-03,N
+L00200,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2019-04-12,Y
+L00201,Bangalore,Karnataka,India,560001,South,INR,Service Center,2021-06-17,Y
+L00202,Mumbai,Maharashtra,India,,West,INR,Store,2021-05-19,Y
+L00203,Delhi,Delhi,India,110001,North,INR,Pickup Point,2018-02-01,N
+L00204,Hyderabad,Telangana,India,500001,South,INR,Service Center,2020-07-31,Y
+L00205,Chennai,Tamil Nadu,India,600001,South,INR,Store,2023-02-27,Y
+L00206,Pune,Maharashtra,India,411001,West,INR,Service Center,2022-09-07,Y
+L00207,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2023-02-28,Y
+L00208,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2022-06-29,Y
+L00209,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2019-11-20,Y
+L00210,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2021-12-02,Y
+L00211,New York,New York,United States,10001,Northeast,USD,Warehouse,2019-08-23,Y
+L00212,Los Angeles,California,United States,90001,West,USD,Store,2023-07-17,N
+L00213,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2024-05-01,Y
+L00214,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2023-04-05,N
+L00215,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2018-10-31,Y
+L00216,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2018-11-11,Y
+L00217,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2018-06-18,N
+L00218,Singapore,Central,Singapore,018956,Asia,SGD,Warehouse,2023-05-03,Y
+L00219,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2018-12-12,Y
+L00220,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2024-11-02,Y
+L00221,Bangalore,Karnataka,India,560001,South,INR,Service Center,2021-10-17,Y
+L00222,Mumbai,Maharashtra,India,400001,West,INR,Store,2024-04-04,N
+L00223,Delhi,Delhi,India,110001,North,INR,Warehouse,2024-07-14,Y
+L00224,Hyderabad,Telangana,India,500001,South,INR,Service Center,2018-12-14,Y
+L00225,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2023-11-27,Y
+L00226,Pune,Maharashtra,India,,West,INR,Pickup Point,2021-06-19,Y
+L00227,Kolkata,West Bengal,India,700001,East,INR,Service Center,2019-07-18,Y
+L00228,Ahmedabad,Gujarat,India,380001,West,INR,Store,2024-01-20,Y
+L00229,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2019-09-24,Y
+L00230,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2018-06-28,N
+L00231,New York,New York,United States,10001,Northeast,USD,Service Center,2023-01-13,Y
+L00232,Los Angeles,California,United States,90001,West,USD,Service Center,2020-03-05,Y
+L00233,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2021-02-28,N
+L00234,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2024-10-12,Y
+L00235,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2024-03-21,Y
+L00236,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2019-10-19,Y
+L00237,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2020-06-28,N
+L00238,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2023-08-19,Y
+L00239,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2021-07-29,Y
+L00240,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2021-03-21,N
+L00241,Bangalore,Karnataka,India,560001,South,INR,Service Center,2018-01-22,Y
+L00242,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2024-10-29,N
+L00243,Delhi,Delhi,India,110001,North,INR,Pickup Point,2020-09-03,N
+L00244,Hyderabad,Telangana,India,500001,South,INR,Store,2023-08-10,Y
+L00245,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2018-01-07,Y
+L00246,Pune,Maharashtra,India,411001,West,INR,Store,2022-01-17,Y
+L00247,Kolkata,West Bengal,India,700001,East,INR,Store,2023-04-10,Y
+L00248,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2022-01-02,Y
+L00249,Jaipur,Rajasthan,India,302001,North,INR,Store,2021-09-23,Y
+L00250,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2023-03-19,N
+L00251,New York,New York,United States,10001,Northeast,USD,Store,2023-02-18,Y
+L00252,Los Angeles,California,United States,90001,West,USD,Warehouse,2021-07-16,Y
+L00253,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2020-02-22,Y
+L00254,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2022-02-16,N
+L00255,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2020-02-05,N
+L00256,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2022-10-05,Y
+L00257,Sydney,New South Wales,Australia,2000,Oceania,AUD,Warehouse,2021-08-08,Y
+L00258,Singapore,Central,Singapore,018956,Asia,SGD,Pickup Point,2022-10-12,Y
+L00259,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2021-12-15,N
+L00260,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2022-07-22,Y
+L00261,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2019-08-08,N
+L00262,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2024-05-12,Y
+L00263,Delhi,Delhi,India,110001,North,INR,Pickup Point,2018-11-11,Y
+L00264,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2019-04-10,Y
+L00265,Chennai,Tamil Nadu,India,600001,South,INR,Service Center,2019-04-28,Y
+L00266,Pune,Maharashtra,India,411001,West,INR,Warehouse,2021-03-15,N
+L00267,Kolkata,West Bengal,India,700001,East,INR,Store,2022-12-29,Y
+L00268,Ahmedabad,Gujarat,India,380001,West,INR,Pickup Point,2018-09-23,Y
+L00269,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2023-09-15,Y
+L00270,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2023-07-17,Y
+L00271,New York,New York,United States,10001,Northeast,USD,Service Center,2024-03-09,Y
+L00272,Los Angeles,California,United States,90001,West,USD,Pickup Point,2023-05-15,N
+L00273,Chicago,Illinois,United States,60601,Midwest,USD,Store,2021-07-22,Y
+L00274,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2024-03-08,Y
+L00275,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2023-10-24,Y
+L00276,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2023-10-27,Y
+L00277,Sydney,New South Wales,Australia,2000,Oceania,AUD,Pickup Point,2021-05-25,Y
+L00278,Singapore,Central,Singapore,018956,Asia,SGD,Warehouse,2024-10-14,Y
+L00279,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2024-06-20,Y
+L00280,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2018-05-05,N
+L00281,Bangalore,Karnataka,India,560001,South,INR,Pickup Point,2022-07-22,Y
+L00282,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2023-06-07,N
+L00283,Delhi,Delhi,India,110001,North,INR,Pickup Point,2021-07-31,Y
+L00284,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2019-03-11,Y
+L00285,Chennai,Tamil Nadu,India,600001,South,INR,Service Center,2019-02-01,Y
+L00286,Pune,Maharashtra,India,411001,West,INR,Service Center,2019-10-17,Y
+L00287,Kolkata,West Bengal,India,700001,East,INR,Warehouse,2023-08-03,N
+L00288,Ahmedabad,Gujarat,India,380001,West,INR,Store,2022-05-30,N
+L00289,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2021-02-26,N
+L00290,Lucknow,Uttar Pradesh,India,226001,North,INR,Service Center,2018-02-03,Y
+L00291,New York,New York,United States,10001,Northeast,USD,Pickup Point,2022-02-07,Y
+L00292,Los Angeles,California,United States,90001,West,USD,Warehouse,2021-03-28,Y
+L00293,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2019-05-02,Y
+L00294,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2022-02-06,Y
+L00295,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2019-07-16,Y
+L00296,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2023-10-13,Y
+L00297,Sydney,New South Wales,Australia,2000,Oceania,AUD,Warehouse,2021-05-10,Y
+L00298,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2021-05-12,N
+L00299,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2024-07-18,Y
+L00300,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2020-12-23,Y
+L00301,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2022-04-07,Y
+L00302,Mumbai,Maharashtra,India,400001,West,INR,Store,2022-12-12,Y
+L00303,Delhi,Delhi,India,110001,North,INR,Warehouse,2023-04-16,Y
+L00304,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2023-05-14,N
+L00305,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2020-12-18,N
+L00306,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2021-05-04,Y
+L00307,Kolkata,West Bengal,India,700001,East,INR,Service Center,2021-11-29,Y
+L00308,Ahmedabad,Gujarat,India,380001,West,INR,Service Center,2022-06-05,Y
+L00309,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2018-11-20,Y
+L00310,Lucknow,Uttar Pradesh,India,226001,North,INR,Service Center,2024-01-16,Y
+L00311,New York,New York,United States,10001,Northeast,USD,Warehouse,2024-07-31,Y
+L00312,Los Angeles,California,United States,90001,West,USD,Warehouse,2018-08-04,Y
+L00313,Chicago,Illinois,United States,60601,Midwest,USD,Store,2019-07-18,Y
+L00314,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2023-05-03,N
+L00315,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2018-08-31,Y
+L00316,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2019-12-19,N
+L00317,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2022-06-15,N
+L00318,Singapore,Central,Singapore,018956,Asia,SGD,Pickup Point,2018-02-07,Y
+L00319,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2024-02-04,N
+L00320,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2019-04-07,Y
+L00321,Bangalore,Karnataka,India,560001,South,INR,Pickup Point,2018-02-27,Y
+L00322,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2022-07-19,N
+L00323,Delhi,Delhi,India,110001,North,INR,Store,2019-07-30,N
+L00324,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2023-01-04,Y
+L00325,Chennai,Tamil Nadu,India,600001,South,INR,Store,2022-01-12,Y
+L00326,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2023-08-21,Y
+L00327,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2020-06-23,Y
+L00328,Ahmedabad,Gujarat,India,380001,West,INR,Service Center,2024-10-17,Y
+L00329,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2020-06-13,Y
+L00330,Lucknow,Uttar Pradesh,India,226001,North,INR,Store,2023-12-04,Y
+L00331,New York,New York,United States,10001,Northeast,USD,Store,2023-09-02,Y
+L00332,Los Angeles,California,United States,90001,West,USD,Pickup Point,2022-12-15,Y
+L00333,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2023-09-22,N
+L00334,London,England,United Kingdom,SW1A1AA,Europe,GBP,Service Center,2018-08-25,N
+L00335,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2018-01-13,Y
+L00336,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Pickup Point,2024-01-26,Y
+L00337,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2022-08-02,Y
+L00338,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2022-04-16,N
+L00339,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Service Center,2024-01-18,Y
+L00340,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2022-05-29,Y
+L00341,Bangalore,Karnataka,India,560001,South,INR,Store,2021-05-07,N
+L00342,Mumbai,Maharashtra,India,400001,West,INR,Service Center,2020-10-10,N
+L00343,Delhi,Delhi,India,110001,North,INR,Store,2022-09-14,Y
+L00344,Hyderabad,Telangana,India,500001,South,INR,Store,2018-07-19,Y
+L00345,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2018-08-20,Y
+L00346,Pune,Maharashtra,India,411001,West,INR,Pickup Point,2021-08-06,Y
+L00347,Kolkata,West Bengal,India,700001,East,INR,Warehouse,2021-02-01,Y
+L00348,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2022-10-16,N
+L00349,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2021-07-29,N
+L00350,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2023-04-24,Y
+L00351,New York,New York,United States,10001,Northeast,USD,Warehouse,2018-08-25,N
+L00352,Los Angeles,California,United States,90001,West,USD,Warehouse,2020-11-10,Y
+L00353,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2019-01-14,Y
+L00354,London,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2020-02-10,Y
+L00355,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2018-03-04,Y
+L00356,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2023-05-16,Y
+L00357,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2024-03-11,Y
+L00358,Singapore,Central,Singapore,018956,Asia,SGD,Pickup Point,2022-01-13,N
+L00359,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Service Center,2021-08-04,Y
+L00360,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2018-03-08,Y
+L00361,Bangalore,Karnataka,India,560001,South,INR,Service Center,2020-03-14,Y
+L00362,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2021-10-14,Y
+L00363,Delhi,Delhi,India,110001,North,INR,Service Center,2021-12-13,Y
+L00364,Hyderabad,Telangana,India,500001,South,INR,Warehouse,2024-01-30,Y
+L00365,Chennai,Tamil Nadu,India,600001,South,INR,Store,2018-07-18,Y
+L00366,Pune,Maharashtra,India,411001,West,INR,Warehouse,2019-09-11,Y
+L00367,Kolkata,West Bengal,India,700001,East,INR,Store,2023-06-03,N
+L00368,Ahmedabad,Gujarat,India,,West,INR,Service Center,2023-12-09,Y
+L00369,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2020-01-05,Y
+L00370,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2023-11-27,Y
+L00371,New York,New York,United States,10001,Northeast,USD,Service Center,2022-07-22,N
+L00372,Los Angeles,California,United States,90001,West,USD,Warehouse,2018-11-27,Y
+L00373,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2018-02-08,Y
+L00374,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2019-01-26,Y
+L00375,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2018-11-01,Y
+L00376,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2021-07-12,Y
+L00377,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2021-05-10,Y
+L00378,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2024-01-24,Y
+L00379,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Store,2021-11-17,Y
+L00380,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2024-09-05,N
+L00381,Bangalore,Karnataka,India,560001,South,INR,Pickup Point,2023-01-20,N
+L00382,Mumbai,Maharashtra,India,400001,West,INR,Service Center,2024-07-27,N
+L00383,Delhi,Delhi,India,110001,North,INR,Warehouse,2018-12-03,Y
+L00384,Hyderabad,Telangana,Indai,500001,South,INR,Warehouse,2021-07-21,Y
+L00385,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2021-01-09,Y
+L00386,Pune,Maharashtra,India,411001,West,INR,Service Center,2023-09-30,N
+L00387,,West Bengal,India,700001,East,INR,Store,2021-08-21,N
+L00388,Ahmedabad,Gujarat,India,380001,West,INR,Store,2024-04-10,Y
+L00389,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2021-01-06,Y
+L00390,Lucknow,Uttar Pradesh,India,226001,North,INR,Warehouse,2022-09-21,Y
+L00391,New York,New York,United States,10001,Northeast,USD,Pickup Point,2023-07-24,Y
+L00392,Los Angeles,California,United States,90001,West,USD,Store,2021-09-22,N
+L00393,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2024-08-31,Y
+L00394,London,England,United Kingdom,SW1A1AA,Europe,GBP,Warehouse,2019-12-29,N
+L00395,Manchester,England,United Kingdom,M11AE,Europe,GBP,Service Center,2020-09-19,Y
+L00396,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Service Center,2024-04-28,Y
+L00397,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2023-03-06,Y
+L00398,Singapore,Central,Singapore,018956,Asia,SGD,Store,2022-08-03,N
+L00399,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2022-09-30,N
+L00400,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2023-12-29,N
+L00401,Bangalore,Karnataka,India,560001,South,INR,Pickup Point,2024-01-09,Y
+L00402,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2018-07-01,N
+L00403,Delhi,Delhi,India,110001,North,INR,Service Center,2019-02-08,Y
+L00404,Hyderabad,Telangana,India,500001,South,INR,Warehouse,2022-05-22,N
+L00405,Chennai,Tamil Nadu,India,600001,South,INR,Warehouse,2018-04-11,N
+L00406,Pune,Maharashtra,India,411001,West,INR,Store,2019-08-04,Y
+L00407,Kolkata,West Bengal,India,700001,East,INR,Warehouse,2021-11-27,N
+L00408,Ahmedabad,Gujarat,India,380001,West,INR,Service Center,2021-05-14,Y
+L00409,Jaipur,Rajasthan,India,302001,North,INR,Pickup Point,2019-11-05,Y
+L00410,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2023-03-08,Y
+L00411,New York,New York,United States,10001,Northeast,USD,Warehouse,2022-11-06,N
+L00412,,California,United States,90001,West,USD,Warehouse,2022-10-26,N
+L00413,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2018-09-14,Y
+L00414,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2023-02-18,Y
+L00415,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2022-05-27,Y
+L00416,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2021-05-03,Y
+L00417,Sydney,New South Wales,Australia,2000,Oceania,AUD,Warehouse,2020-01-20,Y
+L00418,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2024-06-12,N
+L00419,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Warehouse,2023-06-29,Y
+L00420,Berlin,Berlin,Germany,10115,Europe,EUR,Service Center,2022-01-10,Y
+L00421,Bangalore,Karnataka,India,560001,South,INR,Service Center,2023-09-02,N
+L00422,Mumbai,Maharashtra,India,400001,West,INR,Service Center,2018-12-05,Y
+L00423,Delhi,Delhi,India,110001,North,INR,Store,2024-01-12,Y
+L00424,Hyderabad,Telangana,India,500001,South,INR,Service Center,2019-04-09,Y
+L00425,Chennai,Tamil Nadu,India,600001,South,INR,Pickup Point,2018-06-20,N
+L00426,Pune,Maharashtra,India,411001,West,INR,Store,2020-10-10,Y
+L00427,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2018-12-23,N
+L00428,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2024-08-05,Y
+L00429,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2019-07-25,Y
+L00430,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2024-09-10,Y
+L00431,New York,New York,United States,10001,Northeast,USD,Pickup Point,2023-10-09,Y
+L00432,Los Angeles,California,United States,90001,West,USD,Service Center,2021-02-09,Y
+L00433,Chicago,Illinois,United States,60601,Midwest,USD,Warehouse,2020-10-10,N
+L00434,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2022-03-17,N
+L00435,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2021-02-13,Y
+L00436,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2019-01-17,N
+L00437,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2022-06-18,Y
+L00438,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2021-03-07,Y
+L00439,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Service Center,2018-07-18,Y
+L00440,Berlin,Berlin,Germany,,Europe,EUR,Service Center,2019-10-10,N
+L00441,Bangalore,Karnataka,India,560001,South,INR,Service Center,2019-06-25,Y
+L00442,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2022-01-16,Y
+L00443,Delhi,Delhi,India,110001,North,INR,Warehouse,2021-06-05,Y
+L00444,Hyderabad,Telangana,India,,South,INR,Store,2023-05-08,Y
+L00445,Chennai,Tamil Nadu,India,,South,INR,Service Center,2021-11-08,Y
+L00446,Pune,Maharashtra,India,411001,West,INR,Warehouse,2020-07-26,N
+L00447,Kolkata,West Bengal,India,700001,East,INR,Store,2021-05-10,Y
+L00448,Ahmedabad,Gujarat,Indai,380001,West,INR,Warehouse,2019-08-09,Y
+L00449,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2020-05-22,Y
+L00450,Lucknow,Uttar Pradesh,India,226001,North,INR,Service Center,2018-12-22,Y
+L00451,New York,New York,United States,10001,Northeast,USD,Service Center,2022-10-25,Y
+L00452,Los Angeles,California,United States,90001,West,USD,Store,2024-09-27,Y
+L00453,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2024-10-21,Y
+L00454,London,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2020-09-07,N
+L00455,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2018-02-19,Y
+L00456,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Service Center,2019-12-09,N
+L00457,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2018-02-26,Y
+L00458,Singapore,Central,Singapore,018956,Asia,SGD,Service Center,2023-08-15,N
+L00459,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Warehouse,2021-06-23,Y
+L00460,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2022-05-20,Y
+L00461,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2018-12-20,N
+L00462,,Maharashtra,India,400001,West,INR,Store,2019-12-21,Y
+L00463,Delhi,Delhi,India,110001,North,INR,Store,2021-11-21,Y
+L00464,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2019-04-29,Y
+L00465,Chennai,Tamil Nadu,India,600001,South,INR,Store,2024-06-19,Y
+L00466,Pune,Maharashtra,India,411001,West,INR,Store,2024-05-10,Y
+L00467,Kolkata,West Bengal,Indai,700001,East,INR,Store,2019-04-18,Y
+L00468,Ahmedabad,Gujarat,India,380001,West,INR,Store,2023-04-17,Y
+L00469,Jaipur,Rajasthan,India,302001,North,INR,Store,2022-09-14,Y
+L00470,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2018-11-16,Y
+L00471,New York,New York,United States,10001,Northeast,USD,Store,2023-10-14,Y
+L00472,Los Angeles,California,United States,90001,West,USD,Service Center,2021-06-26,Y
+L00473,Chicago,Illinois,United States,60601,Midwest,USD,Pickup Point,2024-04-28,Y
+L00474,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2023-07-14,Y
+L00475,Manchester,England,United Kingdom,M11AE,Europe,GBP,Warehouse,2022-08-07,Y
+L00476,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Store,2018-01-06,N
+L00477,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2020-09-02,N
+L00478,Singapore,Central,Singapore,018956,Asia,SGD,Warehouse,2019-01-17,Y
+L00479,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Service Center,2022-03-06,N
+L00480,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2022-06-04,Y
+L00481,Bangalore,Karnataka,India,560001,South,INR,Warehouse,2020-12-05,Y
+L00482,Mumbai,Maharashtra,India,400001,West,INR,Pickup Point,2021-01-18,Y
+L00483,Delhi,Delhi,India,110001,North,INR,Store,2019-11-05,N
+L00484,Hyderabad,Telangana,India,500001,South,INR,Pickup Point,2020-04-30,N
+L00485,Chennai,Tamil Nadu,India,600001,South,INR,Store,2021-05-31,Y
+L00486,Pune,Maharashtra,India,411001,West,INR,Warehouse,2020-10-13,Y
+L00487,Kolkata,West Bengal,India,700001,East,INR,Pickup Point,2019-12-14,Y
+L00488,Ahmedabad,Gujarat,India,380001,West,INR,Warehouse,2019-02-22,Y
+L00489,Jaipur,Rajasthan,India,302001,North,INR,Warehouse,2022-06-29,Y
+L00490,Lucknow,Uttar Pradesh,India,226001,North,INR,Store,2020-11-26,Y
+L00491,New York,New York,United States,10001,Northeast,USD,Service Center,2019-01-12,Y
+L00492,Los Angeles,California,United States,90001,West,USD,Store,2024-06-08,N
+L00493,Chicago,Illinois,United States,60601,Midwest,USD,Store,2022-10-14,Y
+L00494,London,England,United Kingdom,SW1A1AA,Europe,GBP,Pickup Point,2019-09-01,Y
+L00495,Manchester,England,United Kingdom,M11AE,Europe,GBP,Pickup Point,2024-03-05,N
+L00496,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Warehouse,2023-11-24,Y
+L00497,Sydney,New South Wales,Australia,2000,Oceania,AUD,Store,2022-01-10,N
+L00498,Singapore,Central,Singapore,018956,Asia,SGD,Pickup Point,2020-01-07,Y
+L00499,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Pickup Point,2023-04-17,Y
+L00500,Berlin,Berlin,Germany,10115,Europe,EUR,Warehouse,2020-09-14,Y
+L00501,Bangalore,Karnataka,India,560001,South,INR,Store,2020-06-17,N
+L00502,Mumbai,Maharashtra,India,400001,West,INR,Warehouse,2024-08-23,Y
+L00503,Delhi,Delhi,India,110001,North,INR,Store,2021-12-11,Y
+L00504,Hyderabad,Telangana,India,500001,South,INR,Service Center,2019-12-21,N
+L00505,Chennai,Tamil Nadu,India,,South,INR,Warehouse,2023-05-12,Y
+L00506,Pune,Maharashtra,India,411001,West,INR,Warehouse,2019-12-28,Y
+L00507,Kolkata,West Bengal,India,700001,East,INR,Warehouse,2023-11-26,Y
+L00508,Ahmedabad,Gujarat,India,380001,West,INR,Service Center,2021-10-10,Y
+L00509,Jaipur,Rajasthan,India,302001,North,INR,Service Center,2023-06-19,Y
+L00510,Lucknow,Uttar Pradesh,India,226001,North,INR,Pickup Point,2024-08-09,Y
+L00511,New York,New York,United States,10001,Northeast,USD,Pickup Point,2018-01-08,N
+L00512,Los Angeles,California,United States,90001,West,USD,Store,2021-07-27,Y
+L00513,Chicago,Illinois,United States,60601,Midwest,USD,Service Center,2018-11-15,Y
+L00514,,England,United Kingdom,SW1A1AA,Europe,GBP,Store,2021-10-07,N
+L00515,Manchester,England,United Kingdom,M11AE,Europe,GBP,Store,2019-03-19,Y
+L00516,Toronto,Ontario,Canada,M5H2N2,North America,CAD,Service Center,2022-08-23,N
+L00517,Sydney,New South Wales,Australia,2000,Oceania,AUD,Service Center,2023-05-18,Y
+L00518,Singapore,Central,Singapore,018956,Asia,SGD,Store,2021-07-29,Y
+L00519,Dubai,Dubai,United Arab Emirates,00000,Middle East,AED,Warehouse,2019-10-22,Y
+L00520,Berlin,Berlin,Germany,10115,Europe,EUR,Store,2023-06-01,Y
+L00011,New York,New York,United States,10001,Northeast,USD,Service Center,2024-03-31,Y
+L00026,Pune,Maharashtra,India,411001,West,INR,Store,2018-09-20,Y
+L00101,Bangalore,Karnataka,India,560001,South,INR,Service Center,2022-04-02,Y

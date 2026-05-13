@@ -1,0 +1,654 @@
+product_id,sku,product_name,category,brand,unit_price,cost_price,tax_rate,supplier_name,is_active,created_date
+P00001,BOO-URB-00001,UrbanCart Cloud Architecture Basics,Books,UrbanCart,957.69,599.66,28,Pacific Imports,Y,2023-02-27
+P00002,GRO-HOM-00002,HomeEase Breakfast Cereal,Grocery,HomeEase,473.19,276.97,28,Global Distributors,Y,2025-05-21
+P00003,HOM-TEC-00003,TechPro LED Desk Lamp,Home & Kitchen,TechPro,1239.58,816.79,28,Northstar Traders,N,2022-12-21
+P00004,HOM-GRE-00004,GreenLeaf Water Bottle Steel,Home & Kitchen,GreenLeaf,597.66,389.99,28,Bharat Supply Co,Y,2023-01-05
+P00005,SPO-NOV-00005,Nova Yoga Mat,Sports,Nova,892.69,656.91,12,Pacific Imports,Y,2024-05-04
+P00006,BOO-PRI-00006,PrimeWorks Cloud Architecture Basics,Books,PrimeWorks,1321.73,871.73,5,Pacific Imports,Y,2021-05-07
+P00007,HOM-FRE-00007,FreshNest Mixer Grinder,Home & Kitchen,FreshNest,3150.76,2039.73,28,Metro Wholesale,Y,2022-11-22
+P00008,BEA-NOV-00008,Nova Face Wash,Beauty,Nova,300.57,192.78,18,Pacific Imports,N,2020-02-20
+P00009,BOO-NOV-00009,Nova Cloud Architecture Basics,Books,Nova,1116.34,652.04,5,Global Distributors,Y,2023-03-17
+P00010,GRO-GRE-00010,GreenLeaf Green Tea Pack,Grocery,GreenLeaf,388.06,264.49,12,Bharat Supply Co,N,2021-08-12
+P00011,GRO-GRE-00011,GreenLeaf Basmati Rice 5kg,Grocery,GreenLeaf,963.46,603.36,28,Bharat Supply Co,Y,2020-03-23
+P00012,FAS-SWI-00012,SwiftRun Running Shoes,Fashion,SwiftRun,3578.69,2531.98,12,Metro Wholesale,Y,2024-12-19
+P00013,SPO-PRI-00013,PrimeWorks Badminton Racket,Sports,PrimeWorks,1661.22,985.48,28,Northstar Traders,Y,2020-08-18
+P00014,FAS-HOM-00014,HomeEase Sports T-shirt,Fashion,HomeEase,706.94,515.73,5,Metro Wholesale,Y,2022-04-02
+P00015,GRO-BLU-00015,BluePeak Basmati Rice 5kg,Grocery,BluePeak,904.35,554.38,28,Global Distributors,Y,2022-09-17
+P00016,HOM-SWI-00016,SwiftRun Bedsheet Cotton,Home & Kitchen,SwiftRun,1626.04,1025.13,18,Global Distributors,Y,2020-04-22
+P00017,BOO-FRE-00017,FreshNest Python for Analytics,Books,FreshNest,996.95,703.72,28,Pacific Imports,Y,2020-02-06
+P00018,HOM-APE-00018,Apex Dinner Set,Home & Kitchen,Apex,2347.83,1619.81,18,Northstar Traders,N,2023-11-29
+P00019,FAS-HOM-00019,HomeEase Sports T-shirt,Fashion,HomeEase,824.63,528.87,18,Pacific Imports,Y,2023-05-07
+P00020,FAS-BLU-00020,BluePeak Running Shoes,Fashion,BluePeak,3582.6,2185.61,18,Metro Wholesale,Y,2025-10-19
+P00021,BEA-GRE-00021,GreenLeaf Perfume 100ml,Beauty,GreenLeaf,1447.36,1022.67,28,Bharat Supply Co,Y,2024-09-10
+P00022,BOO-FRE-00022,FreshNest Business Strategy Casebook,Books,FreshNest,788.83,563.28,28,Bharat Supply Co,Y,2021-11-27
+P00023,HOM-NOV-00023,Nova Water Bottle Steel,Home & Kitchen,Nova,621.95,448.06,12,Bharat Supply Co,Y,2022-06-29
+P00024,FAS-BLU-00024,BluePeak Leather Wallet,Fashion,BluePeak,897.81,614.71,5,Northstar Traders,Y,2020-10-18
+P00025,ELE-HOM-00025,HomeEase Power Bank 20000mAh,Electronics,HomeEase,1937.72,1089.84,12,Metro Wholesale,Y,2024-08-03
+P00026,GRO-BLU-00026,BluePeak Olive Oil 1L,,BluePeak,1193.76,706.09,18,Metro Wholesale,Y,2020-08-25
+P00027,BEA-PRI-00027,PrimeWorks Moisturizer,Beauty,PrimeWorks,576.74,382.15,5,Metro Wholesale,N,2024-10-24
+P00028,GRO-APE-00028,Apex Basmati Rice 5kg,Grocery,Apex,849.75,610.16,18,Pacific Imports,Y,2020-03-14
+P00029,HOM-BLU-00029,BluePeak Mixer Grinder,Home & Kitchen,BluePeak,3410.95,1956.6,18,Metro Wholesale,Y,2020-07-06
+P00030,SPO-PRI-00030,PrimeWorks Dumbbell Set,Sports,PrimeWorks,3177.88,2064.81,12,Bharat Supply Co,N,2024-01-11
+P00031,BEA-APE-00031,Apex Hair Serum,Beauty,Apex,375.61,269.41,5,Pacific Imports,Y,2021-05-19
+P00032,ELE-TEC-00032,TechPro Power Bank 20000mAh,Electronics,TechPro,2315.84,1605.62,5,Global Distributors,Y,2020-07-16
+P00033,GRO-HOM-00033,HomeEase Basmati Rice 5kg,Grocery,HomeEase,759.93,540.64,5,Bharat Supply Co,N,2021-02-17
+P00034,BOO-GRE-00034,GreenLeaf Python for Analytics,Books,GreenLeaf,1062.85,610.21,5,Bharat Supply Co,Y,2021-03-11
+P00035,BEA-HOM-00035,HomeEase Sunscreen SPF50,Beauty,HomeEase,742.31,469.38,12,Global Distributors,N,2022-04-30
+P00036,HOM-APE-00036,Apex Air Fryer,Home & Kitchen,Apex,7829.45,5939.28,28,Metro Wholesale,Y,2025-09-26
+P00037,FAS-FRE-00037,FreshNest Sports T-shirt,Fashion,FreshNest,721.86,559.28,5,Global Distributors,Y,2020-06-10
+P00038,SPO-GRE-00038,GreenLeaf Football,Sports,GreenLeaf,1144.27,654.35,5,Global Distributors,Y,2021-11-29
+P00039,BOO-NOV-00039,Nova SQL Interview Guide,Books,Nova,698.34,439.13,28,Northstar Traders,Y,2024-04-28
+P00040,GRO-URB-00040,UrbanCart Organic Honey,Grocery,UrbanCart,446.72,317.22,12,Global Distributors,N,2025-05-31
+P00041,HOM-GRE-00041,GreenLeaf Dinner Set,Home & Kitchen,GreenLeaf,2903.0,2004.85,12,Northstar Traders,N,2021-04-07
+P00042,ELE-BLU-00042,BluePeak Mechanical Keyboard,Electronics,BluePeak,2991.45,2242.74,12,Bharat Supply Co,Y,2024-11-07
+P00043,FAS-GRE-00043,GreenLeaf Sports T-shirt,Fashion,GreenLeaf,635.71,470.48,5,Global Distributors,Y,2025-09-01
+P00044,BEA-NOV-00044,Nova Moisturizer,Beauty,Nova,574.14,358.12,18,Global Distributors,Y,2024-03-30
+P00045,GRO-PRI-00045,PrimeWorks Almonds 500g,Grocery,PrimeWorks,667.98,498.99,5,Northstar Traders,Y,2021-02-24
+P00046,BOO-NOV-00046,Nova Data Engineering Handbook,Books,Nova,1515.56,1169.3,12,Northstar Traders,Y,2024-01-28
+P00047,BEA-BLU-00047,BluePeak Hair Serum,Beauty,BluePeak,428.55,296.79,18,Northstar Traders,Y,2021-02-03
+P00048,FAS-TEC-00048,TechPro Running Shoes,Fashion,TechPro,3206.16,2039.1,12,Northstar Traders,Y,2024-08-03
+P00049,HOM-GRE-00049,GreenLeaf Air Fryer,Home & Kitchen,GreenLeaf,6552.71,4846.7,18,Global Distributors,N,2020-07-09
+P00050,BOO-SWI-00050,SwiftRun Data Engineering Handbook,Books,SwiftRun,1341.81,919.87,28,Global Distributors,Y,2024-11-07
+P00051,BOO-PRI-00051,PrimeWorks Python for Analytics,Books,PrimeWorks,826.59,609.62,18,Pacific Imports,N,2024-09-10
+P00052,BEA-TEC-00052,TechPro Moisturizer,Beauty,TechPro,503.56,316.67,12,Metro Wholesale,N,2025-09-29
+P00053,BEA-HOM-00053,HomeEase Sunscreen SPF50,Beauty,HomeEase,660.72,393.92,18,Bharat Supply Co,Y,2021-12-29
+P00054,FAS-NOV-00054,Nova Sports T-shirt,Fashion,Nova,806.86,548.12,28,Pacific Imports,Y,2024-09-26
+P00055,ELE-URB-00055,UrbanCart Power Bank 20000mAh,Electronics,UrbanCart,1741.58,980.54,12,Bharat Supply Co,Y,2021-08-22
+P00056,FAS-HOM-00056,HomeEase Women Kurti,Fashion,HomeEase,1034.64,762.76,12,Pacific Imports,N,2022-08-31
+P00057,SPO-APE-00057,Apex Football,Sports,Apex,1219.37,779.35,18,Pacific Imports,Y,2020-02-23
+P00058,BEA-FRE-00058,FreshNest Hair Serum,Beauty,FreshNest,484.62,345.08,12,Metro Wholesale,Y,2025-01-12
+P00059,HOM-HOM-00059,HomeEase Mixer Grinder,,HomeEase,3141.2,1757.02,18,Metro Wholesale,Y,2022-11-10
+P00060,HOM-URB-00060,UrbanCart Air Fryer,Home & Kitchen,UrbanCart,8548.94,5875.54,18,Northstar Traders,Y,2020-10-25
+P00061,HOM-HOM-00061,HomeEase Mixer Grinder,Home & Kitchen,HomeEase,3069.57,2044.89,28,Global Distributors,Y,2022-06-25
+P00062,FAS-TEC-00062,TechPro Running Shoes,Fashion,TechPro,2811.2,2032.81,5,Global Distributors,Y,2024-12-30
+P00063,BOO-APE-00063,Apex Python for Analytics,Books,Apex,1009.6,629.8,5,Northstar Traders,Y,2023-03-04
+P00064,BEA-HOM-00064,HomeEase Sunscreen SPF50,Beauty,HomeEase,701.5,457.71,12,Bharat Supply Co,Y,2021-01-28
+P00065,BOO-APE-00065,Apex Business Strategy Casebook,Books,Apex,879.52,526.37,12,Northstar Traders,Y,2022-04-22
+P00066,SPO-NOV-00066,Nova Badminton Racket,Sports,Nova,1721.99,1007.99,18,Global Distributors,Y,2020-10-27
+P00067,BOO-PRI-00067,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1531.06,1162.88,28,Northstar Traders,N,2023-07-19
+P00068,BOO-PRI-00068,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1137.01,820.43,5,Bharat Supply Co,Y,2023-04-02
+P00069,ELE-SWI-00069,SwiftRun Mechanical Keyboard,Electronics,SwiftRun,3507.98,2592.71,12,Pacific Imports,Y,2021-07-12
+P00070,BEA-TEC-00070,TechPro Perfume 100ml,Beauty,TechPro,1603.04,934.79,18,Global Distributors,Y,2021-05-19
+P00071,GRO-HOM-00071,HomeEase Breakfast Cereal,Grocery,HomeEase,490.29,304.02,18,Metro Wholesale,N,2025-09-30
+P00072,BOO-FRE-00072,FreshNest SQL Interview Guide,Books,FreshNest,626.2,441.05,5,Pacific Imports,N,2020-10-26
+P00073,ELE-PRI-00073,PrimeWorks Laptop Stand,Electronics,PrimeWorks,1357.29,849.79,12,Global Distributors,Y,2020-10-12
+P00074,GRO-PRI-00074,PrimeWorks Green Tea Pack,,PrimeWorks,388.71,275.79,18,Bharat Supply Co,N,2021-11-21
+P00075,HOM-GRE-00075,GreenLeaf LED Desk Lamp,Home & Kitchen,GreenLeaf,959.71,607.19,18,Northstar Traders,N,2024-12-29
+P00076,BOO-URB-00076,UrbanCart Data Engineering Handbook,Books,UrbanCart,1439.58,818.91,12,Pacific Imports,Y,2022-12-14
+P00077,SPO-APE-00077,Apex Yoga Mat,Sports,Apex,950.68,660.98,28,Pacific Imports,Y,2020-05-30
+P00078,BOO-URB-00078,UrbanCart Cloud Architecture Basics,Books,UrbanCart,1094.96,658.47,18,Metro Wholesale,N,2025-08-14
+P00079,BOO-FRE-00079,FreshNest Data Engineering Handbook,Books,FreshNest,1544.76,1136.18,12,Pacific Imports,Y,2025-01-01
+P00080,BOO-SWI-00080,SwiftRun Python for Analytics,Books,SwiftRun,1101.88,616.28,12,Global Distributors,Y,2024-02-22
+P00081,BOO-GRE-00081,GreenLeaf SQL Interview Guide,Books,GreenLeaf,725.47,474.87,18,Global Distributors,Y,2022-12-14
+P00082,GRO-GRE-00082,GreenLeaf Organic Honey,Grocery,GreenLeaf,497.06,348.07,18,Northstar Traders,Y,2025-10-16
+P00083,FAS-SWI-00083,SwiftRun Leather Wallet,Fashion,SwiftRun,1083.18,597.39,28,Metro Wholesale,Y,2020-11-11
+P00084,HOM-URB-00084,UrbanCart Mixer Grinder,Home & Kitchen,UrbanCart,3481.12,2488.93,12,Northstar Traders,Y,2021-04-09
+P00085,HOM-URB-00085,UrbanCart Dinner Set,Home & Kitchen,UrbanCart,2771.15,1786.03,12,Pacific Imports,Y,2021-07-05
+P00086,BOO-APE-00086,Apex Python for Analytics,Books,Apex,823.97,628.0,28,Pacific Imports,Y,2023-03-07
+P00087,BOO-SWI-00087,SwiftRun Cloud Architecture Basics,Books,SwiftRun,1009.13,747.75,12,Pacific Imports,Y,2021-11-17
+P00088,GRO-PRI-00088,PrimeWorks Breakfast Cereal,Grocery,PrimeWorks,350.14,223.04,5,Metro Wholesale,N,2021-09-04
+P00089,BOO-APE-00089,Apex Business Strategy Casebook,Books,Apex,959.68,645.12,5,Northstar Traders,Y,2020-01-05
+P00090,SPO-HOM-00090,HomeEase Badminton Racket,Sports,HomeEase,1526.39,1146.64,28,Metro Wholesale,N,2024-04-10
+P00091,BEA-NOV-00091,Nova Perfume 100ml,Beauty,Nova,1325.23,806.45,5,Bharat Supply Co,N,2022-11-21
+P00092,BEA-PRI-00092,PrimeWorks Face Wash,Beauty,PrimeWorks,316.65,212.01,12,Bharat Supply Co,N,2024-01-23
+P00093,BOO-TEC-00093,TechPro SQL Interview Guide,Books,TechPro,833.2,539.43,18,Northstar Traders,Y,2024-08-19
+P00094,HOM-HOM-00094,HomeEase Water Bottle Steel,Home & Kitchen,HomeEase,642.11,390.64,18,Northstar Traders,Y,2021-05-02
+P00095,SPO-NOV-00095,Nova Cricket Bat,Sports,Nova,2338.52,1501.63,5,Metro Wholesale,N,2020-01-22
+P00096,GRO-GRE-00096,GreenLeaf Breakfast Cereal,Grocery,GreenLeaf,353.22,215.64,5,Northstar Traders,N,2025-11-04
+P00097,ELE-SWI-00097,SwiftRun USB-C Hub,Electronics,SwiftRun,1947.59,1161.53,18,Metro Wholesale,Y,2025-09-22
+P00098,HOM-APE-00098,Apex LED Desk Lamp,Home & Kitchen,Apex,992.9,695.68,5,Bharat Supply Co,N,2023-12-17
+P00099,HOM-APE-00099,Apex Dinner Set,Home & Kitchen,Apex,2860.78,1618.58,18,Pacific Imports,Y,2023-11-24
+P00100,BOO-SWI-00100,SwiftRun Python for Analytics,Books,SwiftRun,1098.48,749.41,28,Pacific Imports,Y,2020-10-23
+P00101,ELE-HOM-00101,HomeEase Mechanical Keyboard,Electronics,HomeEase,4112.23,2805.47,28,Pacific Imports,N,2022-09-23
+P00102,GRO-SWI-00102,SwiftRun Organic Honey,Grocery,SwiftRun,603.1,451.28,18,Global Distributors,N,2022-06-21
+P00103,FAS-BLU-00103,BluePeak Leather Wallet,Fashion,BluePeak,949.88,524.56,12,Bharat Supply Co,Y,2024-06-22
+P00104,ELE-SWI-00104,SwiftRun USB-C Hub,Electronics,SwiftRun,1852.57,1112.04,12,Metro Wholesale,N,2022-03-28
+P00105,FAS-FRE-00105,FreshNest Women Kurti,Fashion,FreshNest,1116.4,678.13,12,Global Distributors,Y,2020-11-17
+P00106,BOO-HOM-00106,HomeEase Data Engineering Handbook,Books,HomeEase,1601.92,1193.5,18,Northstar Traders,Y,2025-07-03
+P00107,BOO-GRE-00107,GreenLeaf SQL Interview Guide,Books,GreenLeaf,656.25,447.98,28,Northstar Traders,Y,2025-08-20
+P00108,BEA-SWI-00108,SwiftRun Moisturizer,Beauty,SwiftRun,619.06,439.9,5,Global Distributors,Y,2024-04-03
+P00109,BOO-URB-00109,UrbanCart SQL Interview Guide,Books,UrbanCart,747.53,451.91,18,Bharat Supply Co,Y,2025-08-04
+P00110,BEA-BLU-00110,BluePeak Sunscreen SPF50,Beauty,BluePeak,713.85,438.53,12,Pacific Imports,Y,2021-02-13
+P00111,BOO-GRE-00111,GreenLeaf Cloud Architecture Basics,Books,GreenLeaf,1020.34,748.94,28,Global Distributors,Y,2024-09-22
+P00112,BEA-HOM-00112,HomeEase Perfume 100ml,Beauty,HomeEase,1478.55,1080.27,5,Northstar Traders,Y,2021-10-31
+P00113,GRO-NOV-00113,Nova Organic Honey,Grocery,Nova,513.94,322.23,18,Bharat Supply Co,Y,2024-08-13
+P00114,BOO-PRI-00114,PrimeWorks Python for Analytics,Books,PrimeWorks,971.24,679.19,18,Bharat Supply Co,Y,2025-09-21
+P00115,ELE-PRI-00115,PrimeWorks Power Bank 20000mAh,Electronics,PrimeWorks,1928.25,1340.7,12,Bharat Supply Co,N,2024-07-15
+P00116,HOM-FRE-00116,FreshNest Water Bottle Steel,Home & Kitchen,FreshNest,584.26,409.09,28,Bharat Supply Co,N,2024-01-27
+P00117,GRO-URB-00117,UrbanCart Almonds 500g,Grocery,UrbanCart,599.39,332.85,18,Global Distributors,Y,2021-11-14
+P00118,GRO-APE-00118,Apex Breakfast Cereal,Grocery,Apex,343.36,220.2,5,Global Distributors,Y,2021-09-28
+P00119,GRO-FRE-00119,FreshNest Green Tea Pack,Grocery,FreshNest,331.19,203.8,12,Pacific Imports,Y,2020-04-27
+P00120,FAS-SWI-00120,SwiftRun Leather Wallet,Fashion,SwiftRun,1114.75,751.71,28,Metro Wholesale,Y,2025-02-13
+P00121,BOO-HOM-00121,HomeEase Cloud Architecture Basics,Books,HomeEase,1215.4,817.69,28,Pacific Imports,Y,2021-01-01
+P00122,FAS-TEC-00122,TechPro Women Kurti,Fashion,TechPro,1024.21,686.59,12,Bharat Supply Co,Y,2025-04-05
+P00123,GRO-TEC-00123,TechPro Almonds 500g,Grocery,TechPro,554.02,359.56,12,Global Distributors,Y,2022-02-11
+P00124,GRO-URB-00124,UrbanCart Olive Oil 1L,Grocery,UrbanCart,1134.84,792.77,12,Bharat Supply Co,Y,2024-09-25
+P00125,BEA-TEC-00125,TechPro Perfume 100ml,Beauty,TechPro,1252.07,902.58,28,Metro Wholesale,Y,2022-01-17
+P00126,GRO-SWI-00126,SwiftRun Breakfast Cereal,Grocery,SwiftRun,382.58,265.22,5,Metro Wholesale,Y,2025-12-31
+P00127,FAS-URB-00127,UrbanCart Running Shoes,Fashion,UrbanCart,3407.1,2443.69,12,Global Distributors,N,2022-06-08
+P00128,BEA-BLU-00128,BluePeak Hair Serum,Beauty,BluePeak,413.15,302.44,12,Global Distributors,Y,2024-05-26
+P00129,HOM-TEC-00129,TechPro Bedsheet Cotton,Home & Kitchen,TechPro,1764.17,1306.36,12,Northstar Traders,N,2022-10-09
+P00130,GRO-NOV-00130,Nova Organic Honey,Grocery,Nova,528.17,409.8,18,Bharat Supply Co,Y,2020-06-21
+P00131,ELE-SWI-00131,SwiftRun Mechanical Keyboard,Electronics,SwiftRun,3867.82,2304.09,12,Global Distributors,Y,2024-11-13
+P00132,FAS-NOV-00132,Nova Backpack 30L,Fashion,Nova,1612.31,976.92,28,Pacific Imports,Y,2024-03-01
+P00133,GRO-PRI-00133,PrimeWorks Basmati Rice 5kg,Grocery,PrimeWorks,787.31,608.61,5,Global Distributors,Y,2021-09-22
+P00134,HOM-FRE-00134,FreshNest Non-stick Pan,Home & Kitchen,FreshNest,1268.73,860.73,18,Northstar Traders,Y,2020-03-28
+P00135,HOM-APE-00135,Apex Water Bottle Steel,Home & Kitchen,Apex,625.43,406.92,28,Metro Wholesale,Y,2023-11-25
+P00136,BEA-HOM-00136,HomeEase Perfume 100ml,,HomeEase,1187.46,798.17,18,Pacific Imports,Y,2025-02-02
+P00137,GRO-URB-00137,UrbanCart Organic Honey,Grocery,UrbanCart,600.38,415.79,12,Bharat Supply Co,Y,2024-05-06
+P00138,BEA-URB-00138,UrbanCart Perfume 100ml,Beauty,UrbanCart,1422.69,888.04,5,Global Distributors,Y,2020-06-28
+P00139,BEA-FRE-00139,FreshNest Face Wash,Beauty,FreshNest,266.95,158.59,28,Northstar Traders,Y,2020-07-20
+P00140,ELE-FRE-00140,FreshNest Wireless Mouse,Electronics,FreshNest,888.73,678.57,28,Global Distributors,Y,2024-08-30
+P00141,ELE-HOM-00141,HomeEase Mechanical Keyboard,Electronics,HomeEase,3031.05,1716.15,12,Pacific Imports,Y,2021-02-18
+P00142,HOM-HOM-00142,HomeEase Mixer Grinder,Home & Kitchen,HomeEase,3893.51,2651.89,28,Global Distributors,Y,2025-02-21
+P00143,ELE-URB-00143,UrbanCart USB-C Hub,Electronics,UrbanCart,2031.9,1353.41,28,Bharat Supply Co,Y,2023-08-22
+P00144,SPO-BLU-00144,BluePeak Badminton Racket,Sports,BluePeak,-1638.95,1113.7,18,Bharat Supply Co,N,2025-01-06
+P00145,ELE-PRI-00145,PrimeWorks Mechanical Keyboard,Electronics,PrimeWorks,2996.97,1741.45,5,Bharat Supply Co,Y,2022-05-29
+P00146,BEA-HOM-00146,HomeEase Sunscreen SPF50,Beauty,HomeEase,631.65,430.31,5,Global Distributors,N,2023-12-27
+P00147,BOO-FRE-00147,FreshNest Python for Analytics,Books,FreshNest,856.3,530.11,12,Global Distributors,Y,2025-05-30
+P00148,SPO-NOV-00148,Nova Dumbbell Set,Sports,Nova,3263.19,2020.21,28,Global Distributors,Y,2023-10-01
+P00149,GRO-FRE-00149,FreshNest Basmati Rice 5kg,Grocery,FreshNest,918.11,684.34,28,Global Distributors,Y,2025-11-17
+P00150,HOM-HOM-00150,HomeEase Water Bottle Steel,Home & Kitchen,HomeEase,676.34,395.82,28,Northstar Traders,Y,2022-06-28
+P00151,HOM-BLU-00151,BluePeak Mixer Grinder,Home & Kitchen,BluePeak,3089.68,2105.4,28,Bharat Supply Co,Y,2024-06-20
+P00152,HOM-URB-00152,UrbanCart Bedsheet Cotton,Home & Kitchen,UrbanCart,1562.51,930.58,12,Pacific Imports,Y,2022-09-19
+P00153,FAS-PRI-00153,PrimeWorks Sports T-shirt,Fashion,PrimeWorks,619.2,436.23,18,Metro Wholesale,Y,2023-11-12
+P00154,FAS-BLU-00154,BluePeak Women Kurti,Fashion,BluePeak,1314.69,1022.48,12,Northstar Traders,Y,2022-08-14
+P00155,BEA-NOV-00155,Nova Face Wash,Beauty,Nova,342.6,207.58,12,Bharat Supply Co,Y,2023-11-07
+P00156,GRO-APE-00156,Apex Almonds 500g,Grocery,Apex,637.81,459.35,18,Pacific Imports,N,2021-08-01
+P00157,GRO-HOM-00157,HomeEase Breakfast Cereal,Grocery,HomeEase,346.09,203.91,18,Global Distributors,N,2020-02-04
+P00158,SPO-NOV-00158,Nova Football,Sports,Nova,856.77,642.15,12,Northstar Traders,Y,2023-07-16
+P00159,ELE-FRE-00159,FreshNest USB-C Hub,Electronics,FreshNest,1994.44,1307.03,5,Global Distributors,Y,2025-12-08
+P00160,SPO-APE-00160,Apex Cricket Bat,Sports,Apex,2470.79,1558.92,12,Pacific Imports,Y,2020-09-10
+P00161,BEA-HOM-00161,HomeEase Face Wash,Beauty,HomeEase,367.66,221.29,28,Metro Wholesale,Y,2024-04-14
+P00162,BEA-GRE-00162,GreenLeaf Moisturizer,Beauty,GreenLeaf,472.13,276.26,18,Northstar Traders,Y,2022-04-26
+P00163,SPO-URB-00163,UrbanCart Cricket Bat,Sports,UrbanCart,2433.02,1732.75,12,Northstar Traders,Y,2021-10-09
+P00164,SPO-URB-00164,UrbanCart Yoga Mat,Sports,UrbanCart,780.65,587.3,18,Northstar Traders,N,2023-05-27
+P00165,SPO-URB-00165,UrbanCart Football,Sports,UrbanCart,1160.48,666.76,18,Pacific Imports,Y,2022-08-09
+P00166,ELE-URB-00166,UrbanCart Smart Watch,Electronics,UrbanCart,5253.6,3620.17,18,Metro Wholesale,N,2025-07-05
+P00167,HOM-GRE-00167,GreenLeaf Air Fryer,Home & Kitchen,GreenLeaf,8089.55,4477.19,28,Metro Wholesale,Y,2022-04-17
+P00168,GRO-SWI-00168,SwiftRun Breakfast Cereal,Grocery,SwiftRun,448.93,336.41,28,Northstar Traders,Y,2024-04-07
+P00169,SPO-PRI-00169,PrimeWorks Dumbbell Set,Sports,PrimeWorks,3192.33,2226.72,5,Pacific Imports,Y,2025-01-23
+P00170,HOM-HOM-00170,HomeEase Dinner Set,Home & Kitchen,HomeEase,2519.6,1811.82,5,Metro Wholesale,Y,2024-12-05
+P00171,BEA-SWI-00171,SwiftRun Sunscreen SPF50,Beauty,SwiftRun,549.04,339.15,12,Northstar Traders,N,2021-01-05
+P00172,BEA-HOM-00172,HomeEase Perfume 100ml,Beauty,HomeEase,1174.46,757.67,12,Northstar Traders,Y,2025-02-05
+P00173,SPO-NOV-00173,Nova Cricket Bat,Sports,Nova,2215.3,1578.25,5,Pacific Imports,N,2025-09-26
+P00174,BOO-APE-00174,Apex Cloud Architecture Basics,Books,Apex,1271.88,966.4,12,Metro Wholesale,Y,2022-01-02
+P00175,FAS-SWI-00175,SwiftRun Running Shoes,Fashion,SwiftRun,2895.57,1712.9,12,Global Distributors,Y,2020-02-20
+P00176,BOO-PRI-00176,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1562.8,945.04,28,Northstar Traders,N,2024-12-14
+P00177,HOM-TEC-00177,TechPro Dinner Set,Home & Kitchen,TechPro,2743.67,1860.86,5,Metro Wholesale,Y,2020-08-13
+P00178,BEA-PRI-00178,PrimeWorks Face Wash,Beauty,PrimeWorks,354.38,219.23,5,Global Distributors,N,2021-12-31
+P00179,SPO-PRI-00179,PrimeWorks Dumbbell Set,Sports,PrimeWorks,3493.6,2064.04,18,Global Distributors,Y,2023-05-10
+P00180,BEA-GRE-00180,GreenLeaf Face Wash,Beauty,GreenLeaf,355.01,200.56,5,Bharat Supply Co,Y,2025-11-28
+P00181,HOM-APE-00181,Apex Dinner Set,Home & Kitchen,Apex,2233.41,1603.23,5,Northstar Traders,Y,2024-10-15
+P00182,BOO-PRI-00182,PrimeWorks Business Strategy Casebook,Books,PrimeWorks,792.24,459.37,28,Northstar Traders,Y,2022-08-11
+P00183,ELE-APE-00183,Apex Bluetooth Headphones,Electronics,Apex,2588.85,1898.27,12,Pacific Imports,N,2024-08-22
+P00184,BEA-APE-00184,Apex Moisturizer,Beauty,Apex,552.02,391.22,5,Bharat Supply Co,Y,2025-09-06
+P00185,ELE-BLU-00185,BluePeak Webcam HD,Electronics,BluePeak,2217.51,1509.8,12,Metro Wholesale,Y,2023-10-16
+P00186,GRO-URB-00186,UrbanCart Basmati Rice 5kg,Grocery,UrbanCart,833.04,578.34,18,Northstar Traders,N,2020-08-17
+P00187,SPO-HOM-00187,HomeEase Football,Sports,HomeEase,1063.29,635.74,18,Global Distributors,Y,2023-02-22
+P00188,GRO-HOM-00188,HomeEase Organic Honey,Grocery,HomeEase,592.29,403.54,5,Bharat Supply Co,Y,2020-05-09
+P00189,HOM-SWI-00189,SwiftRun Water Bottle Steel,Home & Kitchen,SwiftRun,707.89,438.61,12,Global Distributors,Y,2020-06-02
+P00190,GRO-APE-00190,Apex Breakfast Cereal,Grocery,Apex,466.67,353.8,18,Northstar Traders,Y,2023-09-02
+P00191,BEA-URB-00191,UrbanCart Perfume 100ml,Beauty,UrbanCart,1210.77,676.1,5,Global Distributors,Y,2020-06-29
+P00192,ELE-SWI-00192,SwiftRun Webcam HD,Electronics,SwiftRun,2651.28,1521.08,18,Global Distributors,Y,2022-05-09
+P00193,FAS-BLU-00193,BluePeak Backpack 30L,Fashion,BluePeak,1853.42,1305.47,12,Bharat Supply Co,Y,2020-03-03
+P00194,ELE-HOM-00194,HomeEase Laptop Stand,Electronics,HomeEase,1286.18,801.61,18,Pacific Imports,Y,2021-12-02
+P00195,FAS-SWI-00195,SwiftRun Backpack 30L,Fashion,SwiftRun,1391.59,774.65,5,Global Distributors,N,2020-08-08
+P00196,SPO-PRI-00196,PrimeWorks Dumbbell Set,Sports,PrimeWorks,3304.26,2341.82,18,Bharat Supply Co,Y,2022-03-22
+P00197,BOO-SWI-00197,SwiftRun Data Engineering Handbook,Books,SwiftRun,1399.17,799.44,28,Global Distributors,N,2023-06-25
+P00198,GRO-FRE-00198,FreshNest Almonds 500g,Grocery,FreshNest,797.61,465.05,18,Bharat Supply Co,N,2022-01-21
+P00199,BEA-SWI-00199,SwiftRun Sunscreen SPF50,Beauty,SwiftRun,625.96,353.69,28,Northstar Traders,Y,2023-03-02
+P00200,HOM-NOV-00200,Nova Dinner Set,Home & Kitchen,Nova,2529.67,1806.9,5,Bharat Supply Co,N,2024-06-29
+P00201,HOM-URB-00201,UrbanCart Dinner Set,Home & Kitchen,UrbanCart,3097.65,1977.16,28,Northstar Traders,Y,2022-08-25
+P00202,SPO-SWI-00202,SwiftRun Dumbbell Set,Sports,SwiftRun,2686.29,1845.74,5,Northstar Traders,Y,2023-06-15
+P00203,ELE-BLU-00203,BluePeak Power Bank 20000mAh,Electronics,BluePeak,2094.39,1469.92,12,Pacific Imports,Y,2021-08-23
+P00204,FAS-PRI-00204,PrimeWorks Leather Wallet,Fashion,PrimeWorks,971.97,578.33,18,Bharat Supply Co,Y,2024-11-15
+P00205,ELE-PRI-00205,PrimeWorks Wireless Mouse,,PrimeWorks,994.41,639.37,18,Global Distributors,Y,2020-08-05
+P00206,FAS-TEC-00206,TechPro Men Cotton Shirt,Fashion,TechPro,1195.08,721.95,28,Bharat Supply Co,N,2024-07-21
+P00207,SPO-SWI-00207,SwiftRun Cricket Bat,Sports,SwiftRun,2263.16,1533.85,18,Northstar Traders,Y,2023-03-27
+P00208,HOM-NOV-00208,Nova Air Fryer,Home & Kitchen,Nova,7764.38,4527.56,28,Metro Wholesale,Y,2021-07-16
+P00209,GRO-PRI-00209,PrimeWorks Organic Honey,Grocery,PrimeWorks,609.84,422.83,28,Pacific Imports,N,2024-04-24
+P00210,BOO-PRI-00210,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1362.99,978.78,18,Northstar Traders,Y,2020-05-17
+P00211,SPO-NOV-00211,Nova Football,Sports,Nova,1081.03,833.69,18,Northstar Traders,Y,2025-11-13
+P00212,GRO-NOV-00212,Nova Organic Honey,Grocery,Nova,560.69,377.91,5,Bharat Supply Co,Y,2025-04-04
+P00213,BOO-GRE-00213,GreenLeaf SQL Interview Guide,Books,GreenLeaf,692.82,536.86,12,Global Distributors,Y,2022-12-02
+P00214,HOM-APE-00214,Apex Dinner Set,Home & Kitchen,Apex,2780.21,1715.68,5,Bharat Supply Co,N,2020-12-03
+P00215,BEA-TEC-00215,TechPro Sunscreen SPF50,Beauty,TechPro,540.91,332.46,5,Global Distributors,Y,2021-09-11
+P00216,HOM-FRE-00216,FreshNest Water Bottle Steel,Home & Kitchen,FreshNest,625.34,458.91,18,Global Distributors,Y,2021-09-23
+P00217,GRO-FRE-00217,FreshNest Almonds 500g,Grocery,FreshNest,723.16,518.49,18,Global Distributors,Y,2021-04-20
+P00218,GRO-SWI-00218,SwiftRun Green Tea Pack,Grocery,SwiftRun,400.81,289.81,28,Northstar Traders,N,2022-12-11
+P00219,ELE-SWI-00219,SwiftRun Mechanical Keyboard,Electronics,SwiftRun,3508.8,2184.61,5,Global Distributors,Y,2024-11-03
+P00220,FAS-TEC-00220,TechPro Running Shoes,Fashion,TechPro,2869.55,1643.11,28,Northstar Traders,Y,2022-03-09
+P00221,HOM-HOM-00221,HomeEase Water Bottle Steel,Home & Kitchen,HomeEase,511.68,282.42,28,Global Distributors,Y,2024-12-31
+P00222,FAS-APE-00222,Apex Women Kurti,Fashion,Apex,1030.52,588.58,12,Pacific Imports,Y,2021-05-06
+P00223,GRO-PRI-00223,PrimeWorks Organic Honey,Grocery,PrimeWorks,584.47,346.3,12,Bharat Supply Co,Y,2025-03-27
+P00224,GRO-GRE-00224,GreenLeaf Green Tea Pack,Grocery,GreenLeaf,393.28,276.69,18,Metro Wholesale,Y,2023-02-09
+P00225,FAS-TEC-00225,TechPro Men Cotton Shirt,Fashion,TechPro,1231.01,751.99,28,Metro Wholesale,N,2021-12-31
+P00226,BOO-FRE-00226,FreshNest Cloud Architecture Basics,Books,FreshNest,1204.05,691.65,18,Global Distributors,Y,2020-10-25
+P00227,BEA-APE-00227,Apex Hair Serum,Beauty,Apex,482.23,281.74,5,Northstar Traders,Y,2021-09-12
+P00228,BOO-HOM-00228,HomeEase Data Engineering Handbook,Books,HomeEase,1471.82,1070.5,28,Global Distributors,Y,2020-01-14
+P00229,BEA-NOV-00229,Nova Hair Serum,Beauty,Nova,429.68,328.73,18,Northstar Traders,Y,2021-01-06
+P00230,FAS-SWI-00230,SwiftRun Men Cotton Shirt,Fashion,SwiftRun,1153.03,711.06,5,Northstar Traders,Y,2023-05-09
+P00231,SPO-SWI-00231,SwiftRun Football,Sports,SwiftRun,883.06,614.21,12,Global Distributors,Y,2020-04-13
+P00232,GRO-NOV-00232,Nova Almonds 500g,Grocery,Nova,757.45,528.69,28,Global Distributors,Y,2023-10-21
+P00233,ELE-NOV-00233,Nova Power Bank 20000mAh,Electronics,Nova,1868.41,1308.61,12,Pacific Imports,Y,2020-10-22
+P00234,SPO-SWI-00234,SwiftRun Yoga Mat,Sports,SwiftRun,969.08,670.82,12,Global Distributors,Y,2020-07-23
+P00235,ELE-PRI-00235,PrimeWorks Smart Watch,Electronics,PrimeWorks,4590.46,3148.78,5,Global Distributors,N,2022-06-22
+P00236,FAS-GRE-00236,GreenLeaf Sports T-shirt,Fashion,GreenLeaf,684.81,530.35,12,Bharat Supply Co,Y,2020-07-05
+P00237,ELE-URB-00237,UrbanCart Mechanical Keyboard,Electronics,UrbanCart,4034.42,2374.87,12,Northstar Traders,Y,2020-06-15
+P00238,SPO-GRE-00238,GreenLeaf Dumbbell Set,Sports,GreenLeaf,3482.03,1927.63,5,Global Distributors,Y,2020-12-31
+P00239,FAS-SWI-00239,SwiftRun Leather Wallet,Fashion,SwiftRun,1013.12,605.25,28,Northstar Traders,Y,2021-12-15
+P00240,HOM-SWI-00240,SwiftRun LED Desk Lamp,Home & Kitchen,SwiftRun,1093.73,623.69,18,Bharat Supply Co,N,2020-01-19
+P00241,BOO-PRI-00241,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1292.19,936.91,12,Northstar Traders,Y,2023-02-06
+P00242,HOM-SWI-00242,SwiftRun LED Desk Lamp,Home & Kitchen,SwiftRun,1047.96,614.88,5,Bharat Supply Co,Y,2022-05-08
+P00243,BEA-APE-00243,Apex Hair Serum,Beauty,Apex,355.82,199.99,12,Global Distributors,N,2025-10-10
+P00244,SPO-PRI-00244,PrimeWorks Badminton Racket,Sports,PrimeWorks,1621.78,1048.29,18,Metro Wholesale,Y,2023-08-28
+P00245,GRO-GRE-00245,GreenLeaf Olive Oil 1L,Grocery,GreenLeaf,1205.34,683.32,5,Northstar Traders,Y,2022-06-04
+P00246,GRO-URB-00246,UrbanCart Green Tea Pack,Grocery,UrbanCart,360.55,214.4,18,Metro Wholesale,Y,2021-06-05
+P00247,FAS-NOV-00247,Nova Women Kurti,Fashion,Nova,1427.6,935.75,18,Metro Wholesale,Y,2021-10-04
+P00248,BOO-PRI-00248,PrimeWorks Python for Analytics,Books,PrimeWorks,1113.01,831.03,28,Metro Wholesale,N,2025-03-10
+P00249,SPO-FRE-00249,FreshNest Cricket Bat,Sports,FreshNest,2451.32,1674.93,12,Pacific Imports,Y,2024-09-07
+P00250,GRO-HOM-00250,HomeEase Organic Honey,Grocery,HomeEase,430.86,289.61,5,Northstar Traders,N,2022-09-12
+P00251,SPO-FRE-00251,FreshNest Badminton Racket,Sports,FreshNest,1353.72,836.64,5,Global Distributors,N,2023-06-02
+P00252,BOO-APE-00252,Apex Business Strategy Casebook,Books,Apex,-991.21,650.89,28,Metro Wholesale,Y,2025-03-16
+P00253,SPO-GRE-00253,GreenLeaf Yoga Mat,Sports,GreenLeaf,964.69,604.44,28,Bharat Supply Co,Y,2020-11-27
+P00254,ELE-APE-00254,Apex Webcam HD,Electronics,Apex,1966.76,1247.09,18,Bharat Supply Co,Y,2020-10-01
+P00255,HOM-FRE-00255,FreshNest Water Bottle Steel,Home & Kitchen,FreshNest,638.45,446.45,12,Metro Wholesale,Y,2023-12-15
+P00256,GRO-APE-00256,Apex Green Tea Pack,Grocery,Apex,305.5,192.28,5,Northstar Traders,Y,2025-01-25
+P00257,SPO-FRE-00257,FreshNest Yoga Mat,Sports,FreshNest,964.2,631.85,12,Bharat Supply Co,Y,2021-03-23
+P00258,HOM-URB-00258,UrbanCart Non-stick Pan,Home & Kitchen,UrbanCart,1558.8,1044.02,18,Northstar Traders,Y,2025-04-25
+P00259,SPO-TEC-00259,TechPro Yoga Mat,Sports,TechPro,739.57,410.51,18,Northstar Traders,Y,2023-08-29
+P00260,BOO-SWI-00260,SwiftRun Business Strategy Casebook,Books,SwiftRun,825.53,561.75,18,Metro Wholesale,Y,2022-07-17
+P00261,BEA-URB-00261,UrbanCart Face Wash,Beauty,UrbanCart,296.38,194.09,12,Pacific Imports,Y,2022-01-16
+P00262,SPO-URB-00262,UrbanCart Cricket Bat,Sports,UrbanCart,2361.96,1321.43,12,Northstar Traders,Y,2024-02-23
+P00263,ELE-BLU-00263,BluePeak Webcam HD,Electronics,BluePeak,1999.28,1305.81,18,Global Distributors,Y,2024-07-15
+P00264,GRO-URB-00264,UrbanCart Green Tea Pack,Grocery,UrbanCart,297.25,213.98,18,Bharat Supply Co,N,2023-04-02
+P00265,BOO-PRI-00265,PrimeWorks Python for Analytics,Books,PrimeWorks,1026.13,782.04,5,Northstar Traders,Y,2021-07-25
+P00266,ELE-PRI-00266,PrimeWorks Power Bank 20000mAh,Electronics,PrimeWorks,2371.52,1547.59,5,Pacific Imports,Y,2025-11-26
+P00267,FAS-APE-00267,Apex Women Kurti,Fashion,Apex,1059.24,789.53,5,Pacific Imports,N,2022-03-07
+P00268,BOO-BLU-00268,BluePeak Data Engineering Handbook,Books,BluePeak,1310.72,936.73,28,Bharat Supply Co,Y,2023-03-11
+P00269,GRO-NOV-00269,Nova Breakfast Cereal,Grocery,Nova,373.57,281.74,28,Northstar Traders,Y,2021-11-01
+P00270,GRO-GRE-00270,GreenLeaf Organic Honey,Grocery,GreenLeaf,452.01,309.65,12,Bharat Supply Co,N,2025-11-21
+P00271,BOO-NOV-00271,Nova Cloud Architecture Basics,Books,Nova,937.06,653.06,12,Pacific Imports,N,2021-07-14
+P00272,FAS-SWI-00272,SwiftRun Backpack 30L,Fashion,SwiftRun,-1386.16,1025.81,18,Northstar Traders,N,2022-07-08
+P00273,FAS-SWI-00273,SwiftRun Running Shoes,Fashion,SwiftRun,2698.11,1897.2,12,Northstar Traders,Y,2020-04-26
+P00274,ELE-PRI-00274,PrimeWorks Webcam HD,Electronics,PrimeWorks,2291.79,1490.34,28,Global Distributors,Y,2025-09-30
+P00275,FAS-PRI-00275,PrimeWorks Women Kurti,Fashion,PrimeWorks,1047.21,652.96,12,Bharat Supply Co,Y,2020-08-04
+P00276,FAS-TEC-00276,TechPro Men Cotton Shirt,Fashion,TechPro,965.7,673.05,12,Metro Wholesale,Y,2021-11-15
+P00277,BEA-TEC-00277,TechPro Sunscreen SPF50,Beauty,TechPro,673.38,476.97,18,Metro Wholesale,Y,2021-07-14
+P00278,GRO-BLU-00278,BluePeak Almonds 500g,Grocery,BluePeak,790.72,464.55,12,Metro Wholesale,Y,2024-09-05
+P00279,BEA-APE-00279,Apex Moisturizer,Beauty,Apex,519.86,323.18,28,Pacific Imports,Y,2021-12-06
+P00280,BEA-FRE-00280,FreshNest Face Wash,Beauty,FreshNest,269.54,191.29,18,Metro Wholesale,Y,2021-06-17
+P00281,BEA-NOV-00281,Nova Face Wash,Beauty,Nova,256.4,169.58,12,Global Distributors,Y,2025-10-04
+P00282,FAS-NOV-00282,Nova Men Cotton Shirt,Fashion,Nova,969.69,535.62,5,Pacific Imports,Y,2022-03-30
+P00283,ELE-TEC-00283,TechPro USB-C Hub,Electronics,TechPro,2334.85,1470.96,12,Pacific Imports,Y,2021-02-09
+P00284,BOO-FRE-00284,FreshNest Python for Analytics,Books,FreshNest,1110.9,654.88,5,Global Distributors,Y,2025-08-27
+P00285,SPO-URB-00285,UrbanCart Dumbbell Set,Sports,UrbanCart,3076.57,2369.83,18,Northstar Traders,N,2022-05-27
+P00286,BEA-NOV-00286,Nova Sunscreen SPF50,Beauty,Nova,620.78,415.64,18,Bharat Supply Co,Y,2020-12-02
+P00287,FAS-PRI-00287,PrimeWorks Leather Wallet,Fashion,PrimeWorks,1028.88,728.47,12,Pacific Imports,N,2023-04-05
+P00288,BEA-SWI-00288,SwiftRun Face Wash,Beauty,SwiftRun,,232.52,28,Global Distributors,N,2024-11-29
+P00289,ELE-GRE-00289,GreenLeaf USB-C Hub,Electronics,GreenLeaf,1918.46,1315.73,12,Global Distributors,Y,2022-03-26
+P00290,GRO-FRE-00290,FreshNest Basmati Rice 5kg,Grocery,FreshNest,947.01,678.81,18,Northstar Traders,Y,2025-05-02
+P00291,GRO-TEC-00291,TechPro Breakfast Cereal,Grocery,TechPro,362.67,237.39,28,Northstar Traders,Y,2021-07-05
+P00292,BEA-SWI-00292,SwiftRun Face Wash,Beauty,SwiftRun,335.25,259.34,18,Metro Wholesale,Y,2021-01-29
+P00293,BOO-SWI-00293,SwiftRun Cloud Architecture Basics,Books,SwiftRun,1022.92,718.38,18,Pacific Imports,Y,2020-03-13
+P00294,GRO-GRE-00294,GreenLeaf Basmati Rice 5kg,Grocery,GreenLeaf,823.01,614.1,5,Global Distributors,Y,2023-05-26
+P00295,GRO-TEC-00295,TechPro Olive Oil 1L,Grocery,TechPro,1135.15,751.6,28,Pacific Imports,N,2025-05-03
+P00296,ELE-TEC-00296,TechPro Power Bank 20000mAh,Electronics,TechPro,2094.71,1619.84,18,Bharat Supply Co,Y,2020-09-08
+P00297,BEA-BLU-00297,BluePeak Sunscreen SPF50,Beauty,BluePeak,703.12,481.15,18,Northstar Traders,Y,2024-10-19
+P00298,FAS-FRE-00298,FreshNest Men Cotton Shirt,Fashion,FreshNest,948.1,662.78,5,Bharat Supply Co,Y,2023-10-14
+P00299,ELE-GRE-00299,GreenLeaf Smart Watch,Electronics,GreenLeaf,5385.02,4078.21,28,Pacific Imports,Y,2023-07-20
+P00300,BOO-SWI-00300,SwiftRun Data Engineering Handbook,Books,SwiftRun,1156.14,815.4,18,Metro Wholesale,Y,2024-01-28
+P00301,SPO-HOM-00301,HomeEase Yoga Mat,Sports,HomeEase,747.57,456.75,28,Metro Wholesale,Y,2021-01-23
+P00302,BOO-SWI-00302,SwiftRun Business Strategy Casebook,Books,SwiftRun,815.65,513.76,18,Pacific Imports,Y,2024-11-08
+P00303,GRO-TEC-00303,TechPro Almonds 500g,Grocery,TechPro,713.89,467.06,12,Global Distributors,Y,2025-08-06
+P00304,SPO-TEC-00304,TechPro Badminton Racket,Sports,TechPro,1836.07,1234.8,28,Pacific Imports,Y,2025-11-09
+P00305,HOM-TEC-00305,TechPro Mixer Grinder,Home & Kitchen,TechPro,4155.58,2677.69,5,Metro Wholesale,N,2022-12-29
+P00306,FAS-PRI-00306,PrimeWorks Sports T-shirt,Fashion,PrimeWorks,660.17,399.3,5,Metro Wholesale,Y,2025-03-16
+P00307,GRO-APE-00307,Apex Organic Honey,Grocery,Apex,464.47,284.59,18,Pacific Imports,Y,2020-06-21
+P00308,ELE-NOV-00308,Nova Wireless Mouse,Electronics,Nova,779.47,482.13,28,Bharat Supply Co,Y,2024-06-13
+P00309,HOM-NOV-00309,Nova Mixer Grinder,Home & Kitchen,Nova,3773.28,2509.45,18,Northstar Traders,Y,2022-09-02
+P00310,FAS-PRI-00310,PrimeWorks Running Shoes,Fashion,PrimeWorks,3433.54,2524.83,28,Metro Wholesale,Y,2021-03-13
+P00311,GRO-TEC-00311,TechPro Almonds 500g,Grocery,TechPro,775.66,436.59,5,Bharat Supply Co,N,2025-04-29
+P00312,BEA-BLU-00312,BluePeak Moisturizer,Beauty,BluePeak,519.0,329.35,5,Global Distributors,Y,2022-11-02
+P00313,SPO-NOV-00313,Nova Football,Sports,Nova,1062.9,642.38,5,Northstar Traders,Y,2023-05-17
+P00314,HOM-FRE-00314,FreshNest Water Bottle Steel,Home & Kitchen,FreshNest,715.07,419.64,18,Northstar Traders,Y,2023-01-27
+P00315,GRO-GRE-00315,GreenLeaf Almonds 500g,Grocery,GreenLeaf,792.17,496.32,5,Metro Wholesale,Y,2025-09-04
+P00316,SPO-BLU-00316,BluePeak Dumbbell Set,Sports,BluePeak,3092.88,1720.54,12,Northstar Traders,Y,2020-01-13
+P00317,FAS-NOV-00317,Nova Backpack 30L,Fashion,Nova,1430.04,868.62,12,Pacific Imports,N,2023-08-01
+P00318,HOM-URB-00318,UrbanCart Water Bottle Steel,Home & Kitchen,UrbanCart,673.87,498.77,12,Global Distributors,N,2024-02-14
+P00319,BEA-FRE-00319,FreshNest Perfume 100ml,Beauty,FreshNest,1114.92,619.1,12,Global Distributors,N,2022-03-23
+P00320,ELE-PRI-00320,PrimeWorks Power Bank 20000mAh,Electronics,PrimeWorks,2042.1,1245.35,18,Metro Wholesale,Y,2020-02-27
+P00321,GRO-SWI-00321,SwiftRun Organic Honey,Grocery,SwiftRun,447.81,319.79,18,Bharat Supply Co,N,2024-04-13
+P00322,BOO-TEC-00322,TechPro Python for Analytics,Books,TechPro,1025.47,608.67,12,Global Distributors,Y,2022-12-08
+P00323,HOM-PRI-00323,PrimeWorks Water Bottle Steel,Home & Kitchen,PrimeWorks,,441.13,12,Bharat Supply Co,N,2022-05-19
+P00324,SPO-TEC-00324,TechPro Dumbbell Set,,TechPro,2636.79,1788.03,12,Northstar Traders,Y,2020-07-05
+P00325,GRO-GRE-00325,GreenLeaf Green Tea Pack,Grocery,GreenLeaf,390.36,226.57,5,Pacific Imports,Y,2022-12-02
+P00326,FAS-URB-00326,UrbanCart Leather Wallet,Fashion,UrbanCart,796.39,568.11,18,Global Distributors,Y,2020-06-29
+P00327,BEA-BLU-00327,BluePeak Sunscreen SPF50,Beauty,BluePeak,731.08,449.67,18,Pacific Imports,Y,2024-11-19
+P00328,GRO-HOM-00328,HomeEase Olive Oil 1L,Grocery,HomeEase,1190.02,834.45,5,Metro Wholesale,Y,2020-08-11
+P00329,FAS-SWI-00329,SwiftRun Women Kurti,Fashion,SwiftRun,1228.46,956.84,5,Northstar Traders,Y,2025-06-10
+P00330,SPO-NOV-00330,Nova Cricket Bat,Sports,Nova,2473.61,1476.4,12,Pacific Imports,Y,2022-05-19
+P00331,BOO-URB-00331,UrbanCart Business Strategy Casebook,Books,UrbanCart,812.24,461.09,5,Bharat Supply Co,Y,2023-03-10
+P00332,GRO-PRI-00332,PrimeWorks Green Tea Pack,Grocery,PrimeWorks,426.36,244.9,5,Global Distributors,N,2025-05-19
+P00333,BOO-BLU-00333,BluePeak Data Engineering Handbook,Books,BluePeak,1608.04,1127.11,18,Pacific Imports,Y,2022-05-15
+P00334,FAS-APE-00334,Apex Running Shoes,Fashion,Apex,3441.41,2325.86,5,Northstar Traders,Y,2021-12-30
+P00335,GRO-APE-00335,Apex Basmati Rice 5kg,Grocery,Apex,951.56,559.02,18,Metro Wholesale,Y,2023-05-07
+P00336,BEA-PRI-00336,PrimeWorks Sunscreen SPF50,Beauty,PrimeWorks,540.61,380.09,12,Northstar Traders,N,2024-05-08
+P00337,GRO-GRE-00337,GreenLeaf Basmati Rice 5kg,Grocery,GreenLeaf,938.34,648.57,28,Global Distributors,Y,2025-10-03
+P00338,HOM-URB-00338,UrbanCart LED Desk Lamp,Home & Kitchen,UrbanCart,1221.04,819.65,5,Bharat Supply Co,N,2024-11-26
+P00339,FAS-URB-00339,UrbanCart Women Kurti,Fashion,UrbanCart,1347.35,834.14,28,Bharat Supply Co,Y,2020-11-09
+P00340,BOO-GRE-00340,GreenLeaf Cloud Architecture Basics,Books,GreenLeaf,975.69,684.93,18,Bharat Supply Co,Y,2020-11-30
+P00341,SPO-URB-00341,UrbanCart Badminton Racket,Sports,UrbanCart,1745.54,1298.45,28,Bharat Supply Co,Y,2025-02-06
+P00342,BEA-BLU-00342,BluePeak Sunscreen SPF50,Beauty,BluePeak,740.78,555.89,12,Global Distributors,Y,2021-03-11
+P00343,GRO-APE-00343,Apex Basmati Rice 5kg,Grocery,Apex,734.04,484.27,28,Bharat Supply Co,Y,2024-06-05
+P00344,HOM-FRE-00344,FreshNest Air Fryer,Home & Kitchen,FreshNest,6262.46,3467.23,5,Metro Wholesale,N,2021-08-17
+P00345,SPO-FRE-00345,FreshNest Dumbbell Set,Sports,FreshNest,2652.43,1928.41,28,Global Distributors,Y,2021-11-11
+P00346,GRO-SWI-00346,SwiftRun Almonds 500g,Grocery,SwiftRun,556.75,363.77,18,Pacific Imports,N,2020-07-27
+P00347,BEA-GRE-00347,GreenLeaf Hair Serum,Beauty,GreenLeaf,474.59,341.48,18,Global Distributors,N,2024-06-25
+P00348,BOO-FRE-00348,FreshNest Cloud Architecture Basics,Books,FreshNest,1248.15,838.15,18,Pacific Imports,Y,2023-01-02
+P00349,GRO-SWI-00349,SwiftRun Basmati Rice 5kg,Grocery,SwiftRun,878.16,613.5,28,Global Distributors,Y,2023-03-25
+P00350,GRO-HOM-00350,HomeEase Olive Oil 1L,Grocery,HomeEase,936.94,711.22,28,Metro Wholesale,Y,2024-05-17
+P00351,SPO-SWI-00351,SwiftRun Football,Sports,SwiftRun,1168.73,869.82,18,Global Distributors,N,2021-06-12
+P00352,GRO-GRE-00352,GreenLeaf Basmati Rice 5kg,Grocery,GreenLeaf,980.55,650.65,5,Global Distributors,Y,2022-12-04
+P00353,BEA-APE-00353,Apex Perfume 100ml,Beauty,Apex,1523.37,956.19,12,Global Distributors,Y,2025-06-15
+P00354,FAS-HOM-00354,HomeEase Men Cotton Shirt,Fashion,HomeEase,956.04,559.06,5,Global Distributors,N,2025-02-15
+P00355,ELE-HOM-00355,HomeEase Bluetooth Headphones,Electronics,HomeEase,2166.1,1243.87,12,Bharat Supply Co,Y,2023-04-11
+P00356,GRO-NOV-00356,Nova Organic Honey,Grocery,Nova,-454.95,288.28,5,Metro Wholesale,N,2024-08-29
+P00357,BEA-BLU-00357,BluePeak Hair Serum,Beauty,BluePeak,384.92,226.87,28,Bharat Supply Co,Y,2021-09-12
+P00358,BEA-URB-00358,UrbanCart Moisturizer,Beauty,UrbanCart,584.18,376.85,28,Pacific Imports,Y,2020-05-01
+P00359,SPO-NOV-00359,Nova Dumbbell Set,Sports,Nova,2650.85,1649.9,12,Northstar Traders,Y,2024-05-29
+P00360,SPO-PRI-00360,PrimeWorks Cricket Bat,Sports,PrimeWorks,2181.94,1517.04,18,Northstar Traders,N,2023-05-31
+P00361,FAS-TEC-00361,TechPro Men Cotton Shirt,Fashion,TechPro,1208.87,834.59,28,Northstar Traders,Y,2024-12-16
+P00362,BEA-FRE-00362,FreshNest Hair Serum,Beauty,FreshNest,479.75,273.16,28,Metro Wholesale,Y,2022-05-25
+P00363,BOO-URB-00363,UrbanCart SQL Interview Guide,Books,UrbanCart,600.7,453.39,18,Metro Wholesale,Y,2024-09-27
+P00364,ELE-TEC-00364,TechPro Webcam HD,Electronics,TechPro,2420.65,1528.71,5,Northstar Traders,Y,2020-01-22
+P00365,BEA-PRI-00365,PrimeWorks Perfume 100ml,Beauty,PrimeWorks,1475.48,1129.68,12,Bharat Supply Co,Y,2023-03-11
+P00366,BOO-GRE-00366,GreenLeaf Python for Analytics,Books,GreenLeaf,951.02,577.23,12,Bharat Supply Co,N,2021-02-05
+P00367,GRO-NOV-00367,Nova Basmati Rice 5kg,Grocery,Nova,699.03,527.32,28,Global Distributors,Y,2025-11-25
+P00368,BEA-TEC-00368,TechPro Hair Serum,Beauty,TechPro,432.4,301.12,28,Northstar Traders,Y,2021-08-14
+P00369,GRO-HOM-00369,HomeEase Olive Oil 1L,Grocery,HomeEase,1194.11,689.18,28,Global Distributors,Y,2024-02-21
+P00370,BEA-NOV-00370,Nova Hair Serum,Beauty,Nova,358.44,244.28,12,Global Distributors,Y,2023-06-02
+P00371,GRO-URB-00371,UrbanCart Basmati Rice 5kg,Grocery,UrbanCart,724.58,496.78,18,Bharat Supply Co,Y,2022-01-19
+P00372,ELE-NOV-00372,Nova Webcam HD,Electronics,Nova,2634.78,1702.18,28,Bharat Supply Co,N,2025-04-30
+P00373,HOM-URB-00373,UrbanCart Bedsheet Cotton,Home & Kitchen,UrbanCart,1576.81,1034.41,28,Metro Wholesale,Y,2020-12-31
+P00374,GRO-FRE-00374,FreshNest Almonds 500g,Grocery,FreshNest,785.35,493.18,28,Bharat Supply Co,Y,2021-11-09
+P00375,BEA-HOM-00375,HomeEase Sunscreen SPF50,Beauty,HomeEase,663.73,463.35,5,Pacific Imports,Y,2025-05-03
+P00376,SPO-URB-00376,UrbanCart Dumbbell Set,Sports,UrbanCart,3703.62,2271.21,28,Global Distributors,Y,2024-07-03
+P00377,ELE-GRE-00377,GreenLeaf Webcam HD,Electronics,GreenLeaf,2027.92,1126.58,28,Bharat Supply Co,Y,2021-04-14
+P00378,FAS-URB-00378,UrbanCart Women Kurti,Fashion,UrbanCart,1141.71,651.48,28,Metro Wholesale,Y,2023-08-25
+P00379,FAS-NOV-00379,Nova Leather Wallet,Fashion,Nova,879.24,567.07,28,Global Distributors,Y,2022-04-09
+P00380,HOM-HOM-00380,HomeEase Non-stick Pan,Home & Kitchen,HomeEase,1495.09,954.71,5,Bharat Supply Co,N,2024-07-25
+P00381,SPO-APE-00381,Apex Cricket Bat,Sports,Apex,2393.2,1846.59,12,Pacific Imports,Y,2023-06-01
+P00382,BEA-FRE-00382,FreshNest Perfume 100ml,Beauty,FreshNest,1510.94,880.49,12,Metro Wholesale,N,2025-01-24
+P00383,BEA-TEC-00383,TechPro Perfume 100ml,Beauty,TechPro,1443.48,849.48,28,Bharat Supply Co,Y,2024-04-06
+P00384,HOM-HOM-00384,HomeEase Dinner Set,Home & Kitchen,HomeEase,2405.35,1412.24,5,Bharat Supply Co,Y,2024-06-07
+P00385,SPO-TEC-00385,TechPro Dumbbell Set,Sports,TechPro,3602.73,2156.22,18,Bharat Supply Co,Y,2025-01-28
+P00386,FAS-FRE-00386,FreshNest Running Shoes,Fashion,FreshNest,,2132.96,12,Global Distributors,N,2020-01-18
+P00387,GRO-SWI-00387,SwiftRun Breakfast Cereal,Grocery,SwiftRun,460.84,310.5,5,Pacific Imports,Y,2024-12-28
+P00388,BEA-PRI-00388,PrimeWorks Hair Serum,Beauty,PrimeWorks,396.28,234.1,5,Global Distributors,N,2024-02-26
+P00389,HOM-APE-00389,Apex LED Desk Lamp,Home & Kitchen,Apex,1152.22,814.08,12,Global Distributors,Y,2022-06-24
+P00390,FAS-TEC-00390,TechPro Men Cotton Shirt,Fashion,TechPro,1046.09,744.74,5,Metro Wholesale,N,2021-03-30
+P00391,GRO-HOM-00391,HomeEase Olive Oil 1L,Grocery,HomeEase,926.58,667.07,12,Global Distributors,Y,2020-09-23
+P00392,BEA-HOM-00392,HomeEase Moisturizer,,HomeEase,569.64,349.24,5,Pacific Imports,Y,2025-02-02
+P00393,SPO-BLU-00393,BluePeak Yoga Mat,Sports,BluePeak,817.39,636.64,28,Northstar Traders,Y,2025-10-19
+P00394,HOM-TEC-00394,TechPro Air Fryer,Home & Kitchen,TechPro,8520.28,5729.5,28,Metro Wholesale,Y,2020-12-01
+P00395,SPO-GRE-00395,GreenLeaf Cricket Bat,Sports,GreenLeaf,3081.54,2344.77,18,Bharat Supply Co,Y,2021-01-31
+P00396,ELE-TEC-00396,TechPro Webcam HD,Electronics,TechPro,2086.55,1374.87,5,Bharat Supply Co,Y,2020-10-25
+P00397,BEA-SWI-00397,SwiftRun Face Wash,Beauty,SwiftRun,323.39,184.23,5,Northstar Traders,Y,2020-09-23
+P00398,BEA-APE-00398,Apex Hair Serum,Beauty,Apex,387.26,268.77,5,Pacific Imports,Y,2023-04-22
+P00399,BOO-FRE-00399,FreshNest Cloud Architecture Basics,Books,FreshNest,1314.22,960.85,28,Northstar Traders,N,2024-10-19
+P00400,FAS-APE-00400,Apex Sports T-shirt,Fashion,Apex,721.11,451.04,5,Global Distributors,Y,2022-03-04
+P00401,BOO-BLU-00401,BluePeak SQL Interview Guide,Books,BluePeak,711.86,510.16,12,Metro Wholesale,Y,2020-09-04
+P00402,BOO-TEC-00402,TechPro SQL Interview Guide,Books,TechPro,-757.34,510.8,28,Bharat Supply Co,Y,2023-04-07
+P00403,BOO-APE-00403,Apex Python for Analytics,Books,Apex,849.51,627.29,5,Northstar Traders,Y,2022-03-11
+P00404,HOM-NOV-00404,Nova Bedsheet Cotton,Home & Kitchen,Nova,1478.94,1040.59,28,Pacific Imports,Y,2023-10-06
+P00405,HOM-SWI-00405,SwiftRun Air Fryer,Home & Kitchen,SwiftRun,8401.89,6380.6,5,Metro Wholesale,Y,2025-03-25
+P00406,SPO-GRE-00406,GreenLeaf Football,Sports,GreenLeaf,931.19,551.61,18,Global Distributors,Y,2024-01-05
+P00407,FAS-FRE-00407,FreshNest Leather Wallet,Fashion,FreshNest,991.18,753.22,5,Metro Wholesale,Y,2023-03-09
+P00408,SPO-BLU-00408,BluePeak Cricket Bat,Sports,BluePeak,2971.35,1802.34,12,Bharat Supply Co,Y,2020-03-26
+P00409,SPO-BLU-00409,BluePeak Yoga Mat,Sports,BluePeak,978.33,606.73,18,Metro Wholesale,N,2020-09-24
+P00410,HOM-FRE-00410,FreshNest Bedsheet Cotton,Home & Kitchen,FreshNest,1389.08,884.82,28,Metro Wholesale,Y,2022-02-13
+P00411,HOM-FRE-00411,FreshNest Water Bottle Steel,Home & Kitchen,FreshNest,521.91,382.56,28,Metro Wholesale,Y,2025-04-11
+P00412,HOM-GRE-00412,GreenLeaf Dinner Set,Home & Kitchen,GreenLeaf,2875.16,2007.92,28,Pacific Imports,N,2022-01-03
+P00413,SPO-SWI-00413,SwiftRun Badminton Racket,Sports,SwiftRun,1558.22,1065.31,5,Metro Wholesale,Y,2022-04-11
+P00414,HOM-GRE-00414,GreenLeaf Water Bottle Steel,Home & Kitchen,GreenLeaf,722.08,492.04,18,Bharat Supply Co,Y,2021-07-04
+P00415,BOO-FRE-00415,FreshNest SQL Interview Guide,Books,FreshNest,757.43,497.64,28,Northstar Traders,N,2024-11-06
+P00416,FAS-GRE-00416,GreenLeaf Running Shoes,Fashion,GreenLeaf,2578.8,1680.32,5,Bharat Supply Co,Y,2023-04-21
+P00417,SPO-TEC-00417,TechPro Yoga Mat,Sports,TechPro,975.29,558.48,5,Pacific Imports,Y,2023-09-29
+P00418,FAS-TEC-00418,TechPro Sports T-shirt,Fashion,TechPro,647.45,446.05,18,Global Distributors,Y,2023-02-28
+P00419,GRO-PRI-00419,PrimeWorks Almonds 500g,Grocery,PrimeWorks,748.38,413.66,12,Northstar Traders,Y,2022-07-18
+P00420,HOM-PRI-00420,PrimeWorks Dinner Set,Home & Kitchen,PrimeWorks,2909.81,2107.44,28,Bharat Supply Co,Y,2023-07-06
+P00421,SPO-FRE-00421,FreshNest Badminton Racket,Sports,FreshNest,-1537.18,1147.01,12,Pacific Imports,Y,2023-06-05
+P00422,BEA-BLU-00422,BluePeak Sunscreen SPF50,Beauty,BluePeak,563.18,364.89,18,Bharat Supply Co,Y,2020-05-11
+P00423,FAS-PRI-00423,PrimeWorks Backpack 30L,Fashion,PrimeWorks,1943.59,1325.51,28,Metro Wholesale,N,2020-09-17
+P00424,ELE-PRI-00424,PrimeWorks Webcam HD,Electronics,PrimeWorks,2715.27,1892.46,12,Global Distributors,Y,2020-05-11
+P00425,ELE-FRE-00425,FreshNest USB-C Hub,Electronics,FreshNest,1666.94,1286.03,12,Bharat Supply Co,Y,2025-02-05
+P00426,HOM-GRE-00426,GreenLeaf Water Bottle Steel,Home & Kitchen,GreenLeaf,602.86,468.79,28,Northstar Traders,Y,2024-05-12
+P00427,HOM-FRE-00427,FreshNest Bedsheet Cotton,Home & Kitchen,FreshNest,1459.88,1077.56,12,Pacific Imports,Y,2022-04-11
+P00428,FAS-APE-00428,Apex Women Kurti,Fashion,Apex,1494.47,975.17,12,Pacific Imports,Y,2025-07-03
+P00429,SPO-TEC-00429,TechPro Yoga Mat,Sports,TechPro,885.71,674.33,18,Northstar Traders,Y,2024-08-27
+P00430,SPO-SWI-00430,SwiftRun Badminton Racket,Sports,SwiftRun,1504.8,1055.75,5,Northstar Traders,Y,2022-09-08
+P00431,SPO-TEC-00431,TechPro Dumbbell Set,Sports,TechPro,3348.87,1893.29,12,Northstar Traders,N,2021-05-11
+P00432,ELE-GRE-00432,GreenLeaf Webcam HD,Electronics,GreenLeaf,2265.79,1377.91,28,Global Distributors,Y,2025-03-06
+P00433,BEA-GRE-00433,GreenLeaf Moisturizer,Beauty,GreenLeaf,431.69,262.31,12,Bharat Supply Co,N,2025-06-08
+P00434,SPO-SWI-00434,SwiftRun Cricket Bat,Sports,SwiftRun,2264.35,1672.67,12,Global Distributors,Y,2021-12-26
+P00435,GRO-NOV-00435,Nova Olive Oil 1L,Grocery,Nova,1117.44,617.47,28,Bharat Supply Co,Y,2022-06-06
+P00436,BOO-SWI-00436,SwiftRun Python for Analytics,Books,SwiftRun,-1014.7,753.31,5,Northstar Traders,Y,2024-12-23
+P00437,BEA-FRE-00437,FreshNest Hair Serum,Beauty,FreshNest,487.39,310.06,5,Global Distributors,N,2020-04-24
+P00438,HOM-NOV-00438,Nova LED Desk Lamp,Home & Kitchen,Nova,937.29,705.71,12,Metro Wholesale,Y,2024-08-29
+P00439,FAS-FRE-00439,FreshNest Backpack 30L,Fashion,FreshNest,1758.69,1345.21,28,Global Distributors,Y,2022-05-25
+P00440,ELE-BLU-00440,BluePeak Power Bank 20000mAh,Electronics,BluePeak,1708.73,1023.42,18,Pacific Imports,Y,2020-06-28
+P00441,FAS-SWI-00441,SwiftRun Backpack 30L,Fashion,SwiftRun,1987.94,1139.92,12,Bharat Supply Co,Y,2023-08-21
+P00442,SPO-BLU-00442,BluePeak Cricket Bat,Sports,BluePeak,2299.41,1667.52,28,Global Distributors,Y,2020-03-13
+P00443,GRO-FRE-00443,FreshNest Breakfast Cereal,Grocery,FreshNest,,298.71,5,Pacific Imports,Y,2023-06-19
+P00444,HOM-NOV-00444,Nova Dinner Set,Home & Kitchen,Nova,2184.05,1389.36,12,Northstar Traders,Y,2020-06-04
+P00445,GRO-BLU-00445,BluePeak Organic Honey,Grocery,BluePeak,450.95,280.96,5,Pacific Imports,N,2023-03-27
+P00446,SPO-BLU-00446,BluePeak Football,Sports,BluePeak,945.95,637.61,12,Metro Wholesale,N,2025-11-05
+P00447,ELE-SWI-00447,SwiftRun Bluetooth Headphones,Electronics,SwiftRun,2194.11,1303.89,12,Metro Wholesale,Y,2021-01-10
+P00448,BEA-FRE-00448,FreshNest Moisturizer,Beauty,FreshNest,525.43,340.5,12,Metro Wholesale,Y,2024-10-02
+P00449,FAS-SWI-00449,SwiftRun Backpack 30L,Fashion,SwiftRun,1978.11,1179.59,28,Global Distributors,Y,2024-06-19
+P00450,GRO-PRI-00450,PrimeWorks Breakfast Cereal,Grocery,PrimeWorks,456.44,330.86,28,Global Distributors,N,2024-10-16
+P00451,FAS-HOM-00451,HomeEase Backpack 30L,Fashion,HomeEase,1456.88,1044.77,28,Bharat Supply Co,N,2023-03-06
+P00452,ELE-URB-00452,UrbanCart Webcam HD,Electronics,UrbanCart,2497.94,1486.31,5,Global Distributors,Y,2025-07-05
+P00453,GRO-BLU-00453,BluePeak Organic Honey,Grocery,BluePeak,500.8,310.89,5,Northstar Traders,Y,2021-05-24
+P00454,HOM-GRE-00454,GreenLeaf Bedsheet Cotton,Home & Kitchen,GreenLeaf,1848.03,1344.24,18,Pacific Imports,N,2024-02-17
+P00455,GRO-FRE-00455,FreshNest Organic Honey,Grocery,FreshNest,472.52,263.64,5,Metro Wholesale,Y,2025-02-08
+P00456,HOM-PRI-00456,PrimeWorks Dinner Set,Home & Kitchen,PrimeWorks,,2286.82,5,Northstar Traders,N,2020-11-25
+P00457,GRO-GRE-00457,GreenLeaf Olive Oil 1L,Grocery,GreenLeaf,950.2,588.66,28,Pacific Imports,Y,2024-08-12
+P00458,BEA-NOV-00458,Nova Face Wash,Beauty,Nova,-330.24,240.63,12,Bharat Supply Co,Y,2024-06-18
+P00459,HOM-SWI-00459,SwiftRun Bedsheet Cotton,Home & Kitchen,SwiftRun,1275.1,721.79,28,Bharat Supply Co,N,2021-11-29
+P00460,HOM-SWI-00460,SwiftRun Mixer Grinder,Home & Kitchen,SwiftRun,3228.86,2480.25,12,Metro Wholesale,Y,2020-08-29
+P00461,HOM-GRE-00461,GreenLeaf Water Bottle Steel,Home & Kitchen,GreenLeaf,614.75,467.2,12,Global Distributors,Y,2020-12-17
+P00462,FAS-PRI-00462,PrimeWorks Men Cotton Shirt,Fashion,PrimeWorks,942.97,623.86,5,Global Distributors,Y,2020-01-30
+P00463,ELE-FRE-00463,FreshNest Bluetooth Headphones,Electronics,FreshNest,2646.28,1459.87,18,Northstar Traders,N,2023-10-12
+P00464,SPO-BLU-00464,BluePeak Football,Sports,BluePeak,1175.56,900.98,28,Pacific Imports,Y,2023-12-29
+P00465,ELE-GRE-00465,GreenLeaf Smart Watch,Electronics,GreenLeaf,5699.3,4298.6,5,Pacific Imports,Y,2022-10-15
+P00466,SPO-HOM-00466,HomeEase Badminton Racket,Sports,HomeEase,1521.86,902.81,18,Global Distributors,Y,2020-07-06
+P00467,SPO-FRE-00467,FreshNest Badminton Racket,Sports,FreshNest,1637.97,1051.64,5,Bharat Supply Co,N,2025-05-04
+P00468,ELE-TEC-00468,TechPro Power Bank 20000mAh,Electronics,TechPro,2184.65,1559.29,5,Metro Wholesale,N,2020-12-22
+P00469,BOO-URB-00469,UrbanCart Cloud Architecture Basics,Books,UrbanCart,1328.21,1022.27,12,Metro Wholesale,Y,2021-11-29
+P00470,ELE-GRE-00470,GreenLeaf Bluetooth Headphones,Electronics,GreenLeaf,3117.11,1735.36,18,Northstar Traders,Y,2022-06-21
+P00471,SPO-URB-00471,UrbanCart Yoga Mat,Sports,UrbanCart,974.06,677.67,18,Metro Wholesale,Y,2023-11-06
+P00472,SPO-HOM-00472,HomeEase Badminton Racket,Sports,HomeEase,1853.51,1205.71,18,Global Distributors,Y,2020-12-25
+P00473,BOO-NOV-00473,Nova Python for Analytics,Books,Nova,970.14,562.01,28,Pacific Imports,Y,2023-06-27
+P00474,BEA-GRE-00474,GreenLeaf Hair Serum,Beauty,GreenLeaf,390.17,247.35,12,Pacific Imports,Y,2021-03-12
+P00475,GRO-URB-00475,UrbanCart Green Tea Pack,Grocery,UrbanCart,410.58,253.85,28,Metro Wholesale,Y,2021-08-20
+P00476,BEA-PRI-00476,PrimeWorks Face Wash,Beauty,PrimeWorks,292.44,194.63,18,Pacific Imports,N,2022-06-02
+P00477,GRO-BLU-00477,BluePeak Basmati Rice 5kg,Grocery,BluePeak,727.95,520.38,12,Global Distributors,Y,2025-06-19
+P00478,BEA-APE-00478,Apex Moisturizer,Beauty,Apex,533.52,334.84,18,Northstar Traders,N,2020-10-21
+P00479,SPO-HOM-00479,HomeEase Cricket Bat,Sports,HomeEase,2517.76,1460.57,5,Bharat Supply Co,N,2021-11-01
+P00480,GRO-URB-00480,UrbanCart Green Tea Pack,Grocery,UrbanCart,325.93,239.56,5,Bharat Supply Co,Y,2021-08-27
+P00481,SPO-APE-00481,Apex Cricket Bat,Sports,Apex,2220.16,1718.53,5,Global Distributors,Y,2024-11-11
+P00482,GRO-APE-00482,Apex Olive Oil 1L,Grocery,Apex,896.62,574.94,12,Northstar Traders,Y,2025-03-14
+P00483,FAS-SWI-00483,SwiftRun Sports T-shirt,Fashion,SwiftRun,696.85,402.5,28,Pacific Imports,Y,2020-04-04
+P00484,GRO-NOV-00484,Nova Green Tea Pack,Grocery,Nova,407.54,241.12,28,Bharat Supply Co,Y,2021-02-11
+P00485,BEA-URB-00485,UrbanCart Perfume 100ml,Beauty,UrbanCart,1314.76,935.02,28,Global Distributors,Y,2022-04-29
+P00486,HOM-PRI-00486,PrimeWorks Bedsheet Cotton,Home & Kitchen,PrimeWorks,1691.0,932.12,18,Global Distributors,Y,2021-06-11
+P00487,ELE-APE-00487,Apex Mechanical Keyboard,Electronics,Apex,3092.57,1789.62,12,Northstar Traders,Y,2022-10-14
+P00488,BOO-HOM-00488,HomeEase SQL Interview Guide,Books,HomeEase,718.55,490.57,18,Pacific Imports,Y,2021-02-09
+P00489,ELE-URB-00489,UrbanCart Laptop Stand,Electronics,UrbanCart,1259.88,934.21,12,Pacific Imports,Y,2023-02-10
+P00490,ELE-TEC-00490,TechPro Mechanical Keyboard,Electronics,TechPro,3508.49,2658.88,5,Bharat Supply Co,N,2021-08-09
+P00491,SPO-FRE-00491,FreshNest Football,Sports,FreshNest,1134.64,771.14,12,Northstar Traders,Y,2023-07-19
+P00492,ELE-NOV-00492,Nova Laptop Stand,Electronics,Nova,1244.51,836.61,28,Global Distributors,Y,2020-12-30
+P00493,FAS-FRE-00493,FreshNest Women Kurti,Fashion,FreshNest,1150.39,658.63,12,Northstar Traders,Y,2021-05-20
+P00494,FAS-SWI-00494,SwiftRun Backpack 30L,Fashion,SwiftRun,1420.26,895.11,18,Pacific Imports,Y,2021-02-09
+P00495,BEA-URB-00495,UrbanCart Hair Serum,,UrbanCart,394.24,284.05,28,Northstar Traders,Y,2022-11-27
+P00496,HOM-URB-00496,UrbanCart LED Desk Lamp,Home & Kitchen,UrbanCart,906.16,616.68,18,Metro Wholesale,N,2025-02-18
+P00497,BEA-HOM-00497,HomeEase Hair Serum,Beauty,HomeEase,384.93,296.05,12,Bharat Supply Co,Y,2023-06-05
+P00498,ELE-NOV-00498,Nova Bluetooth Headphones,Electronics,Nova,2853.81,2189.78,5,Global Distributors,Y,2025-07-11
+P00499,GRO-HOM-00499,HomeEase Organic Honey,Grocery,HomeEase,610.27,354.8,5,Northstar Traders,Y,2022-02-17
+P00500,SPO-HOM-00500,HomeEase Badminton Racket,Sports,HomeEase,1723.65,1044.83,5,Pacific Imports,N,2021-11-21
+P00501,BOO-URB-00501,UrbanCart Python for Analytics,Books,UrbanCart,791.16,587.88,5,Northstar Traders,N,2024-04-01
+P00502,FAS-FRE-00502,FreshNest Sports T-shirt,Fashion,FreshNest,-826.7,616.45,18,Bharat Supply Co,N,2023-04-17
+P00503,SPO-GRE-00503,GreenLeaf Dumbbell Set,Sports,GreenLeaf,2810.02,1742.52,5,Northstar Traders,N,2020-08-23
+P00504,FAS-BLU-00504,BluePeak Running Shoes,Fashion,BluePeak,2677.7,1688.12,28,Bharat Supply Co,Y,2021-02-19
+P00505,BOO-URB-00505,UrbanCart Business Strategy Casebook,Books,UrbanCart,,615.93,18,Metro Wholesale,N,2024-06-07
+P00506,HOM-TEC-00506,TechPro Dinner Set,,TechPro,2232.8,1453.27,12,Metro Wholesale,Y,2024-11-12
+P00507,SPO-NOV-00507,Nova Cricket Bat,Sports,Nova,2313.64,1293.92,18,Global Distributors,Y,2022-03-26
+P00508,FAS-GRE-00508,GreenLeaf Men Cotton Shirt,Fashion,GreenLeaf,1044.58,693.58,12,Bharat Supply Co,N,2025-08-17
+P00509,BEA-URB-00509,UrbanCart Hair Serum,Beauty,UrbanCart,356.66,205.01,12,Bharat Supply Co,Y,2022-08-26
+P00510,GRO-APE-00510,Apex Breakfast Cereal,Grocery,Apex,408.47,251.85,28,Metro Wholesale,Y,2025-09-25
+P00511,ELE-FRE-00511,FreshNest Mechanical Keyboard,Electronics,FreshNest,3906.75,2534.33,5,Pacific Imports,Y,2022-02-11
+P00512,SPO-FRE-00512,FreshNest Cricket Bat,Sports,FreshNest,2244.56,1441.67,12,Metro Wholesale,N,2020-03-13
+P00513,ELE-GRE-00513,GreenLeaf Power Bank 20000mAh,Electronics,GreenLeaf,2118.92,1506.63,12,Bharat Supply Co,N,2025-05-16
+P00514,ELE-NOV-00514,Nova Mechanical Keyboard,Electronics,Nova,-3350.99,2059.28,28,Metro Wholesale,Y,2020-07-13
+P00515,SPO-FRE-00515,FreshNest Football,Sports,FreshNest,963.16,591.8,28,Metro Wholesale,Y,2025-07-05
+P00516,ELE-HOM-00516,HomeEase Wireless Mouse,Electronics,HomeEase,925.39,536.7,18,Pacific Imports,Y,2022-09-02
+P00517,GRO-NOV-00517,Nova Basmati Rice 5kg,Grocery,Nova,720.85,519.59,12,Metro Wholesale,N,2021-02-08
+P00518,FAS-SWI-00518,SwiftRun Running Shoes,Fashion,SwiftRun,3736.33,2228.57,5,Metro Wholesale,Y,2024-09-08
+P00519,BEA-BLU-00519,BluePeak Perfume 100ml,Beauty,BluePeak,1569.15,1024.89,28,Global Distributors,N,2024-09-12
+P00520,BEA-URB-00520,UrbanCart Face Wash,Beauty,UrbanCart,325.81,231.4,5,Pacific Imports,Y,2022-02-18
+P00521,SPO-HOM-00521,HomeEase Dumbbell Set,Sports,HomeEase,3714.61,2184.45,28,Pacific Imports,N,2024-06-29
+P00522,ELE-PRI-00522,PrimeWorks USB-C Hub,Electronics,PrimeWorks,1779.6,1263.95,28,Pacific Imports,Y,2023-05-27
+P00523,FAS-NOV-00523,Nova Backpack 30L,Fashion,Nova,1468.59,823.13,5,Metro Wholesale,Y,2021-06-28
+P00524,SPO-FRE-00524,FreshNest Cricket Bat,Sports,FreshNest,2658.53,1463.05,18,Bharat Supply Co,Y,2022-12-17
+P00525,BOO-BLU-00525,BluePeak SQL Interview Guide,Books,BluePeak,,603.5,18,Metro Wholesale,Y,2021-12-24
+P00526,SPO-NOV-00526,Nova Dumbbell Set,Sports,Nova,3415.98,2419.42,18,Pacific Imports,Y,2024-12-16
+P00527,BOO-URB-00527,UrbanCart Cloud Architecture Basics,Books,UrbanCart,1130.24,811.35,12,Northstar Traders,Y,2025-07-24
+P00528,BEA-FRE-00528,FreshNest Moisturizer,Beauty,FreshNest,537.85,412.52,18,Global Distributors,Y,2021-10-29
+P00529,SPO-FRE-00529,FreshNest Dumbbell Set,Sports,FreshNest,2632.47,1491.48,28,Global Distributors,Y,2020-02-18
+P00530,ELE-APE-00530,Apex Bluetooth Headphones,Electronics,Apex,2887.29,2016.0,12,Global Distributors,Y,2021-08-07
+P00531,BEA-NOV-00531,Nova Face Wash,Beauty,Nova,319.02,235.5,5,Metro Wholesale,Y,2025-05-21
+P00532,BEA-TEC-00532,TechPro Moisturizer,Beauty,TechPro,490.37,287.13,18,Pacific Imports,Y,2020-03-27
+P00533,FAS-HOM-00533,HomeEase Men Cotton Shirt,Fashion,HomeEase,,776.8,12,Global Distributors,Y,2024-10-15
+P00534,FAS-GRE-00534,GreenLeaf Women Kurti,Fashion,GreenLeaf,1348.52,963.4,28,Metro Wholesale,Y,2022-07-08
+P00535,FAS-PRI-00535,PrimeWorks Men Cotton Shirt,Fashion,PrimeWorks,982.51,621.84,5,Global Distributors,Y,2021-12-30
+P00536,HOM-GRE-00536,GreenLeaf LED Desk Lamp,Home & Kitchen,GreenLeaf,909.18,639.58,18,Bharat Supply Co,Y,2023-01-15
+P00537,FAS-NOV-00537,Nova Sports T-shirt,Fashion,Nova,814.71,609.56,12,Bharat Supply Co,Y,2024-05-18
+P00538,GRO-NOV-00538,Nova Basmati Rice 5kg,Grocery,Nova,863.83,665.76,5,Bharat Supply Co,Y,2022-01-14
+P00539,GRO-SWI-00539,SwiftRun Almonds 500g,Grocery,SwiftRun,731.66,472.07,18,Metro Wholesale,Y,2024-04-18
+P00540,BOO-HOM-00540,HomeEase Cloud Architecture Basics,Books,HomeEase,-1169.87,705.35,28,Pacific Imports,Y,2020-12-23
+P00541,BEA-BLU-00541,BluePeak Face Wash,Beauty,BluePeak,320.93,247.2,5,Bharat Supply Co,Y,2021-07-24
+P00542,BEA-GRE-00542,GreenLeaf Perfume 100ml,Beauty,GreenLeaf,1230.15,910.8,12,Global Distributors,Y,2024-03-26
+P00543,GRO-APE-00543,Apex Green Tea Pack,Grocery,Apex,394.57,277.16,12,Global Distributors,Y,2024-02-05
+P00544,ELE-URB-00544,UrbanCart Power Bank 20000mAh,Electronics,UrbanCart,2311.18,1520.86,18,Northstar Traders,N,2023-10-13
+P00545,ELE-NOV-00545,Nova Mechanical Keyboard,Electronics,Nova,3192.33,2402.76,12,Pacific Imports,Y,2020-02-14
+P00546,GRO-TEC-00546,TechPro Breakfast Cereal,Grocery,TechPro,485.85,323.3,28,Metro Wholesale,Y,2021-01-11
+P00547,HOM-FRE-00547,FreshNest LED Desk Lamp,Home & Kitchen,FreshNest,1009.15,568.03,5,Northstar Traders,N,2023-07-06
+P00548,GRO-APE-00548,Apex Olive Oil 1L,Grocery,Apex,1170.16,817.62,5,Global Distributors,Y,2024-01-25
+P00549,ELE-TEC-00549,TechPro Laptop Stand,Electronics,TechPro,1188.72,682.9,5,Bharat Supply Co,Y,2022-04-06
+P00550,FAS-PRI-00550,PrimeWorks Men Cotton Shirt,Fashion,PrimeWorks,-1074.84,730.53,5,Global Distributors,Y,2021-01-16
+P00551,FAS-GRE-00551,GreenLeaf Running Shoes,Fashion,GreenLeaf,3149.21,1959.84,18,Metro Wholesale,Y,2023-09-19
+P00552,ELE-APE-00552,Apex USB-C Hub,Electronics,Apex,2060.17,1314.15,5,Bharat Supply Co,Y,2021-09-12
+P00553,SPO-FRE-00553,FreshNest Yoga Mat,Sports,FreshNest,961.8,707.62,12,Pacific Imports,Y,2025-01-06
+P00554,FAS-GRE-00554,GreenLeaf Backpack 30L,Fashion,GreenLeaf,1384.74,988.61,12,Metro Wholesale,Y,2021-09-16
+P00555,ELE-URB-00555,UrbanCart Wireless Mouse,Electronics,UrbanCart,924.07,574.03,5,Northstar Traders,Y,2025-02-05
+P00556,HOM-TEC-00556,TechPro Air Fryer,Home & Kitchen,TechPro,7563.15,4774.43,28,Bharat Supply Co,N,2022-11-14
+P00557,HOM-PRI-00557,PrimeWorks Air Fryer,Home & Kitchen,PrimeWorks,7316.08,4635.46,28,Pacific Imports,Y,2024-12-10
+P00558,FAS-NOV-00558,Nova Running Shoes,Fashion,Nova,3367.52,2244.0,5,Pacific Imports,Y,2022-09-29
+P00559,HOM-NOV-00559,Nova Bedsheet Cotton,Home & Kitchen,Nova,1448.43,849.34,5,Metro Wholesale,N,2025-03-08
+P00560,GRO-HOM-00560,HomeEase Organic Honey,Grocery,HomeEase,603.82,396.66,5,Northstar Traders,N,2022-03-28
+P00561,FAS-SWI-00561,SwiftRun Backpack 30L,Fashion,SwiftRun,1495.15,1077.25,28,Global Distributors,Y,2025-04-08
+P00562,BOO-PRI-00562,PrimeWorks Data Engineering Handbook,Books,PrimeWorks,1506.43,850.16,28,Northstar Traders,Y,2020-08-09
+P00563,BEA-TEC-00563,TechPro Hair Serum,Beauty,TechPro,379.38,224.03,18,Northstar Traders,Y,2023-05-06
+P00564,GRO-FRE-00564,FreshNest Breakfast Cereal,Grocery,FreshNest,446.03,271.93,5,Northstar Traders,Y,2023-05-01
+P00565,GRO-SWI-00565,SwiftRun Almonds 500g,Grocery,SwiftRun,690.67,504.39,28,Bharat Supply Co,N,2020-02-10
+P00566,HOM-PRI-00566,PrimeWorks Air Fryer,Home & Kitchen,PrimeWorks,7675.14,4792.81,18,Global Distributors,Y,2025-02-21
+P00567,FAS-GRE-00567,GreenLeaf Men Cotton Shirt,Fashion,GreenLeaf,954.17,683.31,12,Northstar Traders,Y,2020-05-29
+P00568,GRO-HOM-00568,HomeEase Organic Honey,Grocery,HomeEase,578.72,398.28,12,Metro Wholesale,Y,2024-02-25
+P00569,FAS-NOV-00569,Nova Backpack 30L,Fashion,Nova,1806.43,1263.15,28,Bharat Supply Co,Y,2024-10-10
+P00570,ELE-SWI-00570,SwiftRun USB-C Hub,Electronics,SwiftRun,1939.55,1145.66,28,Northstar Traders,Y,2024-11-26
+P00571,BEA-NOV-00571,Nova Face Wash,Beauty,Nova,350.54,201.17,28,Global Distributors,N,2021-02-12
+P00572,BEA-TEC-00572,TechPro Face Wash,Beauty,TechPro,356.01,213.15,28,Global Distributors,Y,2025-04-07
+P00573,BEA-GRE-00573,GreenLeaf Hair Serum,Beauty,GreenLeaf,484.07,338.03,28,Global Distributors,Y,2022-07-06
+P00574,SPO-TEC-00574,TechPro Football,Sports,TechPro,1184.21,867.89,12,Global Distributors,N,2020-05-13
+P00575,FAS-PRI-00575,PrimeWorks Backpack 30L,Fashion,PrimeWorks,1562.2,920.44,28,Metro Wholesale,N,2022-02-28
+P00576,ELE-URB-00576,UrbanCart Power Bank 20000mAh,Electronics,UrbanCart,2450.29,1567.68,28,Bharat Supply Co,Y,2024-11-26
+P00577,HOM-NOV-00577,Nova Dinner Set,Home & Kitchen,Nova,2755.34,2012.46,18,Pacific Imports,Y,2023-08-13
+P00578,GRO-PRI-00578,PrimeWorks Basmati Rice 5kg,Grocery,PrimeWorks,728.06,503.94,5,Pacific Imports,N,2020-04-13
+P00579,GRO-BLU-00579,BluePeak Organic Honey,Grocery,BluePeak,461.39,323.01,12,Pacific Imports,Y,2024-03-28
+P00580,FAS-URB-00580,UrbanCart Men Cotton Shirt,Fashion,UrbanCart,1099.87,766.42,5,Global Distributors,N,2021-05-17
+P00581,HOM-NOV-00581,Nova Air Fryer,Home & Kitchen,Nova,7332.84,4642.58,28,Global Distributors,N,2020-03-30
+P00582,SPO-FRE-00582,FreshNest Yoga Mat,,FreshNest,898.82,571.93,28,Metro Wholesale,Y,2023-05-08
+P00583,BOO-APE-00583,Apex Business Strategy Casebook,Books,Apex,716.61,450.64,5,Metro Wholesale,Y,2021-05-13
+P00584,ELE-FRE-00584,FreshNest USB-C Hub,Electronics,FreshNest,2272.63,1309.95,18,Metro Wholesale,Y,2020-12-07
+P00585,FAS-SWI-00585,SwiftRun Running Shoes,Fashion,SwiftRun,2788.16,1592.47,18,Northstar Traders,N,2024-11-21
+P00586,HOM-URB-00586,UrbanCart Water Bottle Steel,Home & Kitchen,UrbanCart,556.56,414.41,28,Global Distributors,Y,2021-11-09
+P00587,GRO-SWI-00587,SwiftRun Almonds 500g,Grocery,SwiftRun,661.65,477.6,5,Pacific Imports,N,2024-10-24
+P00588,SPO-SWI-00588,SwiftRun Yoga Mat,Sports,SwiftRun,732.6,408.62,28,Bharat Supply Co,Y,2024-06-19
+P00589,FAS-URB-00589,UrbanCart Leather Wallet,,UrbanCart,892.79,505.95,18,Metro Wholesale,Y,2021-05-15
+P00590,SPO-FRE-00590,FreshNest Football,Sports,FreshNest,1035.11,758.64,5,Northstar Traders,Y,2022-05-19
+P00591,FAS-PRI-00591,PrimeWorks Sports T-shirt,Fashion,PrimeWorks,858.73,631.77,28,Northstar Traders,Y,2023-08-04
+P00592,GRO-APE-00592,Apex Almonds 500g,Grocery,Apex,808.72,523.15,12,Pacific Imports,Y,2024-04-17
+P00593,ELE-SWI-00593,SwiftRun Wireless Mouse,Electronics,SwiftRun,770.03,572.58,5,Bharat Supply Co,Y,2020-10-11
+P00594,GRO-TEC-00594,TechPro Organic Honey,Grocery,TechPro,478.97,346.46,18,Northstar Traders,Y,2024-05-30
+P00595,GRO-NOV-00595,Nova Organic Honey,Grocery,Nova,592.43,453.61,12,Global Distributors,Y,2021-07-22
+P00596,SPO-FRE-00596,FreshNest Badminton Racket,Sports,FreshNest,1376.2,817.42,18,Pacific Imports,Y,2020-08-03
+P00597,ELE-TEC-00597,TechPro Wireless Mouse,Electronics,TechPro,703.13,439.98,28,Bharat Supply Co,Y,2021-07-18
+P00598,FAS-PRI-00598,PrimeWorks Women Kurti,Fashion,PrimeWorks,1444.94,1115.7,28,Global Distributors,Y,2025-05-11
+P00599,FAS-SWI-00599,SwiftRun Sports T-shirt,Fashion,SwiftRun,657.29,401.39,5,Bharat Supply Co,Y,2022-04-23
+P00600,GRO-FRE-00600,FreshNest Basmati Rice 5kg,Grocery,FreshNest,683.35,409.81,12,Northstar Traders,Y,2023-10-26
+P00601,BOO-BLU-00601,BluePeak Business Strategy Casebook,Books,BluePeak,922.2,573.35,12,Pacific Imports,Y,2021-06-16
+P00602,GRO-HOM-00602,HomeEase Breakfast Cereal,Grocery,HomeEase,371.55,238.55,28,Metro Wholesale,Y,2021-02-22
+P00603,SPO-FRE-00603,FreshNest Yoga Mat,Sports,FreshNest,684.45,449.0,28,Pacific Imports,N,2023-12-12
+P00604,ELE-GRE-00604,GreenLeaf Webcam HD,Electronics,GreenLeaf,2055.68,1318.29,18,Global Distributors,N,2023-01-21
+P00605,GRO-GRE-00605,GreenLeaf Organic Honey,Grocery,GreenLeaf,462.86,274.74,18,Pacific Imports,N,2025-10-25
+P00606,SPO-NOV-00606,Nova Cricket Bat,Sports,Nova,2343.64,1317.65,18,Metro Wholesale,Y,2025-12-19
+P00607,BOO-GRE-00607,GreenLeaf Cloud Architecture Basics,Books,GreenLeaf,1106.86,664.75,18,Northstar Traders,Y,2021-12-01
+P00608,FAS-PRI-00608,PrimeWorks Sports T-shirt,Fashion,PrimeWorks,674.67,371.55,28,Bharat Supply Co,Y,2021-11-28
+P00609,HOM-SWI-00609,SwiftRun Water Bottle Steel,Home & Kitchen,SwiftRun,543.13,300.31,18,Global Distributors,Y,2022-12-16
+P00610,BEA-PRI-00610,PrimeWorks Face Wash,Beauty,PrimeWorks,,195.24,12,Northstar Traders,Y,2020-07-04
+P00611,FAS-HOM-00611,HomeEase Women Kurti,Fashion,HomeEase,1260.46,912.13,5,Bharat Supply Co,Y,2025-01-27
+P00612,BOO-SWI-00612,SwiftRun SQL Interview Guide,Books,SwiftRun,665.04,435.94,18,Bharat Supply Co,N,2021-04-06
+P00613,SPO-URB-00613,UrbanCart Yoga Mat,Sports,UrbanCart,991.92,740.91,12,Bharat Supply Co,N,2020-05-06
+P00614,GRO-FRE-00614,FreshNest Green Tea Pack,Grocery,FreshNest,400.56,238.17,5,Bharat Supply Co,N,2025-11-28
+P00615,FAS-GRE-00615,GreenLeaf Running Shoes,Fashion,GreenLeaf,3255.89,2498.61,12,Global Distributors,Y,2021-05-18
+P00616,BEA-TEC-00616,TechPro Sunscreen SPF50,Beauty,TechPro,535.55,295.58,12,Northstar Traders,Y,2025-11-12
+P00617,SPO-TEC-00617,TechPro Cricket Bat,Sports,TechPro,2610.78,1474.73,28,Global Distributors,Y,2023-03-05
+P00618,GRO-APE-00618,Apex Green Tea Pack,Grocery,Apex,,250.37,18,Metro Wholesale,Y,2023-03-06
+P00619,BEA-URB-00619,UrbanCart Perfume 100ml,Beauty,UrbanCart,1599.68,1142.23,12,Northstar Traders,Y,2023-04-06
+P00620,FAS-GRE-00620,GreenLeaf Women Kurti,Fashion,GreenLeaf,1221.81,943.71,18,Bharat Supply Co,Y,2021-12-10
+P00621,FAS-URB-00621,UrbanCart Backpack 30L,Fashion,UrbanCart,1796.2,1070.33,12,Bharat Supply Co,Y,2020-12-16
+P00622,GRO-URB-00622,UrbanCart Breakfast Cereal,Grocery,UrbanCart,399.15,299.95,12,Pacific Imports,N,2023-07-07
+P00623,FAS-BLU-00623,BluePeak Leather Wallet,Fashion,BluePeak,917.94,593.65,5,Pacific Imports,Y,2024-09-20
+P00624,FAS-PRI-00624,PrimeWorks Women Kurti,Fashion,PrimeWorks,-1264.8,732.66,18,Global Distributors,N,2021-05-30
+P00625,BEA-SWI-00625,SwiftRun Perfume 100ml,Beauty,SwiftRun,1540.2,877.1,5,Bharat Supply Co,Y,2023-04-05
+P00626,BEA-NOV-00626,Nova Face Wash,Beauty,Nova,342.71,241.65,5,Metro Wholesale,Y,2025-07-21
+P00627,SPO-TEC-00627,TechPro Cricket Bat,Sports,TechPro,2752.14,1968.89,28,Pacific Imports,Y,2021-04-14
+P00628,ELE-FRE-00628,FreshNest Bluetooth Headphones,Electronics,FreshNest,2328.36,1534.3,28,Northstar Traders,Y,2021-05-13
+P00629,HOM-FRE-00629,FreshNest Bedsheet Cotton,Home & Kitchen,FreshNest,1778.85,1202.05,28,Pacific Imports,Y,2024-11-05
+P00630,HOM-FRE-00630,FreshNest Bedsheet Cotton,Home & Kitchen,FreshNest,1376.55,991.92,28,Northstar Traders,Y,2023-03-31
+P00631,GRO-TEC-00631,TechPro Green Tea Pack,Grocery,TechPro,351.26,249.56,28,Northstar Traders,Y,2020-04-24
+P00632,GRO-PRI-00632,PrimeWorks Basmati Rice 5kg,Grocery,PrimeWorks,775.91,541.88,28,Global Distributors,Y,2021-07-24
+P00633,FAS-URB-00633,UrbanCart Men Cotton Shirt,Fashion,UrbanCart,992.11,740.95,18,Pacific Imports,N,2025-10-02
+P00634,FAS-PRI-00634,PrimeWorks Sports T-shirt,Fashion,PrimeWorks,689.02,492.3,18,Bharat Supply Co,N,2020-10-06
+P00635,GRO-PRI-00635,PrimeWorks Almonds 500g,Grocery,PrimeWorks,722.72,493.25,18,Metro Wholesale,Y,2023-11-26
+P00636,ELE-APE-00636,Apex Wireless Mouse,Electronics,Apex,951.46,558.14,5,Northstar Traders,N,2023-08-18
+P00637,BEA-NOV-00637,Nova Moisturizer,Beauty,Nova,603.75,356.22,28,Global Distributors,Y,2022-10-22
+P00638,ELE-BLU-00638,BluePeak Smart Watch,Electronics,BluePeak,5461.97,4060.19,18,Global Distributors,N,2024-03-26
+P00639,BOO-FRE-00639,FreshNest Python for Analytics,Books,FreshNest,854.95,556.25,12,Metro Wholesale,N,2025-12-04
+P00640,BOO-NOV-00640,Nova Data Engineering Handbook,Books,Nova,1209.91,890.86,18,Northstar Traders,Y,2023-10-27
+P00641,SPO-SWI-00641,SwiftRun Dumbbell Set,Sports,SwiftRun,2777.24,1660.01,18,Bharat Supply Co,Y,2020-10-02
+P00642,BEA-PRI-00642,PrimeWorks Face Wash,Beauty,PrimeWorks,263.5,192.34,5,Northstar Traders,Y,2020-07-29
+P00643,HOM-TEC-00643,TechPro Bedsheet Cotton,Home & Kitchen,TechPro,1827.15,1110.57,5,Metro Wholesale,Y,2020-11-02
+P00644,BOO-HOM-00644,HomeEase Business Strategy Casebook,Books,HomeEase,778.94,539.25,5,Pacific Imports,N,2022-12-13
+P00645,GRO-FRE-00645,FreshNest Green Tea Pack,Grocery,FreshNest,343.35,249.23,18,Global Distributors,Y,2025-07-14
+P00646,BOO-BLU-00646,BluePeak Data Engineering Handbook,Books,BluePeak,1613.91,1240.26,5,Pacific Imports,N,2021-06-14
+P00647,ELE-HOM-00647,HomeEase Smart Watch,Electronics,HomeEase,4699.55,2963.34,12,Global Distributors,Y,2020-04-17
+P00648,BOO-GRE-00648,GreenLeaf Business Strategy Casebook,Books,GreenLeaf,897.1,645.66,5,Northstar Traders,N,2021-05-27
+P00649,HOM-SWI-00649,SwiftRun Air Fryer,Home & Kitchen,SwiftRun,6279.48,4342.89,18,Metro Wholesale,Y,2024-11-23
+P00650,ELE-FRE-00650,FreshNest Wireless Mouse,Electronics,FreshNest,811.17,586.55,5,Global Distributors,Y,2020-08-20
+P00005,SPO-NOV-00005,Nova Yoga Mat,Sports,Nova,892.69,656.91,12,Pacific Imports,Y,2024-05-04
+P00045,GRO-PRI-00045,PrimeWorks Almonds 500g,Grocery,PrimeWorks,667.98,498.99,5,Northstar Traders,Y,2021-02-24
+P00145,ELE-PRI-00145,PrimeWorks Mechanical Keyboard,Electronics,PrimeWorks,2996.97,1741.45,5,Bharat Supply Co,Y,2022-05-29
